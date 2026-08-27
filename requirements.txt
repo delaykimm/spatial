@@ -1,0 +1,7 @@
+torch>=2.13
+transformers>=5.13
+numpy>=2.5
+pandas>=3.0
+matplotlib>=3.11
+Pillow>=12.3
+PyYAML>=6.0

@@ -1,0 +1,3254 @@
+{
+  "horiz_then_z": [
+    {
+      "image_path": "horiz_then_z_000.png",
+      "A": "blue cylinder",
+      "B": "red cube",
+      "C": "purple sphere",
+      "purity_AB": 0.999594907068325,
+      "purity_BC": 0.9983456622456828,
+      "diag_len": 2.487408492250221
+    },
+    {
+      "image_path": "horiz_then_z_001.png",
+      "A": "blue sphere",
+      "B": "green cylinder",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9952545846386897,
+      "purity_BC": 0.996440671656696,
+      "diag_len": 2.3853517414572107
+    },
+    {
+      "image_path": "horiz_then_z_002.png",
+      "A": "purple cone",
+      "B": "green sphere",
+      "C": "orange cube",
+      "purity_AB": 0.9972038325313686,
+      "purity_BC": 0.9963767672542434,
+      "diag_len": 2.453080444628027
+    },
+    {
+      "image_path": "horiz_then_z_003.png",
+      "A": "blue cylinder",
+      "B": "yellow cone",
+      "C": "yellow sphere",
+      "purity_AB": 0.9981169825620548,
+      "purity_BC": 0.9995180244267856,
+      "diag_len": 2.563536735761616
+    },
+    {
+      "image_path": "horiz_then_z_004.png",
+      "A": "green sphere",
+      "B": "purple cone",
+      "C": "green cube",
+      "purity_AB": 0.9992611811593084,
+      "purity_BC": 0.9975061828328268,
+      "diag_len": 2.424945471112969
+    },
+    {
+      "image_path": "horiz_then_z_005.png",
+      "A": "yellow cone",
+      "B": "red cube",
+      "C": "orange cylinder",
+      "purity_AB": 0.9906876553561134,
+      "purity_BC": 0.9993703207149114,
+      "diag_len": 2.432047731926111
+    },
+    {
+      "image_path": "horiz_then_z_006.png",
+      "A": "red cube",
+      "B": "green sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9992011499298799,
+      "purity_BC": 0.9931694149443796,
+      "diag_len": 2.8092202513888527
+    },
+    {
+      "image_path": "horiz_then_z_007.png",
+      "A": "red cone",
+      "B": "orange cone",
+      "C": "blue cube",
+      "purity_AB": 0.9995152617380799,
+      "purity_BC": 0.9999999986137204,
+      "diag_len": 2.3841000886219077
+    },
+    {
+      "image_path": "horiz_then_z_008.png",
+      "A": "green cube",
+      "B": "orange sphere",
+      "C": "red cube",
+      "purity_AB": 0.9965059744815887,
+      "purity_BC": 0.9921548635446791,
+      "diag_len": 1.985138127573596
+    },
+    {
+      "image_path": "horiz_then_z_009.png",
+      "A": "green cone",
+      "B": "orange sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.9951474065428655,
+      "purity_BC": 0.9975365990421693,
+      "diag_len": 2.225637935271999
+    },
+    {
+      "image_path": "horiz_then_z_010.png",
+      "A": "green sphere",
+      "B": "red sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.9891315103179527,
+      "purity_BC": 0.9969149425035714,
+      "diag_len": 1.9124160735225937
+    },
+    {
+      "image_path": "horiz_then_z_011.png",
+      "A": "red cone",
+      "B": "purple cube",
+      "C": "red sphere",
+      "purity_AB": 0.9942224882735676,
+      "purity_BC": 0.9941579989480896,
+      "diag_len": 2.2921922884059005
+    },
+    {
+      "image_path": "horiz_then_z_012.png",
+      "A": "orange cylinder",
+      "B": "green cylinder",
+      "C": "blue cube",
+      "purity_AB": 0.9922810615937956,
+      "purity_BC": 0.9995640080293305,
+      "diag_len": 2.2296722105901456
+    },
+    {
+      "image_path": "horiz_then_z_013.png",
+      "A": "yellow cylinder",
+      "B": "orange cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9936458266283346,
+      "purity_BC": 0.9974204440755856,
+      "diag_len": 2.1923405227807904
+    },
+    {
+      "image_path": "horiz_then_z_014.png",
+      "A": "red sphere",
+      "B": "red cube",
+      "C": "red cylinder",
+      "purity_AB": 0.9992986425231187,
+      "purity_BC": 0.9997172349765366,
+      "diag_len": 2.3431587899702317
+    },
+    {
+      "image_path": "horiz_then_z_015.png",
+      "A": "yellow cube",
+      "B": "green sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9998193275001397,
+      "purity_BC": 0.9925626634373451,
+      "diag_len": 2.169031302967975
+    },
+    {
+      "image_path": "horiz_then_z_016.png",
+      "A": "blue cone",
+      "B": "yellow sphere",
+      "C": "red cone",
+      "purity_AB": 0.9932621955974313,
+      "purity_BC": 0.9990910637339034,
+      "diag_len": 2.683412248651134
+    },
+    {
+      "image_path": "horiz_then_z_017.png",
+      "A": "purple cylinder",
+      "B": "red sphere",
+      "C": "red cube",
+      "purity_AB": 0.9973647353970152,
+      "purity_BC": 0.9997333827004694,
+      "diag_len": 1.9883401752143737
+    },
+    {
+      "image_path": "horiz_then_z_018.png",
+      "A": "purple cone",
+      "B": "orange cone",
+      "C": "red cube",
+      "purity_AB": 0.9994822691781172,
+      "purity_BC": 0.9994696820242353,
+      "diag_len": 2.1711844667426874
+    },
+    {
+      "image_path": "horiz_then_z_019.png",
+      "A": "orange sphere",
+      "B": "yellow sphere",
+      "C": "green sphere",
+      "purity_AB": 0.9954910976295699,
+      "purity_BC": 0.9998900581672227,
+      "diag_len": 1.9114905753774327
+    },
+    {
+      "image_path": "horiz_then_z_020.png",
+      "A": "purple cone",
+      "B": "purple cube",
+      "C": "red cylinder",
+      "purity_AB": 0.9956347616226728,
+      "purity_BC": 0.9913026112331135,
+      "diag_len": 2.244553093637617
+    },
+    {
+      "image_path": "horiz_then_z_021.png",
+      "A": "green cylinder",
+      "B": "green sphere",
+      "C": "blue cone",
+      "purity_AB": 0.9911209298389003,
+      "purity_BC": 0.9912805278745297,
+      "diag_len": 2.0835335191831184
+    },
+    {
+      "image_path": "horiz_then_z_022.png",
+      "A": "blue cylinder",
+      "B": "yellow sphere",
+      "C": "green sphere",
+      "purity_AB": 0.9846477277166867,
+      "purity_BC": 0.9998648899778539,
+      "diag_len": 2.233070419796934
+    },
+    {
+      "image_path": "horiz_then_z_023.png",
+      "A": "purple cylinder",
+      "B": "green sphere",
+      "C": "yellow sphere",
+      "purity_AB": 0.9955830610496132,
+      "purity_BC": 0.998836338213566,
+      "diag_len": 2.6531905170877703
+    },
+    {
+      "image_path": "horiz_then_z_024.png",
+      "A": "orange sphere",
+      "B": "blue cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9958785821746424,
+      "purity_BC": 0.9978038303826094,
+      "diag_len": 2.304020257638336
+    },
+    {
+      "image_path": "horiz_then_z_025.png",
+      "A": "orange sphere",
+      "B": "blue cylinder",
+      "C": "yellow cone",
+      "purity_AB": 0.9982219362650223,
+      "purity_BC": 0.999966288748564,
+      "diag_len": 2.1539121109109325
+    },
+    {
+      "image_path": "horiz_then_z_026.png",
+      "A": "red cylinder",
+      "B": "red sphere",
+      "C": "orange cube",
+      "purity_AB": 0.9999987892244984,
+      "purity_BC": 0.99994454873763,
+      "diag_len": 2.2843684742827035
+    },
+    {
+      "image_path": "horiz_then_z_027.png",
+      "A": "orange sphere",
+      "B": "blue cone",
+      "C": "blue cube",
+      "purity_AB": 0.9999456684656096,
+      "purity_BC": 0.9942369411035981,
+      "diag_len": 2.278377628320196
+    },
+    {
+      "image_path": "horiz_then_z_028.png",
+      "A": "blue cube",
+      "B": "red cube",
+      "C": "purple sphere",
+      "purity_AB": 0.993928966827403,
+      "purity_BC": 0.9926609281406,
+      "diag_len": 2.2433393161853785
+    },
+    {
+      "image_path": "horiz_then_z_029.png",
+      "A": "yellow cube",
+      "B": "orange cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9999800666861823,
+      "purity_BC": 0.9889950144871825,
+      "diag_len": 1.8837243946323183
+    },
+    {
+      "image_path": "horiz_then_z_030.png",
+      "A": "orange sphere",
+      "B": "green sphere",
+      "C": "orange cube",
+      "purity_AB": 0.9911239006939924,
+      "purity_BC": 0.9962712914393007,
+      "diag_len": 2.16322012170063
+    },
+    {
+      "image_path": "horiz_then_z_031.png",
+      "A": "purple sphere",
+      "B": "orange cube",
+      "C": "red cylinder",
+      "purity_AB": 0.99218266011598,
+      "purity_BC": 0.9961763180459303,
+      "diag_len": 2.349405421144087
+    },
+    {
+      "image_path": "horiz_then_z_032.png",
+      "A": "purple cone",
+      "B": "green sphere",
+      "C": "blue cylinder",
+      "purity_AB": 0.9902766129608555,
+      "purity_BC": 0.999811552735768,
+      "diag_len": 1.8474353421906011
+    },
+    {
+      "image_path": "horiz_then_z_033.png",
+      "A": "orange sphere",
+      "B": "yellow cone",
+      "C": "blue cone",
+      "purity_AB": 0.9999317170983573,
+      "purity_BC": 0.9999464299690558,
+      "diag_len": 2.4617119035763357
+    },
+    {
+      "image_path": "horiz_then_z_034.png",
+      "A": "green cone",
+      "B": "blue cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9924957278267256,
+      "purity_BC": 0.99875909753415,
+      "diag_len": 2.5819118599393263
+    },
+    {
+      "image_path": "horiz_then_z_035.png",
+      "A": "yellow cube",
+      "B": "green cone",
+      "C": "blue cube",
+      "purity_AB": 0.9998602425865445,
+      "purity_BC": 0.9992901209232306,
+      "diag_len": 2.504225337284063
+    },
+    {
+      "image_path": "horiz_then_z_036.png",
+      "A": "purple cylinder",
+      "B": "red cube",
+      "C": "blue cone",
+      "purity_AB": 0.9979293143187264,
+      "purity_BC": 0.9965667532701272,
+      "diag_len": 2.030502788383814
+    },
+    {
+      "image_path": "horiz_then_z_037.png",
+      "A": "purple cylinder",
+      "B": "blue sphere",
+      "C": "orange cylinder",
+      "purity_AB": 0.9938875917594618,
+      "purity_BC": 0.9972334396401781,
+      "diag_len": 2.4012364722204214
+    },
+    {
+      "image_path": "horiz_then_z_038.png",
+      "A": "orange cone",
+      "B": "yellow sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.9957207535253112,
+      "purity_BC": 0.9995560732487522,
+      "diag_len": 2.3803980300863743
+    },
+    {
+      "image_path": "horiz_then_z_039.png",
+      "A": "purple sphere",
+      "B": "green sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.994670220909922,
+      "purity_BC": 0.9959161100136271,
+      "diag_len": 2.6598845190118428
+    },
+    {
+      "image_path": "horiz_then_z_040.png",
+      "A": "red cone",
+      "B": "blue cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.9919849855769209,
+      "purity_BC": 0.9973773960645665,
+      "diag_len": 2.250120388290613
+    },
+    {
+      "image_path": "horiz_then_z_041.png",
+      "A": "purple cube",
+      "B": "orange cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9954100367672496,
+      "purity_BC": 0.9996792002013324,
+      "diag_len": 2.4267870137626164
+    },
+    {
+      "image_path": "horiz_then_z_042.png",
+      "A": "purple cylinder",
+      "B": "red cylinder",
+      "C": "orange sphere",
+      "purity_AB": 0.999438982674453,
+      "purity_BC": 0.9997885216459271,
+      "diag_len": 2.466853993010734
+    },
+    {
+      "image_path": "horiz_then_z_043.png",
+      "A": "blue cube",
+      "B": "red cube",
+      "C": "red cone",
+      "purity_AB": 0.9930370092722792,
+      "purity_BC": 0.9998689281914613,
+      "diag_len": 2.035664497885629
+    },
+    {
+      "image_path": "horiz_then_z_044.png",
+      "A": "blue cone",
+      "B": "purple cylinder",
+      "C": "red cylinder",
+      "purity_AB": 0.9965565789192449,
+      "purity_BC": 0.9956765330022462,
+      "diag_len": 2.1625004296794637
+    },
+    {
+      "image_path": "horiz_then_z_045.png",
+      "A": "yellow cone",
+      "B": "blue sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9989868126146109,
+      "purity_BC": 0.9927872158043304,
+      "diag_len": 2.1512553186621926
+    },
+    {
+      "image_path": "horiz_then_z_046.png",
+      "A": "red sphere",
+      "B": "red cylinder",
+      "C": "green cylinder",
+      "purity_AB": 0.9994961675800893,
+      "purity_BC": 0.9993669555992,
+      "diag_len": 2.1182789112451763
+    },
+    {
+      "image_path": "horiz_then_z_047.png",
+      "A": "orange sphere",
+      "B": "yellow cone",
+      "C": "red cone",
+      "purity_AB": 0.9964211006561122,
+      "purity_BC": 0.9998104768438807,
+      "diag_len": 2.412888376337481
+    },
+    {
+      "image_path": "horiz_then_z_048.png",
+      "A": "red cone",
+      "B": "red cylinder",
+      "C": "green sphere",
+      "purity_AB": 0.9910521779874407,
+      "purity_BC": 0.9964536423116723,
+      "diag_len": 1.791761185536031
+    },
+    {
+      "image_path": "horiz_then_z_049.png",
+      "A": "red cone",
+      "B": "red sphere",
+      "C": "blue sphere",
+      "purity_AB": 0.9937222768730101,
+      "purity_BC": 0.9999220402898672,
+      "diag_len": 1.8804463291012048
+    },
+    {
+      "image_path": "horiz_then_z_050.png",
+      "A": "orange cube",
+      "B": "purple cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9853549693138643,
+      "purity_BC": 0.998128406898696,
+      "diag_len": 2.1330138132573033
+    },
+    {
+      "image_path": "horiz_then_z_051.png",
+      "A": "green sphere",
+      "B": "red cylinder",
+      "C": "blue cylinder",
+      "purity_AB": 0.9987329315062925,
+      "purity_BC": 0.999673927975997,
+      "diag_len": 2.915495675283545
+    },
+    {
+      "image_path": "horiz_then_z_052.png",
+      "A": "red cylinder",
+      "B": "blue cylinder",
+      "C": "yellow sphere",
+      "purity_AB": 0.9911901065512029,
+      "purity_BC": 0.9878323631612587,
+      "diag_len": 2.027106567372975
+    },
+    {
+      "image_path": "horiz_then_z_053.png",
+      "A": "green cone",
+      "B": "green cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9989446383604871,
+      "purity_BC": 0.9991902670551195,
+      "diag_len": 2.2670681744885806
+    },
+    {
+      "image_path": "horiz_then_z_054.png",
+      "A": "red cube",
+      "B": "purple cube",
+      "C": "purple cone",
+      "purity_AB": 0.9962138456645644,
+      "purity_BC": 0.9952284583188462,
+      "diag_len": 2.403547636427621
+    },
+    {
+      "image_path": "horiz_then_z_055.png",
+      "A": "red cylinder",
+      "B": "green sphere",
+      "C": "blue cube",
+      "purity_AB": 0.988243457781739,
+      "purity_BC": 0.9989008267955577,
+      "diag_len": 2.435105368827716
+    },
+    {
+      "image_path": "horiz_then_z_056.png",
+      "A": "red cylinder",
+      "B": "orange cone",
+      "C": "purple cylinder",
+      "purity_AB": 0.9962834629267219,
+      "purity_BC": 0.9993514767508601,
+      "diag_len": 2.0044446945396905
+    },
+    {
+      "image_path": "horiz_then_z_057.png",
+      "A": "blue cylinder",
+      "B": "red sphere",
+      "C": "yellow sphere",
+      "purity_AB": 0.9988450910286825,
+      "purity_BC": 0.985830103612673,
+      "diag_len": 1.7907169553453317
+    },
+    {
+      "image_path": "horiz_then_z_058.png",
+      "A": "purple cube",
+      "B": "orange cone",
+      "C": "yellow sphere",
+      "purity_AB": 0.9999951735060325,
+      "purity_BC": 0.9989440118487216,
+      "diag_len": 2.6437152879299375
+    },
+    {
+      "image_path": "horiz_then_z_059.png",
+      "A": "green cube",
+      "B": "orange cone",
+      "C": "yellow cone",
+      "purity_AB": 0.9999679923119607,
+      "purity_BC": 0.9958069916964111,
+      "diag_len": 2.3502000649873955
+    }
+  ],
+  "z_then_horiz": [
+    {
+      "image_path": "z_then_horiz_000.png",
+      "A": "purple sphere",
+      "B": "yellow cylinder",
+      "C": "purple cube",
+      "purity_AB": 0.9996713968897425,
+      "purity_BC": 0.999491126756043,
+      "diag_len": 2.0183137706741525
+    },
+    {
+      "image_path": "z_then_horiz_001.png",
+      "A": "purple cylinder",
+      "B": "red cone",
+      "C": "purple sphere",
+      "purity_AB": 0.9998388495797854,
+      "purity_BC": 0.9982342434101238,
+      "diag_len": 2.389462469697723
+    },
+    {
+      "image_path": "z_then_horiz_002.png",
+      "A": "green sphere",
+      "B": "red cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9969920788633658,
+      "purity_BC": 0.9999515979895015,
+      "diag_len": 2.63149191738657
+    },
+    {
+      "image_path": "z_then_horiz_003.png",
+      "A": "orange cylinder",
+      "B": "purple cube",
+      "C": "yellow cone",
+      "purity_AB": 0.9964324883197043,
+      "purity_BC": 0.9997611494631646,
+      "diag_len": 2.3882848743978684
+    },
+    {
+      "image_path": "z_then_horiz_004.png",
+      "A": "orange cube",
+      "B": "green sphere",
+      "C": "red cube",
+      "purity_AB": 0.9999219213887014,
+      "purity_BC": 0.99695764984817,
+      "diag_len": 2.2000609227043086
+    },
+    {
+      "image_path": "z_then_horiz_005.png",
+      "A": "purple cube",
+      "B": "red cylinder",
+      "C": "blue cylinder",
+      "purity_AB": 0.9998463441891977,
+      "purity_BC": 0.9963953978946652,
+      "diag_len": 2.4126052227088883
+    },
+    {
+      "image_path": "z_then_horiz_006.png",
+      "A": "purple cone",
+      "B": "green cylinder",
+      "C": "orange cylinder",
+      "purity_AB": 0.9965414067373483,
+      "purity_BC": 0.9987902879703946,
+      "diag_len": 2.4784651497104
+    },
+    {
+      "image_path": "z_then_horiz_007.png",
+      "A": "yellow cylinder",
+      "B": "purple cylinder",
+      "C": "blue cylinder",
+      "purity_AB": 0.98998674347108,
+      "purity_BC": 0.9999098146832734,
+      "diag_len": 2.4049319404422755
+    },
+    {
+      "image_path": "z_then_horiz_008.png",
+      "A": "purple cube",
+      "B": "red cube",
+      "C": "red sphere",
+      "purity_AB": 0.997536390873104,
+      "purity_BC": 0.9993893548162736,
+      "diag_len": 2.265031338857581
+    },
+    {
+      "image_path": "z_then_horiz_009.png",
+      "A": "orange cone",
+      "B": "yellow cube",
+      "C": "green sphere",
+      "purity_AB": 0.9998947461400299,
+      "purity_BC": 0.9942831521946139,
+      "diag_len": 2.190108784592258
+    },
+    {
+      "image_path": "z_then_horiz_010.png",
+      "A": "yellow cube",
+      "B": "purple cube",
+      "C": "green cube",
+      "purity_AB": 0.9933444643384327,
+      "purity_BC": 0.999876441614519,
+      "diag_len": 2.2202137457989375
+    },
+    {
+      "image_path": "z_then_horiz_011.png",
+      "A": "green cube",
+      "B": "purple cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9970555552776712,
+      "purity_BC": 0.9871385306949156,
+      "diag_len": 2.6352705435823314
+    },
+    {
+      "image_path": "z_then_horiz_012.png",
+      "A": "green sphere",
+      "B": "green cone",
+      "C": "red cone",
+      "purity_AB": 0.9998678449716708,
+      "purity_BC": 0.9994056756801686,
+      "diag_len": 2.4075458569820647
+    },
+    {
+      "image_path": "z_then_horiz_013.png",
+      "A": "purple cube",
+      "B": "yellow sphere",
+      "C": "green cone",
+      "purity_AB": 0.9966913297541031,
+      "purity_BC": 0.9935772005920636,
+      "diag_len": 2.466988031750564
+    },
+    {
+      "image_path": "z_then_horiz_014.png",
+      "A": "blue cylinder",
+      "B": "orange sphere",
+      "C": "orange cylinder",
+      "purity_AB": 0.9992387421394241,
+      "purity_BC": 0.9973485900895314,
+      "diag_len": 2.4283168206655508
+    },
+    {
+      "image_path": "z_then_horiz_015.png",
+      "A": "red cylinder",
+      "B": "orange cube",
+      "C": "yellow cube",
+      "purity_AB": 0.9996824484653402,
+      "purity_BC": 0.999061544801802,
+      "diag_len": 2.587872165257907
+    },
+    {
+      "image_path": "z_then_horiz_016.png",
+      "A": "blue cone",
+      "B": "purple cylinder",
+      "C": "orange sphere",
+      "purity_AB": 0.9969004194650861,
+      "purity_BC": 0.999247045008188,
+      "diag_len": 1.8635625509672162
+    },
+    {
+      "image_path": "z_then_horiz_017.png",
+      "A": "blue cylinder",
+      "B": "green cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9963943541102677,
+      "purity_BC": 0.999852906958496,
+      "diag_len": 2.3070651350198736
+    },
+    {
+      "image_path": "z_then_horiz_018.png",
+      "A": "red cone",
+      "B": "green cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9874945125986455,
+      "purity_BC": 0.9969355808656726,
+      "diag_len": 1.7994065321705364
+    },
+    {
+      "image_path": "z_then_horiz_019.png",
+      "A": "red cone",
+      "B": "green cone",
+      "C": "yellow cube",
+      "purity_AB": 0.9949327727373155,
+      "purity_BC": 0.9998693271008595,
+      "diag_len": 2.48213348879965
+    },
+    {
+      "image_path": "z_then_horiz_020.png",
+      "A": "orange sphere",
+      "B": "purple sphere",
+      "C": "purple cylinder",
+      "purity_AB": 0.9946159282123637,
+      "purity_BC": 0.9962784742267035,
+      "diag_len": 2.283771119822542
+    },
+    {
+      "image_path": "z_then_horiz_021.png",
+      "A": "green cylinder",
+      "B": "red cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9988638597706605,
+      "purity_BC": 0.9993787948598032,
+      "diag_len": 2.2295113986007027
+    },
+    {
+      "image_path": "z_then_horiz_022.png",
+      "A": "red cone",
+      "B": "red sphere",
+      "C": "yellow cylinder",
+      "purity_AB": 0.999849381522351,
+      "purity_BC": 0.9999140325652751,
+      "diag_len": 2.337723604883049
+    },
+    {
+      "image_path": "z_then_horiz_023.png",
+      "A": "red cone",
+      "B": "purple cube",
+      "C": "yellow cone",
+      "purity_AB": 0.9999996611784433,
+      "purity_BC": 0.9980886611136768,
+      "diag_len": 2.3393563116010148
+    },
+    {
+      "image_path": "z_then_horiz_024.png",
+      "A": "blue cylinder",
+      "B": "red cube",
+      "C": "yellow cube",
+      "purity_AB": 0.9972471833278744,
+      "purity_BC": 0.9932053980250056,
+      "diag_len": 2.1822230666969182
+    },
+    {
+      "image_path": "z_then_horiz_025.png",
+      "A": "blue cube",
+      "B": "blue cylinder",
+      "C": "green sphere",
+      "purity_AB": 0.9996633336707923,
+      "purity_BC": 0.999999130375238,
+      "diag_len": 1.8523168656806577
+    },
+    {
+      "image_path": "z_then_horiz_026.png",
+      "A": "purple cylinder",
+      "B": "blue cube",
+      "C": "orange cone",
+      "purity_AB": 0.9919214319688988,
+      "purity_BC": 0.9993093533118513,
+      "diag_len": 1.8337683803096523
+    },
+    {
+      "image_path": "z_then_horiz_027.png",
+      "A": "red cube",
+      "B": "purple cylinder",
+      "C": "orange cylinder",
+      "purity_AB": 0.9940324136859763,
+      "purity_BC": 0.9941998831355551,
+      "diag_len": 2.300719207865609
+    },
+    {
+      "image_path": "z_then_horiz_028.png",
+      "A": "yellow sphere",
+      "B": "red cube",
+      "C": "red cone",
+      "purity_AB": 0.9959655989871667,
+      "purity_BC": 0.9998758749916147,
+      "diag_len": 2.301539352705473
+    },
+    {
+      "image_path": "z_then_horiz_029.png",
+      "A": "green sphere",
+      "B": "blue cylinder",
+      "C": "orange cube",
+      "purity_AB": 0.9972562635202479,
+      "purity_BC": 0.9947903465086888,
+      "diag_len": 2.285955045483753
+    },
+    {
+      "image_path": "z_then_horiz_030.png",
+      "A": "red cylinder",
+      "B": "yellow cone",
+      "C": "blue cube",
+      "purity_AB": 0.9997887029773466,
+      "purity_BC": 0.996499939791045,
+      "diag_len": 2.1419450253620735
+    },
+    {
+      "image_path": "z_then_horiz_031.png",
+      "A": "red cube",
+      "B": "orange cylinder",
+      "C": "green cone",
+      "purity_AB": 0.999155440163889,
+      "purity_BC": 0.9992511440966534,
+      "diag_len": 2.1756378430967236
+    },
+    {
+      "image_path": "z_then_horiz_032.png",
+      "A": "orange sphere",
+      "B": "green cone",
+      "C": "orange cube",
+      "purity_AB": 0.9997874392262669,
+      "purity_BC": 0.9996671855133186,
+      "diag_len": 2.083560899668558
+    },
+    {
+      "image_path": "z_then_horiz_033.png",
+      "A": "orange cube",
+      "B": "purple cone",
+      "C": "yellow sphere",
+      "purity_AB": 0.9959980597371249,
+      "purity_BC": 0.9888261479458162,
+      "diag_len": 2.054244661029806
+    },
+    {
+      "image_path": "z_then_horiz_034.png",
+      "A": "red sphere",
+      "B": "blue cone",
+      "C": "green cone",
+      "purity_AB": 0.9940468350519802,
+      "purity_BC": 0.99328504396972,
+      "diag_len": 2.6652455494016625
+    },
+    {
+      "image_path": "z_then_horiz_035.png",
+      "A": "purple cube",
+      "B": "orange cylinder",
+      "C": "blue cube",
+      "purity_AB": 0.9964731768109725,
+      "purity_BC": 0.9999526901328675,
+      "diag_len": 2.2113462002366187
+    },
+    {
+      "image_path": "z_then_horiz_036.png",
+      "A": "orange cylinder",
+      "B": "blue cube",
+      "C": "orange sphere",
+      "purity_AB": 0.9972125108021149,
+      "purity_BC": 0.9999714154615295,
+      "diag_len": 2.5377802340668216
+    },
+    {
+      "image_path": "z_then_horiz_037.png",
+      "A": "red cube",
+      "B": "green cylinder",
+      "C": "red cone",
+      "purity_AB": 0.994154340138755,
+      "purity_BC": 0.9912342887604282,
+      "diag_len": 2.2489842324882354
+    },
+    {
+      "image_path": "z_then_horiz_038.png",
+      "A": "yellow cylinder",
+      "B": "orange cone",
+      "C": "yellow cone",
+      "purity_AB": 0.9990112780411233,
+      "purity_BC": 0.9945996590575511,
+      "diag_len": 2.493760483080708
+    },
+    {
+      "image_path": "z_then_horiz_039.png",
+      "A": "blue cone",
+      "B": "orange sphere",
+      "C": "purple cube",
+      "purity_AB": 0.9997943384621105,
+      "purity_BC": 0.9993042915574734,
+      "diag_len": 2.1314300026898603
+    },
+    {
+      "image_path": "z_then_horiz_040.png",
+      "A": "purple cone",
+      "B": "yellow cone",
+      "C": "purple cube",
+      "purity_AB": 0.996767530866214,
+      "purity_BC": 0.9987345885419352,
+      "diag_len": 2.449654961982375
+    },
+    {
+      "image_path": "z_then_horiz_041.png",
+      "A": "red cube",
+      "B": "red cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9988262774144618,
+      "purity_BC": 0.9901378269836459,
+      "diag_len": 2.3379170272526153
+    },
+    {
+      "image_path": "z_then_horiz_042.png",
+      "A": "red sphere",
+      "B": "orange cube",
+      "C": "blue cube",
+      "purity_AB": 0.9960146469394213,
+      "purity_BC": 0.9958161656233568,
+      "diag_len": 2.2671403878939604
+    },
+    {
+      "image_path": "z_then_horiz_043.png",
+      "A": "green cone",
+      "B": "yellow cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9947615471185487,
+      "purity_BC": 0.9980740661021451,
+      "diag_len": 2.5359976701607816
+    },
+    {
+      "image_path": "z_then_horiz_044.png",
+      "A": "red cylinder",
+      "B": "purple cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9912052224000968,
+      "purity_BC": 0.9966833441794418,
+      "diag_len": 2.594725294902324
+    },
+    {
+      "image_path": "z_then_horiz_045.png",
+      "A": "purple cone",
+      "B": "blue cone",
+      "C": "purple sphere",
+      "purity_AB": 0.9961939667158878,
+      "purity_BC": 0.9932825210606269,
+      "diag_len": 2.015887126572161
+    },
+    {
+      "image_path": "z_then_horiz_046.png",
+      "A": "purple cube",
+      "B": "red cube",
+      "C": "red cylinder",
+      "purity_AB": 0.995339399453261,
+      "purity_BC": 0.9953623683023293,
+      "diag_len": 1.9948266663721166
+    },
+    {
+      "image_path": "z_then_horiz_047.png",
+      "A": "purple cone",
+      "B": "yellow cylinder",
+      "C": "yellow sphere",
+      "purity_AB": 0.9951158641429223,
+      "purity_BC": 0.9999993884169984,
+      "diag_len": 2.538282300856683
+    },
+    {
+      "image_path": "z_then_horiz_048.png",
+      "A": "red cone",
+      "B": "green sphere",
+      "C": "orange sphere",
+      "purity_AB": 0.998581107727973,
+      "purity_BC": 0.9983906337230425,
+      "diag_len": 2.6198073502350137
+    },
+    {
+      "image_path": "z_then_horiz_049.png",
+      "A": "orange sphere",
+      "B": "yellow cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.998600286066311,
+      "purity_BC": 0.9999875042753549,
+      "diag_len": 2.541087484384653
+    },
+    {
+      "image_path": "z_then_horiz_050.png",
+      "A": "purple cone",
+      "B": "yellow cylinder",
+      "C": "purple cylinder",
+      "purity_AB": 0.9946926330581087,
+      "purity_BC": 0.9969941122958552,
+      "diag_len": 2.163494903768364
+    },
+    {
+      "image_path": "z_then_horiz_051.png",
+      "A": "orange cube",
+      "B": "yellow cone",
+      "C": "yellow sphere",
+      "purity_AB": 0.9999971560553633,
+      "purity_BC": 0.9986983504968322,
+      "diag_len": 2.107672506374037
+    },
+    {
+      "image_path": "z_then_horiz_052.png",
+      "A": "purple sphere",
+      "B": "orange cone",
+      "C": "red cube",
+      "purity_AB": 0.9971602189655681,
+      "purity_BC": 0.9900898482401689,
+      "diag_len": 2.1910717393086574
+    },
+    {
+      "image_path": "z_then_horiz_053.png",
+      "A": "red cone",
+      "B": "orange cylinder",
+      "C": "red cylinder",
+      "purity_AB": 0.9981979934238069,
+      "purity_BC": 0.9953541941244544,
+      "diag_len": 2.389547552248507
+    },
+    {
+      "image_path": "z_then_horiz_054.png",
+      "A": "orange cone",
+      "B": "red sphere",
+      "C": "yellow cube",
+      "purity_AB": 0.999358889952257,
+      "purity_BC": 0.998207438063559,
+      "diag_len": 2.711216753134904
+    },
+    {
+      "image_path": "z_then_horiz_055.png",
+      "A": "green cylinder",
+      "B": "green cube",
+      "C": "purple cube",
+      "purity_AB": 0.9989428764224186,
+      "purity_BC": 0.9982287569001369,
+      "diag_len": 2.356262743304143
+    },
+    {
+      "image_path": "z_then_horiz_056.png",
+      "A": "orange cone",
+      "B": "blue cylinder",
+      "C": "purple sphere",
+      "purity_AB": 0.9965748862111117,
+      "purity_BC": 0.9991395169175942,
+      "diag_len": 1.9822038062940432
+    },
+    {
+      "image_path": "z_then_horiz_057.png",
+      "A": "green cube",
+      "B": "red cube",
+      "C": "green cylinder",
+      "purity_AB": 0.9945527833711214,
+      "purity_BC": 0.999556335031616,
+      "diag_len": 2.3749744898065805
+    },
+    {
+      "image_path": "z_then_horiz_058.png",
+      "A": "red cone",
+      "B": "blue cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9988637743638407,
+      "purity_BC": 0.9954095932056728,
+      "diag_len": 2.6752221366865165
+    },
+    {
+      "image_path": "z_then_horiz_059.png",
+      "A": "purple cone",
+      "B": "red sphere",
+      "C": "yellow sphere",
+      "purity_AB": 0.997659099109858,
+      "purity_BC": 0.9981442295148543,
+      "diag_len": 2.3235551248538866
+    }
+  ],
+  "horiz_then_vert": [
+    {
+      "image_path": "horiz_then_vert_000.png",
+      "A": "blue sphere",
+      "B": "red sphere",
+      "C": "orange cone",
+      "purity_AB": 0.9998125727195915,
+      "purity_BC": 0.9896274902546441,
+      "diag_len": 2.341863594418347
+    },
+    {
+      "image_path": "horiz_then_vert_001.png",
+      "A": "purple cone",
+      "B": "green cube",
+      "C": "blue cylinder",
+      "purity_AB": 0.9998959604456144,
+      "purity_BC": 0.9988739914183805,
+      "diag_len": 1.8964280694219255
+    },
+    {
+      "image_path": "horiz_then_vert_002.png",
+      "A": "blue sphere",
+      "B": "orange cone",
+      "C": "yellow cone",
+      "purity_AB": 0.9962228762119135,
+      "purity_BC": 0.9967461113480176,
+      "diag_len": 1.8783446636799597
+    },
+    {
+      "image_path": "horiz_then_vert_003.png",
+      "A": "purple sphere",
+      "B": "yellow cylinder",
+      "C": "blue cylinder",
+      "purity_AB": 0.9885271211763126,
+      "purity_BC": 0.9908908392322529,
+      "diag_len": 1.5448813025754609
+    },
+    {
+      "image_path": "horiz_then_vert_004.png",
+      "A": "green cube",
+      "B": "blue sphere",
+      "C": "red cube",
+      "purity_AB": 0.990661510945659,
+      "purity_BC": 0.995295071847236,
+      "diag_len": 1.7103872340314472
+    },
+    {
+      "image_path": "horiz_then_vert_005.png",
+      "A": "orange cube",
+      "B": "yellow cube",
+      "C": "purple sphere",
+      "purity_AB": 0.9879667363956237,
+      "purity_BC": 0.9923548025982101,
+      "diag_len": 1.5417909995840242
+    },
+    {
+      "image_path": "horiz_then_vert_006.png",
+      "A": "orange cone",
+      "B": "orange sphere",
+      "C": "red sphere",
+      "purity_AB": 0.9994748200089433,
+      "purity_BC": 0.9939571452188685,
+      "diag_len": 2.1376769705333856
+    },
+    {
+      "image_path": "horiz_then_vert_007.png",
+      "A": "green cylinder",
+      "B": "blue cylinder",
+      "C": "red cylinder",
+      "purity_AB": 0.9946739928844844,
+      "purity_BC": 0.9977540004156372,
+      "diag_len": 1.669106262145487
+    },
+    {
+      "image_path": "horiz_then_vert_008.png",
+      "A": "blue cube",
+      "B": "orange sphere",
+      "C": "green cone",
+      "purity_AB": 0.9973597315979144,
+      "purity_BC": 0.9995726873757667,
+      "diag_len": 2.1499800232417945
+    },
+    {
+      "image_path": "horiz_then_vert_009.png",
+      "A": "yellow cone",
+      "B": "purple sphere",
+      "C": "blue cone",
+      "purity_AB": 0.9940423019127899,
+      "purity_BC": 0.9987488195807432,
+      "diag_len": 2.1074636506606543
+    },
+    {
+      "image_path": "horiz_then_vert_010.png",
+      "A": "yellow cube",
+      "B": "red cylinder",
+      "C": "red cube",
+      "purity_AB": 0.9943201101762762,
+      "purity_BC": 0.9984147519091691,
+      "diag_len": 1.6441773097571801
+    },
+    {
+      "image_path": "horiz_then_vert_011.png",
+      "A": "red cone",
+      "B": "green cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9973150804014158,
+      "purity_BC": 0.9995881774922103,
+      "diag_len": 1.8668639337505493
+    },
+    {
+      "image_path": "horiz_then_vert_012.png",
+      "A": "red cone",
+      "B": "green cylinder",
+      "C": "yellow sphere",
+      "purity_AB": 0.997998042903371,
+      "purity_BC": 0.9999658761760444,
+      "diag_len": 2.117349814709242
+    },
+    {
+      "image_path": "horiz_then_vert_013.png",
+      "A": "blue cube",
+      "B": "green cone",
+      "C": "orange sphere",
+      "purity_AB": 0.9999987429448203,
+      "purity_BC": 0.989522793529251,
+      "diag_len": 2.3363937034500917
+    },
+    {
+      "image_path": "horiz_then_vert_014.png",
+      "A": "green sphere",
+      "B": "orange cube",
+      "C": "blue cone",
+      "purity_AB": 0.9870065027695976,
+      "purity_BC": 0.9930589057465314,
+      "diag_len": 1.721526270848424
+    },
+    {
+      "image_path": "horiz_then_vert_015.png",
+      "A": "yellow cube",
+      "B": "red cone",
+      "C": "red sphere",
+      "purity_AB": 0.9995850820301543,
+      "purity_BC": 0.9939543789478775,
+      "diag_len": 1.904879114062872
+    },
+    {
+      "image_path": "horiz_then_vert_016.png",
+      "A": "red cone",
+      "B": "blue cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9920850715090564,
+      "purity_BC": 0.9990454000248895,
+      "diag_len": 1.7564755130560061
+    },
+    {
+      "image_path": "horiz_then_vert_017.png",
+      "A": "yellow cube",
+      "B": "green cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9984408555919224,
+      "purity_BC": 0.989369792740824,
+      "diag_len": 2.3661329116522305
+    },
+    {
+      "image_path": "horiz_then_vert_018.png",
+      "A": "yellow cylinder",
+      "B": "blue sphere",
+      "C": "green sphere",
+      "purity_AB": 0.9955237446376288,
+      "purity_BC": 0.9876633628900894,
+      "diag_len": 2.183937737762227
+    },
+    {
+      "image_path": "horiz_then_vert_019.png",
+      "A": "blue cylinder",
+      "B": "purple sphere",
+      "C": "purple cone",
+      "purity_AB": 0.9999610423442985,
+      "purity_BC": 0.9938814477519405,
+      "diag_len": 1.8317120334555959
+    },
+    {
+      "image_path": "horiz_then_vert_020.png",
+      "A": "red cylinder",
+      "B": "blue cone",
+      "C": "blue cube",
+      "purity_AB": 0.9996437467525492,
+      "purity_BC": 0.9992018111527474,
+      "diag_len": 1.9916718664205117
+    },
+    {
+      "image_path": "horiz_then_vert_021.png",
+      "A": "green sphere",
+      "B": "red cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9943656993827232,
+      "purity_BC": 0.9932385698333211,
+      "diag_len": 1.6439048604020599
+    },
+    {
+      "image_path": "horiz_then_vert_022.png",
+      "A": "yellow cube",
+      "B": "purple cone",
+      "C": "green sphere",
+      "purity_AB": 0.9934901371770849,
+      "purity_BC": 0.9928586852729404,
+      "diag_len": 1.7785907472956244
+    },
+    {
+      "image_path": "horiz_then_vert_023.png",
+      "A": "orange cone",
+      "B": "blue cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9969900831100714,
+      "purity_BC": 0.9912634739199204,
+      "diag_len": 1.6094656295221508
+    },
+    {
+      "image_path": "horiz_then_vert_024.png",
+      "A": "green cube",
+      "B": "yellow cone",
+      "C": "blue cube",
+      "purity_AB": 0.9913702421808532,
+      "purity_BC": 0.9996507642725663,
+      "diag_len": 1.9472660987398722
+    },
+    {
+      "image_path": "horiz_then_vert_025.png",
+      "A": "yellow sphere",
+      "B": "orange cylinder",
+      "C": "orange cone",
+      "purity_AB": 0.9982855791310452,
+      "purity_BC": 0.9903605625673656,
+      "diag_len": 2.0664522063952
+    },
+    {
+      "image_path": "horiz_then_vert_026.png",
+      "A": "red cylinder",
+      "B": "purple cone",
+      "C": "blue cube",
+      "purity_AB": 0.993080989691746,
+      "purity_BC": 0.9866337912827249,
+      "diag_len": 1.4982874294365163
+    },
+    {
+      "image_path": "horiz_then_vert_027.png",
+      "A": "green sphere",
+      "B": "red cylinder",
+      "C": "green cone",
+      "purity_AB": 0.9993582206980093,
+      "purity_BC": 0.9997946094085814,
+      "diag_len": 2.144073576752263
+    },
+    {
+      "image_path": "horiz_then_vert_028.png",
+      "A": "purple sphere",
+      "B": "orange cone",
+      "C": "red cone",
+      "purity_AB": 0.9998123253379866,
+      "purity_BC": 0.9892170436941518,
+      "diag_len": 2.1366544744323566
+    },
+    {
+      "image_path": "horiz_then_vert_029.png",
+      "A": "orange cone",
+      "B": "yellow cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9941944784631683,
+      "purity_BC": 0.9997207618418988,
+      "diag_len": 1.8690947165139224
+    },
+    {
+      "image_path": "horiz_then_vert_030.png",
+      "A": "blue cone",
+      "B": "red sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9887050308040773,
+      "purity_BC": 0.9979114917574623,
+      "diag_len": 1.688834509253213
+    },
+    {
+      "image_path": "horiz_then_vert_031.png",
+      "A": "green cube",
+      "B": "orange cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9927694881730834,
+      "purity_BC": 0.9940251601520993,
+      "diag_len": 1.950950888753069
+    },
+    {
+      "image_path": "horiz_then_vert_032.png",
+      "A": "green cylinder",
+      "B": "purple cube",
+      "C": "green cone",
+      "purity_AB": 0.9964210334539132,
+      "purity_BC": 0.9921727275129769,
+      "diag_len": 1.856348785647537
+    },
+    {
+      "image_path": "horiz_then_vert_033.png",
+      "A": "orange cylinder",
+      "B": "green cone",
+      "C": "green sphere",
+      "purity_AB": 0.9934018820642198,
+      "purity_BC": 0.9998315235195576,
+      "diag_len": 1.6597227373371057
+    },
+    {
+      "image_path": "horiz_then_vert_034.png",
+      "A": "green cube",
+      "B": "yellow sphere",
+      "C": "green sphere",
+      "purity_AB": 0.9972174224788085,
+      "purity_BC": 0.9989436162709423,
+      "diag_len": 1.729355762526448
+    },
+    {
+      "image_path": "horiz_then_vert_035.png",
+      "A": "blue cone",
+      "B": "yellow sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.992259475696103,
+      "purity_BC": 0.9922741399793816,
+      "diag_len": 1.6339915081734906
+    },
+    {
+      "image_path": "horiz_then_vert_036.png",
+      "A": "purple cone",
+      "B": "red cylinder",
+      "C": "green cube",
+      "purity_AB": 0.9997198800870117,
+      "purity_BC": 0.9874269239950911,
+      "diag_len": 1.6421783267310124
+    },
+    {
+      "image_path": "horiz_then_vert_037.png",
+      "A": "yellow sphere",
+      "B": "orange sphere",
+      "C": "red cube",
+      "purity_AB": 0.9989173122641679,
+      "purity_BC": 0.9864074345756183,
+      "diag_len": 1.8079155937208247
+    },
+    {
+      "image_path": "horiz_then_vert_038.png",
+      "A": "yellow cylinder",
+      "B": "red sphere",
+      "C": "purple cylinder",
+      "purity_AB": 0.9961280878035529,
+      "purity_BC": 0.9866042476173057,
+      "diag_len": 1.6179111158249284
+    },
+    {
+      "image_path": "horiz_then_vert_039.png",
+      "A": "yellow cone",
+      "B": "purple cube",
+      "C": "blue sphere",
+      "purity_AB": 0.99621517338933,
+      "purity_BC": 0.9837010708696088,
+      "diag_len": 1.8194681352819932
+    },
+    {
+      "image_path": "horiz_then_vert_040.png",
+      "A": "red cone",
+      "B": "red cylinder",
+      "C": "red cube",
+      "purity_AB": 0.9971699152301311,
+      "purity_BC": 0.9871748778325385,
+      "diag_len": 2.1107515653810474
+    },
+    {
+      "image_path": "horiz_then_vert_041.png",
+      "A": "red cube",
+      "B": "orange cylinder",
+      "C": "green cube",
+      "purity_AB": 0.9976574794373989,
+      "purity_BC": 0.9889667169459434,
+      "diag_len": 1.8070058480429847
+    },
+    {
+      "image_path": "horiz_then_vert_042.png",
+      "A": "orange cube",
+      "B": "yellow cylinder",
+      "C": "green cube",
+      "purity_AB": 0.9911743508676018,
+      "purity_BC": 0.9994804374033758,
+      "diag_len": 1.7047319582537952
+    },
+    {
+      "image_path": "horiz_then_vert_043.png",
+      "A": "green sphere",
+      "B": "red sphere",
+      "C": "orange cone",
+      "purity_AB": 0.9990870910875335,
+      "purity_BC": 0.9975961693180339,
+      "diag_len": 1.7672921182240713
+    },
+    {
+      "image_path": "horiz_then_vert_044.png",
+      "A": "orange sphere",
+      "B": "green cone",
+      "C": "red cone",
+      "purity_AB": 0.988087541683424,
+      "purity_BC": 0.9999618924833211,
+      "diag_len": 1.5550563855490862
+    },
+    {
+      "image_path": "horiz_then_vert_045.png",
+      "A": "blue sphere",
+      "B": "blue cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9991392630781936,
+      "purity_BC": 0.9934347221534421,
+      "diag_len": 2.0551614746167726
+    },
+    {
+      "image_path": "horiz_then_vert_046.png",
+      "A": "purple sphere",
+      "B": "red cylinder",
+      "C": "orange cube",
+      "purity_AB": 0.9996170573079743,
+      "purity_BC": 0.9909005203004021,
+      "diag_len": 1.736929701293312
+    },
+    {
+      "image_path": "horiz_then_vert_047.png",
+      "A": "blue cone",
+      "B": "purple cube",
+      "C": "green cylinder",
+      "purity_AB": 0.9960851766865482,
+      "purity_BC": 0.9997550048804383,
+      "diag_len": 2.300591672400625
+    },
+    {
+      "image_path": "horiz_then_vert_048.png",
+      "A": "blue sphere",
+      "B": "blue cube",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9982181842198028,
+      "purity_BC": 0.9960011717004029,
+      "diag_len": 1.7364843759557171
+    },
+    {
+      "image_path": "horiz_then_vert_049.png",
+      "A": "yellow cube",
+      "B": "blue cylinder",
+      "C": "green sphere",
+      "purity_AB": 0.9852757367617342,
+      "purity_BC": 0.9981640440250669,
+      "diag_len": 1.6393158653807336
+    },
+    {
+      "image_path": "horiz_then_vert_050.png",
+      "A": "blue cube",
+      "B": "purple cone",
+      "C": "purple cube",
+      "purity_AB": 0.9985126158940951,
+      "purity_BC": 0.995946933791887,
+      "diag_len": 1.8569561965315924
+    },
+    {
+      "image_path": "horiz_then_vert_051.png",
+      "A": "red cube",
+      "B": "yellow cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9998809107588336,
+      "purity_BC": 0.998687443248085,
+      "diag_len": 2.1803211240124627
+    },
+    {
+      "image_path": "horiz_then_vert_052.png",
+      "A": "purple cylinder",
+      "B": "orange cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9916490328755516,
+      "purity_BC": 0.993322126571789,
+      "diag_len": 1.874386186450061
+    },
+    {
+      "image_path": "horiz_then_vert_053.png",
+      "A": "orange cone",
+      "B": "blue cone",
+      "C": "green sphere",
+      "purity_AB": 0.9972432839995407,
+      "purity_BC": 0.998898630898292,
+      "diag_len": 2.0354010856876608
+    },
+    {
+      "image_path": "horiz_then_vert_054.png",
+      "A": "yellow cylinder",
+      "B": "yellow sphere",
+      "C": "red sphere",
+      "purity_AB": 0.995587499572165,
+      "purity_BC": 0.9989530228437089,
+      "diag_len": 1.9612326163493279
+    },
+    {
+      "image_path": "horiz_then_vert_055.png",
+      "A": "red cone",
+      "B": "purple sphere",
+      "C": "purple cylinder",
+      "purity_AB": 0.9992115899589815,
+      "purity_BC": 0.9927818086310392,
+      "diag_len": 1.6617857395560303
+    },
+    {
+      "image_path": "horiz_then_vert_056.png",
+      "A": "red cone",
+      "B": "purple cube",
+      "C": "red sphere",
+      "purity_AB": 0.9866321664268096,
+      "purity_BC": 0.9897758461214353,
+      "diag_len": 1.7725411133157452
+    },
+    {
+      "image_path": "horiz_then_vert_057.png",
+      "A": "red sphere",
+      "B": "green cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9947635978194075,
+      "purity_BC": 0.9848278320149226,
+      "diag_len": 1.936584617423061
+    },
+    {
+      "image_path": "horiz_then_vert_058.png",
+      "A": "purple sphere",
+      "B": "green cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9983280021598352,
+      "purity_BC": 0.9969337142987672,
+      "diag_len": 1.6697466596383272
+    },
+    {
+      "image_path": "horiz_then_vert_059.png",
+      "A": "yellow cylinder",
+      "B": "red cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.9983244934208103,
+      "purity_BC": 0.9951716254583038,
+      "diag_len": 2.171209494538045
+    }
+  ],
+  "vert_then_horiz": [
+    {
+      "image_path": "vert_then_horiz_000.png",
+      "A": "yellow cylinder",
+      "B": "orange cylinder",
+      "C": "blue sphere",
+      "purity_AB": 0.9998800787600401,
+      "purity_BC": 0.995902680390969,
+      "diag_len": 1.9339736545766413
+    },
+    {
+      "image_path": "vert_then_horiz_001.png",
+      "A": "red cube",
+      "B": "orange cylinder",
+      "C": "purple cube",
+      "purity_AB": 0.9847697852005943,
+      "purity_BC": 0.99829386047284,
+      "diag_len": 1.6751986622586854
+    },
+    {
+      "image_path": "vert_then_horiz_002.png",
+      "A": "purple cone",
+      "B": "red cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.992346502935423,
+      "purity_BC": 0.9959065037663267,
+      "diag_len": 1.8771262716336174
+    },
+    {
+      "image_path": "vert_then_horiz_003.png",
+      "A": "red cone",
+      "B": "yellow sphere",
+      "C": "purple cube",
+      "purity_AB": 0.995785668675564,
+      "purity_BC": 0.992962671036738,
+      "diag_len": 1.4861983363820226
+    },
+    {
+      "image_path": "vert_then_horiz_004.png",
+      "A": "green cone",
+      "B": "yellow cube",
+      "C": "purple cylinder",
+      "purity_AB": 0.9989051048406371,
+      "purity_BC": 0.9948636680397508,
+      "diag_len": 2.15690826384404
+    },
+    {
+      "image_path": "vert_then_horiz_005.png",
+      "A": "red cone",
+      "B": "blue cube",
+      "C": "purple cone",
+      "purity_AB": 0.9999219721425696,
+      "purity_BC": 0.9971310743572713,
+      "diag_len": 1.8136481840975764
+    },
+    {
+      "image_path": "vert_then_horiz_006.png",
+      "A": "red sphere",
+      "B": "yellow sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9855687896592371,
+      "purity_BC": 0.9960407374074772,
+      "diag_len": 2.179587042751239
+    },
+    {
+      "image_path": "vert_then_horiz_007.png",
+      "A": "yellow cube",
+      "B": "orange cylinder",
+      "C": "green sphere",
+      "purity_AB": 0.9963985680324876,
+      "purity_BC": 0.9960956608322888,
+      "diag_len": 2.0150642235222795
+    },
+    {
+      "image_path": "vert_then_horiz_008.png",
+      "A": "green cylinder",
+      "B": "orange sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.9880791572824656,
+      "purity_BC": 0.9999969720523173,
+      "diag_len": 1.899076142000848
+    },
+    {
+      "image_path": "vert_then_horiz_009.png",
+      "A": "purple cone",
+      "B": "yellow cylinder",
+      "C": "purple cylinder",
+      "purity_AB": 0.9990708459648409,
+      "purity_BC": 0.999998982556701,
+      "diag_len": 1.98196921353631
+    },
+    {
+      "image_path": "vert_then_horiz_010.png",
+      "A": "blue cylinder",
+      "B": "green cylinder",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9982979076987456,
+      "purity_BC": 0.9999996781945785,
+      "diag_len": 1.9717420455176795
+    },
+    {
+      "image_path": "vert_then_horiz_011.png",
+      "A": "orange cylinder",
+      "B": "orange sphere",
+      "C": "blue cylinder",
+      "purity_AB": 0.9955759730802122,
+      "purity_BC": 0.9959297465141562,
+      "diag_len": 1.8262042566728205
+    },
+    {
+      "image_path": "vert_then_horiz_012.png",
+      "A": "green cylinder",
+      "B": "purple cone",
+      "C": "blue cube",
+      "purity_AB": 0.9956267289001494,
+      "purity_BC": 0.9977660393651301,
+      "diag_len": 1.7910641599950465
+    },
+    {
+      "image_path": "vert_then_horiz_013.png",
+      "A": "purple cylinder",
+      "B": "yellow cylinder",
+      "C": "yellow sphere",
+      "purity_AB": 0.9970597283622813,
+      "purity_BC": 0.9996665191421256,
+      "diag_len": 2.2674274374237116
+    },
+    {
+      "image_path": "vert_then_horiz_014.png",
+      "A": "purple sphere",
+      "B": "purple cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9928371296524205,
+      "purity_BC": 0.9909117058072239,
+      "diag_len": 1.8704529784390316
+    },
+    {
+      "image_path": "vert_then_horiz_015.png",
+      "A": "yellow sphere",
+      "B": "red cone",
+      "C": "orange sphere",
+      "purity_AB": 0.9895569000332801,
+      "purity_BC": 0.9933690049254724,
+      "diag_len": 1.9679149379627923
+    },
+    {
+      "image_path": "vert_then_horiz_016.png",
+      "A": "purple cylinder",
+      "B": "yellow cube",
+      "C": "green cylinder",
+      "purity_AB": 0.9997044327516441,
+      "purity_BC": 0.9994653049085428,
+      "diag_len": 1.8106548044214315
+    },
+    {
+      "image_path": "vert_then_horiz_017.png",
+      "A": "red cylinder",
+      "B": "blue cylinder",
+      "C": "green cube",
+      "purity_AB": 0.9842430233381743,
+      "purity_BC": 0.9992107598805363,
+      "diag_len": 1.8189715410499734
+    },
+    {
+      "image_path": "vert_then_horiz_018.png",
+      "A": "green cylinder",
+      "B": "purple cube",
+      "C": "green cone",
+      "purity_AB": 0.9962906315128858,
+      "purity_BC": 0.9999979017808477,
+      "diag_len": 2.1522313115517866
+    },
+    {
+      "image_path": "vert_then_horiz_019.png",
+      "A": "yellow cone",
+      "B": "green cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9962903408589054,
+      "purity_BC": 0.9999453417903493,
+      "diag_len": 1.8978794885625552
+    },
+    {
+      "image_path": "vert_then_horiz_020.png",
+      "A": "blue sphere",
+      "B": "purple cube",
+      "C": "orange sphere",
+      "purity_AB": 0.9988824079694444,
+      "purity_BC": 0.9990401241883016,
+      "diag_len": 1.730640133135176
+    },
+    {
+      "image_path": "vert_then_horiz_021.png",
+      "A": "yellow cylinder",
+      "B": "purple cube",
+      "C": "green cube",
+      "purity_AB": 0.9987263483581054,
+      "purity_BC": 0.9962452803627774,
+      "diag_len": 1.712883364913331
+    },
+    {
+      "image_path": "vert_then_horiz_022.png",
+      "A": "green cube",
+      "B": "green cone",
+      "C": "yellow cube",
+      "purity_AB": 0.9939788877467831,
+      "purity_BC": 0.995138767535798,
+      "diag_len": 2.0271648048573767
+    },
+    {
+      "image_path": "vert_then_horiz_023.png",
+      "A": "green cylinder",
+      "B": "orange sphere",
+      "C": "purple cylinder",
+      "purity_AB": 0.9842076838494552,
+      "purity_BC": 0.9998705321887129,
+      "diag_len": 1.9230047787354454
+    },
+    {
+      "image_path": "vert_then_horiz_024.png",
+      "A": "blue cone",
+      "B": "yellow cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9991285604657504,
+      "purity_BC": 0.9931506140073428,
+      "diag_len": 1.9268761743303509
+    },
+    {
+      "image_path": "vert_then_horiz_025.png",
+      "A": "blue cone",
+      "B": "green cylinder",
+      "C": "green cone",
+      "purity_AB": 0.9953330892820628,
+      "purity_BC": 0.9961241179210225,
+      "diag_len": 1.9835990552685918
+    },
+    {
+      "image_path": "vert_then_horiz_026.png",
+      "A": "orange sphere",
+      "B": "red cone",
+      "C": "red sphere",
+      "purity_AB": 0.9980317372459658,
+      "purity_BC": 0.9941859772156662,
+      "diag_len": 1.9048467428794416
+    },
+    {
+      "image_path": "vert_then_horiz_027.png",
+      "A": "yellow cube",
+      "B": "yellow cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9887009644041481,
+      "purity_BC": 0.9944164397594718,
+      "diag_len": 1.836045837380584
+    },
+    {
+      "image_path": "vert_then_horiz_028.png",
+      "A": "red cube",
+      "B": "red cylinder",
+      "C": "green cylinder",
+      "purity_AB": 0.9968420500255253,
+      "purity_BC": 0.99275773440914,
+      "diag_len": 1.6513220791138747
+    },
+    {
+      "image_path": "vert_then_horiz_029.png",
+      "A": "purple cube",
+      "B": "purple cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9874017147633165,
+      "purity_BC": 0.9888662930123326,
+      "diag_len": 1.550634758334176
+    },
+    {
+      "image_path": "vert_then_horiz_030.png",
+      "A": "green sphere",
+      "B": "red cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9958164623581586,
+      "purity_BC": 0.9999992901470509,
+      "diag_len": 1.8865793987419734
+    },
+    {
+      "image_path": "vert_then_horiz_031.png",
+      "A": "blue cone",
+      "B": "purple cube",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9949831675795539,
+      "purity_BC": 0.9949540452485719,
+      "diag_len": 2.0686547904605175
+    },
+    {
+      "image_path": "vert_then_horiz_032.png",
+      "A": "green cube",
+      "B": "blue sphere",
+      "C": "purple cylinder",
+      "purity_AB": 0.9951411635162557,
+      "purity_BC": 0.9971690978117285,
+      "diag_len": 2.2913638810280035
+    },
+    {
+      "image_path": "vert_then_horiz_033.png",
+      "A": "green cube",
+      "B": "yellow cone",
+      "C": "blue cone",
+      "purity_AB": 0.9910782301757669,
+      "purity_BC": 0.998122819554129,
+      "diag_len": 1.8466459754706732
+    },
+    {
+      "image_path": "vert_then_horiz_034.png",
+      "A": "purple cube",
+      "B": "purple cylinder",
+      "C": "green sphere",
+      "purity_AB": 0.998229555274744,
+      "purity_BC": 0.9996897695273996,
+      "diag_len": 1.7876929459565245
+    },
+    {
+      "image_path": "vert_then_horiz_035.png",
+      "A": "blue sphere",
+      "B": "blue cone",
+      "C": "red sphere",
+      "purity_AB": 0.9845907324348491,
+      "purity_BC": 0.9939036946590248,
+      "diag_len": 1.6775807818913206
+    },
+    {
+      "image_path": "vert_then_horiz_036.png",
+      "A": "purple cube",
+      "B": "purple cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9947714489015731,
+      "purity_BC": 0.9999241593481673,
+      "diag_len": 2.4201703766513187
+    },
+    {
+      "image_path": "vert_then_horiz_037.png",
+      "A": "green sphere",
+      "B": "red cube",
+      "C": "red cylinder",
+      "purity_AB": 0.9992079631072194,
+      "purity_BC": 0.998618773329429,
+      "diag_len": 2.14204234054139
+    },
+    {
+      "image_path": "vert_then_horiz_038.png",
+      "A": "yellow sphere",
+      "B": "orange sphere",
+      "C": "green cone",
+      "purity_AB": 0.9997324276862046,
+      "purity_BC": 0.9940977916334709,
+      "diag_len": 1.61746593557542
+    },
+    {
+      "image_path": "vert_then_horiz_039.png",
+      "A": "red cylinder",
+      "B": "red cone",
+      "C": "green sphere",
+      "purity_AB": 0.9967455783661057,
+      "purity_BC": 0.9999896417877825,
+      "diag_len": 1.9115581854084163
+    },
+    {
+      "image_path": "vert_then_horiz_040.png",
+      "A": "green sphere",
+      "B": "purple cylinder",
+      "C": "orange cone",
+      "purity_AB": 0.9965072575580671,
+      "purity_BC": 0.9999622511112392,
+      "diag_len": 2.4121475819558778
+    },
+    {
+      "image_path": "vert_then_horiz_041.png",
+      "A": "red sphere",
+      "B": "purple cone",
+      "C": "green sphere",
+      "purity_AB": 0.9914364478478263,
+      "purity_BC": 0.9954777000795321,
+      "diag_len": 1.7942046357801429
+    },
+    {
+      "image_path": "vert_then_horiz_042.png",
+      "A": "green cylinder",
+      "B": "orange sphere",
+      "C": "blue sphere",
+      "purity_AB": 0.9902126247012942,
+      "purity_BC": 0.999819903097681,
+      "diag_len": 2.0019948811931485
+    },
+    {
+      "image_path": "vert_then_horiz_043.png",
+      "A": "orange cylinder",
+      "B": "blue cone",
+      "C": "purple cube",
+      "purity_AB": 0.9849267552753938,
+      "purity_BC": 0.997410870483065,
+      "diag_len": 1.8802950037504784
+    },
+    {
+      "image_path": "vert_then_horiz_044.png",
+      "A": "orange cone",
+      "B": "yellow sphere",
+      "C": "blue cone",
+      "purity_AB": 0.9934277410405573,
+      "purity_BC": 0.9991524334294465,
+      "diag_len": 2.3502250363727777
+    },
+    {
+      "image_path": "vert_then_horiz_045.png",
+      "A": "red cube",
+      "B": "purple cone",
+      "C": "orange cube",
+      "purity_AB": 0.9816494861645162,
+      "purity_BC": 0.9992746349525558,
+      "diag_len": 1.9870271039644622
+    },
+    {
+      "image_path": "vert_then_horiz_046.png",
+      "A": "purple cube",
+      "B": "orange sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.982614793631683,
+      "purity_BC": 0.9999963127707961,
+      "diag_len": 2.454954844341087
+    },
+    {
+      "image_path": "vert_then_horiz_047.png",
+      "A": "green cylinder",
+      "B": "orange cylinder",
+      "C": "blue sphere",
+      "purity_AB": 0.995678726076469,
+      "purity_BC": 0.9974301185489263,
+      "diag_len": 1.6857096897736688
+    },
+    {
+      "image_path": "vert_then_horiz_048.png",
+      "A": "yellow cone",
+      "B": "blue cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.9997484813905351,
+      "purity_BC": 0.9959432742653062,
+      "diag_len": 1.997870145532399
+    },
+    {
+      "image_path": "vert_then_horiz_049.png",
+      "A": "yellow cylinder",
+      "B": "green cone",
+      "C": "orange cube",
+      "purity_AB": 0.990979847166864,
+      "purity_BC": 0.9998737549817769,
+      "diag_len": 2.099421508763107
+    },
+    {
+      "image_path": "vert_then_horiz_050.png",
+      "A": "blue cone",
+      "B": "purple cylinder",
+      "C": "blue sphere",
+      "purity_AB": 0.9983707953799539,
+      "purity_BC": 0.9951733325107445,
+      "diag_len": 1.8932006554467717
+    },
+    {
+      "image_path": "vert_then_horiz_051.png",
+      "A": "purple sphere",
+      "B": "yellow cylinder",
+      "C": "red cylinder",
+      "purity_AB": 0.9994014256855928,
+      "purity_BC": 0.994615788084764,
+      "diag_len": 1.6298846180737847
+    },
+    {
+      "image_path": "vert_then_horiz_052.png",
+      "A": "purple cube",
+      "B": "green cone",
+      "C": "orange cone",
+      "purity_AB": 0.9937205458768817,
+      "purity_BC": 0.9999564328874502,
+      "diag_len": 1.794852913916062
+    },
+    {
+      "image_path": "vert_then_horiz_053.png",
+      "A": "green cone",
+      "B": "orange cube",
+      "C": "purple sphere",
+      "purity_AB": 0.9997261068944704,
+      "purity_BC": 0.9997330915096103,
+      "diag_len": 1.7089369013789113
+    },
+    {
+      "image_path": "vert_then_horiz_054.png",
+      "A": "orange cone",
+      "B": "blue cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9880172679620148,
+      "purity_BC": 0.9932774547148826,
+      "diag_len": 1.818689268832502
+    },
+    {
+      "image_path": "vert_then_horiz_055.png",
+      "A": "green cylinder",
+      "B": "blue sphere",
+      "C": "green sphere",
+      "purity_AB": 0.9926709982237246,
+      "purity_BC": 0.9960575547361427,
+      "diag_len": 2.2519301115413684
+    },
+    {
+      "image_path": "vert_then_horiz_056.png",
+      "A": "blue cone",
+      "B": "purple sphere",
+      "C": "red cube",
+      "purity_AB": 0.9996707707697338,
+      "purity_BC": 0.999995948487631,
+      "diag_len": 2.1586976323701017
+    },
+    {
+      "image_path": "vert_then_horiz_057.png",
+      "A": "red sphere",
+      "B": "purple cylinder",
+      "C": "green cone",
+      "purity_AB": 0.9957784683724971,
+      "purity_BC": 0.9990957283270784,
+      "diag_len": 2.175045946493202
+    },
+    {
+      "image_path": "vert_then_horiz_058.png",
+      "A": "purple cube",
+      "B": "red sphere",
+      "C": "green cylinder",
+      "purity_AB": 0.9885622430327043,
+      "purity_BC": 0.9983619352695222,
+      "diag_len": 1.7443351738648265
+    },
+    {
+      "image_path": "vert_then_horiz_059.png",
+      "A": "yellow cone",
+      "B": "red sphere",
+      "C": "blue sphere",
+      "purity_AB": 0.9947081158941268,
+      "purity_BC": 0.9998163317468144,
+      "diag_len": 1.847788525664515
+    }
+  ],
+  "vert_then_z": [
+    {
+      "image_path": "vert_then_z_000.png",
+      "A": "yellow cube",
+      "B": "orange cube",
+      "C": "red cone",
+      "purity_AB": 0.9875074509753872,
+      "purity_BC": 0.9947172027889086,
+      "diag_len": 1.8279707264375205
+    },
+    {
+      "image_path": "vert_then_z_001.png",
+      "A": "red cone",
+      "B": "orange cube",
+      "C": "orange cone",
+      "purity_AB": 0.9999934075656538,
+      "purity_BC": 0.9870291230318531,
+      "diag_len": 1.5872714380771038
+    },
+    {
+      "image_path": "vert_then_z_002.png",
+      "A": "green sphere",
+      "B": "yellow cone",
+      "C": "blue cone",
+      "purity_AB": 0.986701218488757,
+      "purity_BC": 0.9995346524429969,
+      "diag_len": 2.047414934923977
+    },
+    {
+      "image_path": "vert_then_z_003.png",
+      "A": "yellow cone",
+      "B": "yellow cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9904168686592943,
+      "purity_BC": 0.9997977119517905,
+      "diag_len": 1.6966247055158579
+    },
+    {
+      "image_path": "vert_then_z_004.png",
+      "A": "purple cube",
+      "B": "purple cylinder",
+      "C": "green cone",
+      "purity_AB": 0.9959966571522161,
+      "purity_BC": 0.9999863766613099,
+      "diag_len": 1.934996873938716
+    },
+    {
+      "image_path": "vert_then_z_005.png",
+      "A": "orange cylinder",
+      "B": "orange sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.997197787528645,
+      "purity_BC": 0.9956894497228985,
+      "diag_len": 1.8934284930731249
+    },
+    {
+      "image_path": "vert_then_z_006.png",
+      "A": "purple cylinder",
+      "B": "yellow cube",
+      "C": "green sphere",
+      "purity_AB": 0.9893154188871321,
+      "purity_BC": 0.9973414591057052,
+      "diag_len": 2.038698440044865
+    },
+    {
+      "image_path": "vert_then_z_007.png",
+      "A": "purple cube",
+      "B": "green cube",
+      "C": "yellow sphere",
+      "purity_AB": 0.9943633879486918,
+      "purity_BC": 0.9984536267045045,
+      "diag_len": 2.118295767053957
+    },
+    {
+      "image_path": "vert_then_z_008.png",
+      "A": "green sphere",
+      "B": "blue sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.9980922383509696,
+      "purity_BC": 0.9983858826663229,
+      "diag_len": 1.9385823394802149
+    },
+    {
+      "image_path": "vert_then_z_009.png",
+      "A": "blue cube",
+      "B": "green cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9924842550016052,
+      "purity_BC": 0.9957485925797857,
+      "diag_len": 2.194736132240538
+    },
+    {
+      "image_path": "vert_then_z_010.png",
+      "A": "red sphere",
+      "B": "green cube",
+      "C": "red cylinder",
+      "purity_AB": 0.9990903456478073,
+      "purity_BC": 0.9977112694689483,
+      "diag_len": 1.66988957358548
+    },
+    {
+      "image_path": "vert_then_z_011.png",
+      "A": "yellow cylinder",
+      "B": "blue cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9976970964460387,
+      "purity_BC": 0.9874184199798893,
+      "diag_len": 1.630014267502739
+    },
+    {
+      "image_path": "vert_then_z_012.png",
+      "A": "blue cone",
+      "B": "blue sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.9980269540484071,
+      "purity_BC": 0.989354341448435,
+      "diag_len": 1.6543032507932187
+    },
+    {
+      "image_path": "vert_then_z_013.png",
+      "A": "orange cone",
+      "B": "yellow cube",
+      "C": "green cone",
+      "purity_AB": 0.9999751172939002,
+      "purity_BC": 0.9987547729940697,
+      "diag_len": 1.947485777057198
+    },
+    {
+      "image_path": "vert_then_z_014.png",
+      "A": "green sphere",
+      "B": "blue cube",
+      "C": "red cone",
+      "purity_AB": 0.9995115679461714,
+      "purity_BC": 0.9982453953661615,
+      "diag_len": 2.0912765476923254
+    },
+    {
+      "image_path": "vert_then_z_015.png",
+      "A": "red cone",
+      "B": "orange cylinder",
+      "C": "orange cone",
+      "purity_AB": 0.9954438900899403,
+      "purity_BC": 0.990168486679042,
+      "diag_len": 1.5780001162286432
+    },
+    {
+      "image_path": "vert_then_z_016.png",
+      "A": "purple sphere",
+      "B": "green sphere",
+      "C": "green cube",
+      "purity_AB": 0.9998001749582869,
+      "purity_BC": 0.9930031692909079,
+      "diag_len": 1.7208601820632343
+    },
+    {
+      "image_path": "vert_then_z_017.png",
+      "A": "purple cylinder",
+      "B": "yellow sphere",
+      "C": "yellow cube",
+      "purity_AB": 0.9977902360206953,
+      "purity_BC": 0.9999621166811499,
+      "diag_len": 1.7388241983895907
+    },
+    {
+      "image_path": "vert_then_z_018.png",
+      "A": "red sphere",
+      "B": "orange cube",
+      "C": "blue cylinder",
+      "purity_AB": 0.9813082128835847,
+      "purity_BC": 0.9963609731225851,
+      "diag_len": 1.937573645827794
+    },
+    {
+      "image_path": "vert_then_z_019.png",
+      "A": "purple cube",
+      "B": "purple sphere",
+      "C": "green cube",
+      "purity_AB": 0.9999818399433963,
+      "purity_BC": 0.9953025572349236,
+      "diag_len": 1.6213896072171032
+    },
+    {
+      "image_path": "vert_then_z_020.png",
+      "A": "blue cylinder",
+      "B": "orange sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.9993431874232518,
+      "purity_BC": 0.9976616788570192,
+      "diag_len": 1.793972560473838
+    },
+    {
+      "image_path": "vert_then_z_021.png",
+      "A": "blue cone",
+      "B": "red cylinder",
+      "C": "red cube",
+      "purity_AB": 0.9956907869635995,
+      "purity_BC": 0.9985120149348309,
+      "diag_len": 2.0115784756808583
+    },
+    {
+      "image_path": "vert_then_z_022.png",
+      "A": "red sphere",
+      "B": "yellow cube",
+      "C": "green sphere",
+      "purity_AB": 0.9947012561331687,
+      "purity_BC": 0.9911923697053532,
+      "diag_len": 1.7415965962994016
+    },
+    {
+      "image_path": "vert_then_z_023.png",
+      "A": "green sphere",
+      "B": "orange cone",
+      "C": "purple sphere",
+      "purity_AB": 0.9971452464921327,
+      "purity_BC": 0.999981490661264,
+      "diag_len": 2.03026523446373
+    },
+    {
+      "image_path": "vert_then_z_024.png",
+      "A": "red cone",
+      "B": "yellow cube",
+      "C": "blue cylinder",
+      "purity_AB": 0.9852301071904871,
+      "purity_BC": 0.9918275791235894,
+      "diag_len": 1.6144620966841623
+    },
+    {
+      "image_path": "vert_then_z_025.png",
+      "A": "green cylinder",
+      "B": "yellow cone",
+      "C": "purple cone",
+      "purity_AB": 0.9968965054181579,
+      "purity_BC": 0.9990614176922108,
+      "diag_len": 1.619406745324529
+    },
+    {
+      "image_path": "vert_then_z_026.png",
+      "A": "orange cylinder",
+      "B": "yellow cube",
+      "C": "red cube",
+      "purity_AB": 0.9984576613407806,
+      "purity_BC": 0.9995015829224957,
+      "diag_len": 2.320304414878567
+    },
+    {
+      "image_path": "vert_then_z_027.png",
+      "A": "yellow cylinder",
+      "B": "yellow sphere",
+      "C": "green sphere",
+      "purity_AB": 0.992368203352906,
+      "purity_BC": 0.9985301329386171,
+      "diag_len": 2.2572005085304836
+    },
+    {
+      "image_path": "vert_then_z_028.png",
+      "A": "blue cylinder",
+      "B": "purple cone",
+      "C": "blue cone",
+      "purity_AB": 0.9999992359066925,
+      "purity_BC": 0.9933696723080723,
+      "diag_len": 2.1064454876514422
+    },
+    {
+      "image_path": "vert_then_z_029.png",
+      "A": "blue cone",
+      "B": "purple cube",
+      "C": "orange cylinder",
+      "purity_AB": 0.9910761069704304,
+      "purity_BC": 0.9976369302620094,
+      "diag_len": 1.9570713707625853
+    },
+    {
+      "image_path": "vert_then_z_030.png",
+      "A": "red sphere",
+      "B": "blue cone",
+      "C": "orange cone",
+      "purity_AB": 0.996967094438219,
+      "purity_BC": 0.9998201906781914,
+      "diag_len": 2.0038703111031335
+    },
+    {
+      "image_path": "vert_then_z_031.png",
+      "A": "blue cube",
+      "B": "yellow cone",
+      "C": "green cone",
+      "purity_AB": 0.999903175625457,
+      "purity_BC": 0.9990763963476351,
+      "diag_len": 1.95888069764654
+    },
+    {
+      "image_path": "vert_then_z_032.png",
+      "A": "red cone",
+      "B": "green cone",
+      "C": "red sphere",
+      "purity_AB": 0.9989855360958586,
+      "purity_BC": 0.9990489892835429,
+      "diag_len": 1.8818782959105296
+    },
+    {
+      "image_path": "vert_then_z_033.png",
+      "A": "green sphere",
+      "B": "purple cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.984471540293674,
+      "purity_BC": 0.9931024734657792,
+      "diag_len": 1.6076884533391473
+    },
+    {
+      "image_path": "vert_then_z_034.png",
+      "A": "orange cube",
+      "B": "yellow cylinder",
+      "C": "green cone",
+      "purity_AB": 0.9999994981580741,
+      "purity_BC": 0.9997092676240136,
+      "diag_len": 2.094725125061646
+    },
+    {
+      "image_path": "vert_then_z_035.png",
+      "A": "yellow cone",
+      "B": "blue cone",
+      "C": "orange cylinder",
+      "purity_AB": 0.9955953226727539,
+      "purity_BC": 0.999933654481716,
+      "diag_len": 1.9464576004966276
+    },
+    {
+      "image_path": "vert_then_z_036.png",
+      "A": "purple sphere",
+      "B": "blue sphere",
+      "C": "red cube",
+      "purity_AB": 0.9989723055632562,
+      "purity_BC": 0.9998398797664176,
+      "diag_len": 1.8034680160470584
+    },
+    {
+      "image_path": "vert_then_z_037.png",
+      "A": "orange cylinder",
+      "B": "blue cylinder",
+      "C": "orange cone",
+      "purity_AB": 0.9952151924090026,
+      "purity_BC": 0.991383045465992,
+      "diag_len": 1.900354464393116
+    },
+    {
+      "image_path": "vert_then_z_038.png",
+      "A": "green sphere",
+      "B": "green cone",
+      "C": "blue cube",
+      "purity_AB": 0.9999447072183767,
+      "purity_BC": 0.998370083261563,
+      "diag_len": 2.0391214497265304
+    },
+    {
+      "image_path": "vert_then_z_039.png",
+      "A": "yellow cone",
+      "B": "yellow cube",
+      "C": "purple cone",
+      "purity_AB": 0.9938114141946179,
+      "purity_BC": 0.998352379129213,
+      "diag_len": 2.231219522853442
+    },
+    {
+      "image_path": "vert_then_z_040.png",
+      "A": "blue cylinder",
+      "B": "red sphere",
+      "C": "purple cube",
+      "purity_AB": 0.9910351233451312,
+      "purity_BC": 0.9946601861097952,
+      "diag_len": 2.1433383897458405
+    },
+    {
+      "image_path": "vert_then_z_041.png",
+      "A": "purple sphere",
+      "B": "blue cone",
+      "C": "blue sphere",
+      "purity_AB": 0.9957115410198276,
+      "purity_BC": 0.9992682482867424,
+      "diag_len": 2.0860056379588743
+    },
+    {
+      "image_path": "vert_then_z_042.png",
+      "A": "green cube",
+      "B": "yellow cube",
+      "C": "blue cone",
+      "purity_AB": 0.9941010385666266,
+      "purity_BC": 0.9974255690894949,
+      "diag_len": 1.8915584561923982
+    },
+    {
+      "image_path": "vert_then_z_043.png",
+      "A": "red sphere",
+      "B": "red cone",
+      "C": "yellow cone",
+      "purity_AB": 0.9953873877549638,
+      "purity_BC": 0.9991061660994437,
+      "diag_len": 1.998449960368006
+    },
+    {
+      "image_path": "vert_then_z_044.png",
+      "A": "red cylinder",
+      "B": "yellow sphere",
+      "C": "blue sphere",
+      "purity_AB": 0.9947622403557023,
+      "purity_BC": 0.9994410719955725,
+      "diag_len": 1.598909700844158
+    },
+    {
+      "image_path": "vert_then_z_045.png",
+      "A": "red cube",
+      "B": "orange cube",
+      "C": "orange cylinder",
+      "purity_AB": 0.9953348997392326,
+      "purity_BC": 0.9947915049603534,
+      "diag_len": 2.2809107745230786
+    },
+    {
+      "image_path": "vert_then_z_046.png",
+      "A": "orange cylinder",
+      "B": "blue cube",
+      "C": "yellow cylinder",
+      "purity_AB": 0.990140907778,
+      "purity_BC": 0.9967423930023973,
+      "diag_len": 2.0223365156931394
+    },
+    {
+      "image_path": "vert_then_z_047.png",
+      "A": "orange sphere",
+      "B": "blue sphere",
+      "C": "green cube",
+      "purity_AB": 0.9953996975556212,
+      "purity_BC": 0.9989198186500129,
+      "diag_len": 1.948376592723779
+    },
+    {
+      "image_path": "vert_then_z_048.png",
+      "A": "green cone",
+      "B": "yellow cylinder",
+      "C": "red sphere",
+      "purity_AB": 0.9821131076516634,
+      "purity_BC": 0.9994749516087954,
+      "diag_len": 1.8407487977133026
+    },
+    {
+      "image_path": "vert_then_z_049.png",
+      "A": "orange cone",
+      "B": "purple cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.998672654427762,
+      "purity_BC": 0.9981139604244389,
+      "diag_len": 1.7394899216396191
+    },
+    {
+      "image_path": "vert_then_z_050.png",
+      "A": "yellow cylinder",
+      "B": "blue sphere",
+      "C": "yellow cube",
+      "purity_AB": 0.996597402197801,
+      "purity_BC": 0.9925307063743751,
+      "diag_len": 1.9487544364213591
+    },
+    {
+      "image_path": "vert_then_z_051.png",
+      "A": "yellow cone",
+      "B": "yellow sphere",
+      "C": "green cylinder",
+      "purity_AB": 0.9998639244433083,
+      "purity_BC": 0.9977126147213485,
+      "diag_len": 1.9036490581904435
+    },
+    {
+      "image_path": "vert_then_z_052.png",
+      "A": "red sphere",
+      "B": "green sphere",
+      "C": "yellow cube",
+      "purity_AB": 0.9924878696696917,
+      "purity_BC": 0.9926204309120777,
+      "diag_len": 1.73563063237562
+    },
+    {
+      "image_path": "vert_then_z_053.png",
+      "A": "green cone",
+      "B": "yellow cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9987711162568208,
+      "purity_BC": 0.9954714806440821,
+      "diag_len": 2.1288599376620945
+    },
+    {
+      "image_path": "vert_then_z_054.png",
+      "A": "green cone",
+      "B": "orange cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9953594965478154,
+      "purity_BC": 0.9853864035419493,
+      "diag_len": 1.6864577181896003
+    },
+    {
+      "image_path": "vert_then_z_055.png",
+      "A": "purple cone",
+      "B": "orange sphere",
+      "C": "purple sphere",
+      "purity_AB": 0.9922716370141034,
+      "purity_BC": 0.9997328790890411,
+      "diag_len": 1.8213576713581383
+    },
+    {
+      "image_path": "vert_then_z_056.png",
+      "A": "orange sphere",
+      "B": "yellow cylinder",
+      "C": "blue sphere",
+      "purity_AB": 0.9902077753543679,
+      "purity_BC": 0.9950241642350196,
+      "diag_len": 1.7926829197829306
+    },
+    {
+      "image_path": "vert_then_z_057.png",
+      "A": "red sphere",
+      "B": "red cone",
+      "C": "yellow cube",
+      "purity_AB": 0.992223792860419,
+      "purity_BC": 0.9999987200811093,
+      "diag_len": 1.966000347183033
+    },
+    {
+      "image_path": "vert_then_z_058.png",
+      "A": "green cube",
+      "B": "yellow cube",
+      "C": "purple sphere",
+      "purity_AB": 0.9968799781594251,
+      "purity_BC": 0.9974733355065706,
+      "diag_len": 1.8297799961471737
+    },
+    {
+      "image_path": "vert_then_z_059.png",
+      "A": "purple cylinder",
+      "B": "red cylinder",
+      "C": "red cube",
+      "purity_AB": 0.99293121952695,
+      "purity_BC": 0.9946781960690957,
+      "diag_len": 1.8826304474102498
+    }
+  ],
+  "z_then_vert": [
+    {
+      "image_path": "z_then_vert_000.png",
+      "A": "yellow sphere",
+      "B": "blue cone",
+      "C": "yellow cone",
+      "purity_AB": 0.9976294471230682,
+      "purity_BC": 0.9979990862623045,
+      "diag_len": 1.5886622964681996
+    },
+    {
+      "image_path": "z_then_vert_001.png",
+      "A": "green cylinder",
+      "B": "red cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9859046525600357,
+      "purity_BC": 0.9898110060040057,
+      "diag_len": 1.8686935033608068
+    },
+    {
+      "image_path": "z_then_vert_002.png",
+      "A": "purple sphere",
+      "B": "purple cube",
+      "C": "yellow cone",
+      "purity_AB": 0.9939392093983803,
+      "purity_BC": 0.9987900695958973,
+      "diag_len": 2.104447295409411
+    },
+    {
+      "image_path": "z_then_vert_003.png",
+      "A": "yellow cone",
+      "B": "orange sphere",
+      "C": "orange cube",
+      "purity_AB": 0.999489369827413,
+      "purity_BC": 0.9860830716300698,
+      "diag_len": 1.712591618452808
+    },
+    {
+      "image_path": "z_then_vert_004.png",
+      "A": "green cylinder",
+      "B": "green sphere",
+      "C": "red cylinder",
+      "purity_AB": 0.9979516069695503,
+      "purity_BC": 0.996056955377636,
+      "diag_len": 2.1533635471672072
+    },
+    {
+      "image_path": "z_then_vert_005.png",
+      "A": "purple cylinder",
+      "B": "orange sphere",
+      "C": "blue cube",
+      "purity_AB": 0.9946985772851048,
+      "purity_BC": 0.995451363166051,
+      "diag_len": 2.2642811248474546
+    },
+    {
+      "image_path": "z_then_vert_006.png",
+      "A": "green sphere",
+      "B": "red sphere",
+      "C": "blue sphere",
+      "purity_AB": 0.9999383298081298,
+      "purity_BC": 0.9999970981926833,
+      "diag_len": 1.8308900115443412
+    },
+    {
+      "image_path": "z_then_vert_007.png",
+      "A": "orange cube",
+      "B": "red cone",
+      "C": "green sphere",
+      "purity_AB": 0.9986402251325465,
+      "purity_BC": 0.9985808310049219,
+      "diag_len": 2.031478961669232
+    },
+    {
+      "image_path": "z_then_vert_008.png",
+      "A": "red cone",
+      "B": "purple cube",
+      "C": "blue cone",
+      "purity_AB": 0.9999883703900054,
+      "purity_BC": 0.9973820611622917,
+      "diag_len": 2.2625577755821427
+    },
+    {
+      "image_path": "z_then_vert_009.png",
+      "A": "blue cone",
+      "B": "purple cube",
+      "C": "green sphere",
+      "purity_AB": 0.9955045415126302,
+      "purity_BC": 0.9951223483964836,
+      "diag_len": 1.7095393869228803
+    },
+    {
+      "image_path": "z_then_vert_010.png",
+      "A": "red cube",
+      "B": "red cylinder",
+      "C": "purple cube",
+      "purity_AB": 0.9961752011992561,
+      "purity_BC": 0.9961581366148049,
+      "diag_len": 1.5632019036111306
+    },
+    {
+      "image_path": "z_then_vert_011.png",
+      "A": "green cylinder",
+      "B": "green cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.999191132650652,
+      "purity_BC": 0.9954155477466048,
+      "diag_len": 1.6320644548409438
+    },
+    {
+      "image_path": "z_then_vert_012.png",
+      "A": "orange cube",
+      "B": "green sphere",
+      "C": "blue cylinder",
+      "purity_AB": 0.9973684372627457,
+      "purity_BC": 0.989556473952053,
+      "diag_len": 1.9257620420288843
+    },
+    {
+      "image_path": "z_then_vert_013.png",
+      "A": "purple cylinder",
+      "B": "yellow cube",
+      "C": "orange cube",
+      "purity_AB": 0.998338344921133,
+      "purity_BC": 0.9922716029641699,
+      "diag_len": 2.2816993955998077
+    },
+    {
+      "image_path": "z_then_vert_014.png",
+      "A": "orange sphere",
+      "B": "green cube",
+      "C": "blue cylinder",
+      "purity_AB": 0.9927487193941286,
+      "purity_BC": 0.9991343626988818,
+      "diag_len": 2.0674929536570725
+    },
+    {
+      "image_path": "z_then_vert_015.png",
+      "A": "yellow cube",
+      "B": "yellow cone",
+      "C": "red cone",
+      "purity_AB": 0.9898162822358326,
+      "purity_BC": 0.9980002945733967,
+      "diag_len": 1.8434129198935054
+    },
+    {
+      "image_path": "z_then_vert_016.png",
+      "A": "orange cylinder",
+      "B": "yellow cone",
+      "C": "red cone",
+      "purity_AB": 0.9899451686522955,
+      "purity_BC": 0.9964975586983681,
+      "diag_len": 1.7457500207435006
+    },
+    {
+      "image_path": "z_then_vert_017.png",
+      "A": "purple sphere",
+      "B": "purple cylinder",
+      "C": "blue cone",
+      "purity_AB": 0.9951834185156045,
+      "purity_BC": 0.9993841533724078,
+      "diag_len": 2.2282996554571146
+    },
+    {
+      "image_path": "z_then_vert_018.png",
+      "A": "purple sphere",
+      "B": "blue cube",
+      "C": "blue sphere",
+      "purity_AB": 0.999694981415261,
+      "purity_BC": 0.997148741244697,
+      "diag_len": 1.9992855346664236
+    },
+    {
+      "image_path": "z_then_vert_019.png",
+      "A": "red sphere",
+      "B": "purple sphere",
+      "C": "green cone",
+      "purity_AB": 0.9993124344778456,
+      "purity_BC": 0.9986020308438084,
+      "diag_len": 1.8523644553198917
+    },
+    {
+      "image_path": "z_then_vert_020.png",
+      "A": "orange cone",
+      "B": "red cylinder",
+      "C": "red cube",
+      "purity_AB": 0.9954544671787057,
+      "purity_BC": 0.9991312914456592,
+      "diag_len": 2.1059904838135717
+    },
+    {
+      "image_path": "z_then_vert_021.png",
+      "A": "purple cylinder",
+      "B": "red sphere",
+      "C": "blue cone",
+      "purity_AB": 0.9996839961426505,
+      "purity_BC": 0.9992935833566564,
+      "diag_len": 1.8894204281023017
+    },
+    {
+      "image_path": "z_then_vert_022.png",
+      "A": "green cube",
+      "B": "orange sphere",
+      "C": "orange cube",
+      "purity_AB": 0.993749844733895,
+      "purity_BC": 0.996630553765853,
+      "diag_len": 1.9433112518640452
+    },
+    {
+      "image_path": "z_then_vert_023.png",
+      "A": "yellow cube",
+      "B": "green cylinder",
+      "C": "purple cylinder",
+      "purity_AB": 0.9860743360556191,
+      "purity_BC": 0.999166331442364,
+      "diag_len": 1.6150464785487713
+    },
+    {
+      "image_path": "z_then_vert_024.png",
+      "A": "green cylinder",
+      "B": "yellow cone",
+      "C": "blue cone",
+      "purity_AB": 0.9872937993426429,
+      "purity_BC": 0.999683449179987,
+      "diag_len": 1.7486915821334654
+    },
+    {
+      "image_path": "z_then_vert_025.png",
+      "A": "green sphere",
+      "B": "yellow sphere",
+      "C": "yellow cone",
+      "purity_AB": 0.9976314487002972,
+      "purity_BC": 0.993099823486957,
+      "diag_len": 1.8274659442734658
+    },
+    {
+      "image_path": "z_then_vert_026.png",
+      "A": "orange sphere",
+      "B": "purple cylinder",
+      "C": "red cylinder",
+      "purity_AB": 0.9942739938275408,
+      "purity_BC": 0.9937288997065716,
+      "diag_len": 1.814116077130028
+    },
+    {
+      "image_path": "z_then_vert_027.png",
+      "A": "yellow cylinder",
+      "B": "blue sphere",
+      "C": "red cube",
+      "purity_AB": 0.9903904842282426,
+      "purity_BC": 0.9983762222092051,
+      "diag_len": 1.747511007577612
+    },
+    {
+      "image_path": "z_then_vert_028.png",
+      "A": "green cube",
+      "B": "yellow cylinder",
+      "C": "yellow cube",
+      "purity_AB": 0.9957318751119806,
+      "purity_BC": 0.9881977119456262,
+      "diag_len": 1.6626267643283306
+    },
+    {
+      "image_path": "z_then_vert_029.png",
+      "A": "red sphere",
+      "B": "orange cylinder",
+      "C": "purple cylinder",
+      "purity_AB": 0.9915049489774251,
+      "purity_BC": 0.9904220235533296,
+      "diag_len": 1.7562055575258948
+    },
+    {
+      "image_path": "z_then_vert_030.png",
+      "A": "orange cylinder",
+      "B": "green cube",
+      "C": "blue cube",
+      "purity_AB": 0.9978608890041195,
+      "purity_BC": 0.9999384805943043,
+      "diag_len": 1.8053707557786087
+    },
+    {
+      "image_path": "z_then_vert_031.png",
+      "A": "green cylinder",
+      "B": "purple sphere",
+      "C": "green cone",
+      "purity_AB": 0.9915875774849756,
+      "purity_BC": 0.9968798191591995,
+      "diag_len": 2.06528492029926
+    },
+    {
+      "image_path": "z_then_vert_032.png",
+      "A": "orange cube",
+      "B": "blue cone",
+      "C": "purple sphere",
+      "purity_AB": 0.999823075301266,
+      "purity_BC": 0.9989548232507718,
+      "diag_len": 2.2647223142526656
+    },
+    {
+      "image_path": "z_then_vert_033.png",
+      "A": "green cone",
+      "B": "red cone",
+      "C": "orange cube",
+      "purity_AB": 0.9998200575066017,
+      "purity_BC": 0.9918776125114923,
+      "diag_len": 2.1568642642366167
+    },
+    {
+      "image_path": "z_then_vert_034.png",
+      "A": "purple cone",
+      "B": "green cylinder",
+      "C": "orange cylinder",
+      "purity_AB": 0.990887101760528,
+      "purity_BC": 0.9977672227290042,
+      "diag_len": 1.6688596851468938
+    },
+    {
+      "image_path": "z_then_vert_035.png",
+      "A": "yellow cone",
+      "B": "purple cylinder",
+      "C": "purple cone",
+      "purity_AB": 0.9958548825144514,
+      "purity_BC": 0.9908467414523129,
+      "diag_len": 1.7870546092683233
+    },
+    {
+      "image_path": "z_then_vert_036.png",
+      "A": "green cone",
+      "B": "blue cone",
+      "C": "red cylinder",
+      "purity_AB": 0.9960829738279116,
+      "purity_BC": 0.9896011387578602,
+      "diag_len": 2.2331150706077803
+    },
+    {
+      "image_path": "z_then_vert_037.png",
+      "A": "yellow cube",
+      "B": "orange cylinder",
+      "C": "orange cone",
+      "purity_AB": 0.9976515002710294,
+      "purity_BC": 0.9942489398874971,
+      "diag_len": 1.7256520860524285
+    },
+    {
+      "image_path": "z_then_vert_038.png",
+      "A": "orange sphere",
+      "B": "orange cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9976396552699628,
+      "purity_BC": 0.9927713756332147,
+      "diag_len": 1.7419971105376812
+    },
+    {
+      "image_path": "z_then_vert_039.png",
+      "A": "green cone",
+      "B": "blue cylinder",
+      "C": "orange cylinder",
+      "purity_AB": 0.9907474965236398,
+      "purity_BC": 0.999937705864732,
+      "diag_len": 1.87216612754158
+    },
+    {
+      "image_path": "z_then_vert_040.png",
+      "A": "red sphere",
+      "B": "yellow cylinder",
+      "C": "orange sphere",
+      "purity_AB": 0.9911780730964275,
+      "purity_BC": 0.9946580238547276,
+      "diag_len": 1.9835066629322469
+    },
+    {
+      "image_path": "z_then_vert_041.png",
+      "A": "yellow cube",
+      "B": "orange cone",
+      "C": "blue cube",
+      "purity_AB": 0.9996502604934221,
+      "purity_BC": 0.9902950742179261,
+      "diag_len": 2.1311111121319732
+    },
+    {
+      "image_path": "z_then_vert_042.png",
+      "A": "red cylinder",
+      "B": "purple cone",
+      "C": "purple sphere",
+      "purity_AB": 0.9929986832535783,
+      "purity_BC": 0.9874850900035747,
+      "diag_len": 1.905419579465327
+    },
+    {
+      "image_path": "z_then_vert_043.png",
+      "A": "red cube",
+      "B": "orange cube",
+      "C": "purple cylinder",
+      "purity_AB": 0.9994787645396522,
+      "purity_BC": 0.9995750533951586,
+      "diag_len": 1.8387440809297575
+    },
+    {
+      "image_path": "z_then_vert_044.png",
+      "A": "red cylinder",
+      "B": "green cone",
+      "C": "blue cylinder",
+      "purity_AB": 0.9959592305989945,
+      "purity_BC": 0.9998768890049834,
+      "diag_len": 2.1797320815674768
+    },
+    {
+      "image_path": "z_then_vert_045.png",
+      "A": "purple sphere",
+      "B": "orange cone",
+      "C": "red cone",
+      "purity_AB": 0.9974335796451581,
+      "purity_BC": 0.9992669913089702,
+      "diag_len": 1.9180956290064561
+    },
+    {
+      "image_path": "z_then_vert_046.png",
+      "A": "red sphere",
+      "B": "red cylinder",
+      "C": "blue sphere",
+      "purity_AB": 0.9964830779794821,
+      "purity_BC": 0.9956555550707911,
+      "diag_len": 2.4055306475329425
+    },
+    {
+      "image_path": "z_then_vert_047.png",
+      "A": "red sphere",
+      "B": "purple sphere",
+      "C": "orange sphere",
+      "purity_AB": 0.9982411872944059,
+      "purity_BC": 0.9897712023655536,
+      "diag_len": 1.9766162775330747
+    },
+    {
+      "image_path": "z_then_vert_048.png",
+      "A": "red cylinder",
+      "B": "yellow cylinder",
+      "C": "yellow sphere",
+      "purity_AB": 0.9993543735492472,
+      "purity_BC": 0.9981416938822192,
+      "diag_len": 1.9551242682217704
+    },
+    {
+      "image_path": "z_then_vert_049.png",
+      "A": "orange cylinder",
+      "B": "blue cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9999832296811897,
+      "purity_BC": 0.9996510929879243,
+      "diag_len": 2.245519719098787
+    },
+    {
+      "image_path": "z_then_vert_050.png",
+      "A": "green sphere",
+      "B": "red cube",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9978814526946113,
+      "purity_BC": 0.9893367344291992,
+      "diag_len": 1.7625577154688195
+    },
+    {
+      "image_path": "z_then_vert_051.png",
+      "A": "blue sphere",
+      "B": "red cone",
+      "C": "orange cylinder",
+      "purity_AB": 0.9969024791349558,
+      "purity_BC": 0.9998525350761567,
+      "diag_len": 2.202112234635287
+    },
+    {
+      "image_path": "z_then_vert_052.png",
+      "A": "red cylinder",
+      "B": "green sphere",
+      "C": "blue cone",
+      "purity_AB": 0.9999972284857462,
+      "purity_BC": 0.9854129617113927,
+      "diag_len": 2.025949040342373
+    },
+    {
+      "image_path": "z_then_vert_053.png",
+      "A": "purple cube",
+      "B": "red cube",
+      "C": "blue cube",
+      "purity_AB": 0.9912779598907111,
+      "purity_BC": 0.9842505035397774,
+      "diag_len": 1.438696045335403
+    },
+    {
+      "image_path": "z_then_vert_054.png",
+      "A": "orange cone",
+      "B": "green cone",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9951306661096987,
+      "purity_BC": 0.9998178856153116,
+      "diag_len": 1.6364138695552017
+    },
+    {
+      "image_path": "z_then_vert_055.png",
+      "A": "red cylinder",
+      "B": "blue cube",
+      "C": "orange cylinder",
+      "purity_AB": 0.9956182189512992,
+      "purity_BC": 0.9957519738028442,
+      "diag_len": 1.9360789229662894
+    },
+    {
+      "image_path": "z_then_vert_056.png",
+      "A": "yellow cube",
+      "B": "green sphere",
+      "C": "yellow cylinder",
+      "purity_AB": 0.9989472689461389,
+      "purity_BC": 0.9903433920097668,
+      "diag_len": 1.6628793873733756
+    },
+    {
+      "image_path": "z_then_vert_057.png",
+      "A": "purple cylinder",
+      "B": "blue sphere",
+      "C": "red sphere",
+      "purity_AB": 0.9995990535114527,
+      "purity_BC": 0.9901403038649826,
+      "diag_len": 2.162932499275908
+    },
+    {
+      "image_path": "z_then_vert_058.png",
+      "A": "purple sphere",
+      "B": "yellow cylinder",
+      "C": "red cone",
+      "purity_AB": 0.9928625507742274,
+      "purity_BC": 0.9992532532251073,
+      "diag_len": 1.810615627786072
+    },
+    {
+      "image_path": "z_then_vert_059.png",
+      "A": "orange cone",
+      "B": "red cube",
+      "C": "blue sphere",
+      "purity_AB": 0.9915460949150364,
+      "purity_BC": 0.9967523350406664,
+      "diag_len": 1.8097500642262832
+    }
+  ]
+}

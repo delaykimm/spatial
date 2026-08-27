@@ -1,0 +1,34 @@
+{
+  "image_index": 0,
+  "image_filename": "laptop_left_couch.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "couch",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      1.0606601717798212,
+      1.0606601717798212
+    ],
+    "intrinsic_relation": "right",
+    "intrinsic_caption": "From the couch's perspective, the laptop is to the right of it."
+  },
+  "figure_object": {
+    "name": "laptop",
+    "orientation": "behind",
+    "rotation": 0.0,
+    "position": [
+      -1.0606601717798212,
+      -1.0606601717798212
+    ],
+    "intrinsic_relation": "right",
+    "intrinsic_caption": "From the laptop's perspective, the couch is to the right of it."
+  },
+  "translational_relation_caption": "The laptop is to the left of the couch.",
+  "reflectional_relation_caption": "The laptop is to the left of the couch."
+}

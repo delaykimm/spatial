@@ -1,0 +1,34 @@
+{
+  "image_index": 0,
+  "image_filename": "laptop_left_bookshelf.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bookshelf",
+    "orientation": "right",
+    "rotation": 0.0,
+    "position": [
+      1.0606601717798212,
+      1.0606601717798212
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the bookshelf's perspective, the laptop is behind it."
+  },
+  "figure_object": {
+    "name": "laptop",
+    "orientation": "behind",
+    "rotation": 0.0,
+    "position": [
+      -1.0606601717798212,
+      -1.0606601717798212
+    ],
+    "intrinsic_relation": "right",
+    "intrinsic_caption": "From the laptop's perspective, the bookshelf is to the right of it."
+  },
+  "translational_relation_caption": "The laptop is to the left of the bookshelf.",
+  "reflectional_relation_caption": "The laptop is to the left of the bookshelf."
+}

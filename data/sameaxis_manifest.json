@@ -1,0 +1,7568 @@
+{
+ "horizontal": [
+  {
+   "image_path": "horizontal_000.png",
+   "axis": "horizontal",
+   "A": "red cone",
+   "B": "yellow cube",
+   "C": "green cone",
+   "D": "blue cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      -2.3517481420287787,
+      5.073874144514827,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      -0.6620842177977888,
+      8.135291896035158,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      0.8959810617388482,
+      8.07923396761108,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cylinder",
+     "center": [
+      1.5413955217237998,
+      6.567318528737225,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_001.png",
+   "axis": "horizontal",
+   "A": "red sphere",
+   "B": "blue cone",
+   "C": "green cone",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -2.267620048932498,
+      7.594145688781903,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      -0.460806062040255,
+      7.46190486414268,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      0.9353975250383351,
+      8.119661711490169,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      2.4850715010661544,
+      5.602249611558522,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_002.png",
+   "axis": "horizontal",
+   "A": "blue cone",
+   "B": "orange cube",
+   "C": "orange cone",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cone",
+     "center": [
+      -1.6099808382884007,
+      7.418045616919671,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      -0.1690003043143995,
+      5.634980099559295,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      2.0886113529195907,
+      6.083768098335295,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      2.4843183673293376,
+      7.799976980290787,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_003.png",
+   "axis": "horizontal",
+   "A": "yellow cylinder",
+   "B": "blue cube",
+   "C": "orange cone",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.9740653230670784,
+      7.931114300518158,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      -0.39233819688955185,
+      7.085268164630763,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      1.1184540530523086,
+      5.738729974509405,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      1.8214300831210677,
+      7.545531447501732,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_004.png",
+   "axis": "horizontal",
+   "A": "red cylinder",
+   "B": "yellow cylinder",
+   "C": "blue cone",
+   "D": "purple cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      -2.3158757384963335,
+      7.462429023576719,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cylinder",
+     "center": [
+      0.09890059857735567,
+      5.901880022332753,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      1.765281105493103,
+      7.4704100011082595,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cylinder",
+     "center": [
+      2.2800217591454977,
+      5.864065047901901,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_005.png",
+   "axis": "horizontal",
+   "A": "purple sphere",
+   "B": "purple cube",
+   "C": "red cube",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      -1.4226181743426851,
+      4.69648380276785,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      0.5723671205169927,
+      5.980838246312185,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      2.294893964162606,
+      5.7280809225382185,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -1.742624732942065,
+      5.9488342997591594,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_006.png",
+   "axis": "horizontal",
+   "A": "blue sphere",
+   "B": "red cylinder",
+   "C": "yellow cube",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "blue sphere",
+     "center": [
+      -1.1840474506980918,
+      7.497072888612058,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      0.300098880898354,
+      5.8144970504116635,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      1.869791979013236,
+      8.010424082294678,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      2.4503213258942553,
+      4.931571008110818,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_007.png",
+   "axis": "horizontal",
+   "A": "blue cylinder",
+   "B": "blue cube",
+   "C": "yellow cube",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -2.2163513365811447,
+      4.99279219224179,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.20373024767929593,
+      5.839517112427041,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      1.3839232124984981,
+      6.573336065491425,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      1.8085652268838734,
+      4.5234201095294555,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_008.png",
+   "axis": "horizontal",
+   "A": "yellow cube",
+   "B": "yellow sphere",
+   "C": "blue sphere",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cube",
+     "center": [
+      -1.1809445850064377,
+      7.30919559662126,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      0.06512133725217328,
+      5.36912763508248,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      2.2603808186125613,
+      7.3911558402994935,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      -2.3287938302917803,
+      5.530907524628461,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_009.png",
+   "axis": "horizontal",
+   "A": "green sphere",
+   "B": "purple cone",
+   "C": "green cube",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      -2.3769584521603204,
+      5.5868793345314876,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      -0.17992602496847532,
+      6.3711225520028885,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      1.0157587677335163,
+      6.045743015557504,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      1.8478023379983677,
+      7.9472274780091094,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_010.png",
+   "axis": "horizontal",
+   "A": "green cylinder",
+   "B": "blue cube",
+   "C": "orange cone",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -0.9286927425763021,
+      7.477135757620713,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.27938394250787013,
+      7.880975809336234,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      1.8320421655071808,
+      6.498568190974602,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.6615852129268431,
+      5.336274310752871,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_011.png",
+   "axis": "horizontal",
+   "A": "green cylinder",
+   "B": "blue cone",
+   "C": "purple cone",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -1.6760718219421367,
+      6.243726179501019,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      0.23460346477501437,
+      6.730178910785616,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      2.1301291738284434,
+      5.3558703636705385,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      2.444145143749426,
+      7.954116369065419,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_012.png",
+   "axis": "horizontal",
+   "A": "yellow sphere",
+   "B": "red cylinder",
+   "C": "blue cube",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.8278370202944654,
+      4.461605011922111,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.4487093809268212,
+      5.29599362110799,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      1.1506306821147105,
+      4.442743568736501,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -2.4349271578037683,
+      6.145485234520858,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_013.png",
+   "axis": "horizontal",
+   "A": "green sphere",
+   "B": "green cube",
+   "C": "purple cube",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      -2.343662457901286,
+      4.794432415188841,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -1.1909632344105525,
+      7.065574163996084,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      1.4229798288158637,
+      4.85732615506864,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      2.010499939255852,
+      6.104608755726373,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_014.png",
+   "axis": "horizontal",
+   "A": "red cylinder",
+   "B": "blue cube",
+   "C": "blue cone",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      -1.121696997716194,
+      5.9292620147907895,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.8164888715560958,
+      6.047778409511958,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      2.450736118713471,
+      7.414606794027886,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      -1.8104827539790447,
+      7.011439020341547,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_015.png",
+   "axis": "horizontal",
+   "A": "orange cube",
+   "B": "yellow cone",
+   "C": "orange cone",
+   "D": "green cube",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      -2.217682629366755,
+      7.019112636706032,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      -0.8382386715286327,
+      6.047924548390121,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      1.8840320489439435,
+      7.8522528025091916,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cube",
+     "center": [
+      2.190167244268927,
+      5.233391029262416,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_016.png",
+   "axis": "horizontal",
+   "A": "blue cylinder",
+   "B": "green sphere",
+   "C": "green cube",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -1.1436377332881715,
+      5.162003333860379,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      0.6809543246840697,
+      4.6818112594971035,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      2.498383005569873,
+      5.9784946141493105,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -2.2772846687725514,
+      7.140198423073989,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_017.png",
+   "axis": "horizontal",
+   "A": "purple cylinder",
+   "B": "blue sphere",
+   "C": "orange cube",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.6309718608500008,
+      4.340801220924774,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      1.323228423586447,
+      7.301033599133213,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      2.498132156713508,
+      5.767350978311204,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -1.5997276138996164,
+      6.664429381816689,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_018.png",
+   "axis": "horizontal",
+   "A": "green sphere",
+   "B": "green cone",
+   "C": "purple cube",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      -1.3744166877697777,
+      7.563727519839256,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cone",
+     "center": [
+      0.3633630686175988,
+      6.55210074823516,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      1.9754387444242383,
+      7.070208487957724,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      -2.2905351063960047,
+      6.73749551230355,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_019.png",
+   "axis": "horizontal",
+   "A": "orange cube",
+   "B": "blue cube",
+   "C": "orange cone",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      -2.1916321120226145,
+      8.120218231697361,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      -0.6296702326437216,
+      7.4547283451696575,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      2.049839948611118,
+      7.975915786171265,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      2.489235985088894,
+      5.6793428386389975,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_020.png",
+   "axis": "horizontal",
+   "A": "yellow sphere",
+   "B": "yellow cone",
+   "C": "blue sphere",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.516645729537454,
+      6.570154193247388,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      0.5455024181739958,
+      7.864732582059183,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      2.06356193505232,
+      7.142248626862139,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      2.4767770500248942,
+      5.775677906480389,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_021.png",
+   "axis": "horizontal",
+   "A": "red sphere",
+   "B": "orange sphere",
+   "C": "blue sphere",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -2.219005065636654,
+      4.657637289507107,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      -1.0642603240097515,
+      6.03405967133974,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      1.9365353838144257,
+      7.566041725724579,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      2.4119366461916387,
+      5.11177008195649,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_022.png",
+   "axis": "horizontal",
+   "A": "orange sphere",
+   "B": "yellow cone",
+   "C": "yellow sphere",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "orange sphere",
+     "center": [
+      -1.3179926081276339,
+      7.114582466222519,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      0.8188257749903443,
+      5.281370775094431,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      2.245723178691776,
+      4.330877433398645,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      -2.2435088779933796,
+      4.486169009413851,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_023.png",
+   "axis": "horizontal",
+   "A": "green cube",
+   "B": "blue sphere",
+   "C": "green cone",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      -1.2444526306997472,
+      4.79818927859159,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      -0.014184763003293188,
+      4.765226335379287,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      1.3814049588422566,
+      6.549262816424854,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      2.481152533777728,
+      5.946873804025829,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_024.png",
+   "axis": "horizontal",
+   "A": "purple cube",
+   "B": "blue sphere",
+   "C": "green cube",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      -0.9716227105940418,
+      7.4402278878255,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      0.8166228517377134,
+      5.141250445133106,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      2.4478645441444904,
+      7.338671008332135,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      -1.6158227633868156,
+      5.409098221840663,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_025.png",
+   "axis": "horizontal",
+   "A": "blue cube",
+   "B": "orange cylinder",
+   "C": "green sphere",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "blue cube",
+     "center": [
+      -0.9550936313562275,
+      4.932547535402218,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      0.8119875473774862,
+      6.601237011371367,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      2.065321830621989,
+      6.506040435714322,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      -1.8125166346912165,
+      7.829048127667971,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_026.png",
+   "axis": "horizontal",
+   "A": "orange cone",
+   "B": "red sphere",
+   "C": "yellow cone",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -2.382714667470194,
+      4.913343098147881,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -0.28908096536923056,
+      7.571995765341221,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      0.8745688431766978,
+      6.243211718565474,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      2.346600268911041,
+      6.86968914925713,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_027.png",
+   "axis": "horizontal",
+   "A": "green cube",
+   "B": "red cylinder",
+   "C": "green sphere",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      -2.154269677886755,
+      7.482669593519027,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.09510293258502989,
+      6.404212203529272,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      1.6020190648431694,
+      8.16429820890615,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      2.4125428552008996,
+      6.907819933699786,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_028.png",
+   "axis": "horizontal",
+   "A": "red cube",
+   "B": "blue sphere",
+   "C": "yellow cone",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -1.808492697681559,
+      5.803108954978972,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5057285710355364,
+      5.944526095920661,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      0.8589700270221283,
+      5.982513223296375,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      -2.46395548456786,
+      6.839685516850238,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_029.png",
+   "axis": "horizontal",
+   "A": "purple cylinder",
+   "B": "purple cone",
+   "C": "purple sphere",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -2.1347514105806265,
+      5.7722398839100215,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      0.07834819354597933,
+      5.6151293269899325,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      2.442518495390887,
+      5.632508534057061,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      -2.4516874538721436,
+      7.887172315637448,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_030.png",
+   "axis": "horizontal",
+   "A": "orange cone",
+   "B": "blue cylinder",
+   "C": "orange cylinder",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -1.396926402930847,
+      4.661384551355448,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cylinder",
+     "center": [
+      0.7989873415038549,
+      7.955889634730877,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      2.1682193866029644,
+      5.569981659316325,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      -1.9798288877761467,
+      6.734159842172919,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_031.png",
+   "axis": "horizontal",
+   "A": "green cylinder",
+   "B": "orange cylinder",
+   "C": "purple sphere",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -2.1313353651386624,
+      5.527527375022642,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      0.3242604735889776,
+      5.1299868074861585,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      1.6970421641181792,
+      4.607919133195246,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      2.475550775256645,
+      6.293123406281495,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_032.png",
+   "axis": "horizontal",
+   "A": "orange cube",
+   "B": "purple cone",
+   "C": "purple sphere",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      -1.7716985446710458,
+      7.831952734341769,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      -0.6063886894679604,
+      5.069260749265725,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      0.8523510436288708,
+      6.3096554339613835,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      -2.497074457023263,
+      5.521168167825779,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_033.png",
+   "axis": "horizontal",
+   "A": "yellow cylinder",
+   "B": "purple sphere",
+   "C": "blue sphere",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.4554930582695702,
+      7.917519151167215,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple sphere",
+     "center": [
+      0.4845252052474751,
+      5.15494059031062,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      2.452816537048287,
+      6.598975949832051,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      -2.132696271062149,
+      4.975293728864591,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_034.png",
+   "axis": "horizontal",
+   "A": "orange cylinder",
+   "B": "red cylinder",
+   "C": "yellow sphere",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.8941788887295203,
+      7.920759837892905,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      1.235633924394541,
+      5.012547071862199,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      2.446757029589805,
+      5.250746027383522,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.788910961190672,
+      5.744701081232048,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_035.png",
+   "axis": "horizontal",
+   "A": "orange sphere",
+   "B": "green cube",
+   "C": "blue cylinder",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "orange sphere",
+     "center": [
+      -2.0594811475626154,
+      6.7932415863140445,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -0.31381450974504954,
+      8.081029500589949,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      2.1218956179790096,
+      5.87341771443886,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      2.4897875093579187,
+      7.806677954812606,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_036.png",
+   "axis": "horizontal",
+   "A": "orange cone",
+   "B": "orange cube",
+   "C": "red cone",
+   "D": "red cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -0.10326203520356714,
+      5.152389686047857,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      1.1132459563503976,
+      5.3739524127905245,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      2.3470764640827166,
+      7.687171892124433,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cylinder",
+     "center": [
+      -2.31457660864464,
+      6.000860382032952,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_037.png",
+   "axis": "horizontal",
+   "A": "yellow cylinder",
+   "B": "green cube",
+   "C": "red cone",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.4565571927175236,
+      4.908410121414111,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      0.7839069908367149,
+      7.994764313213566,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      2.4245704608987975,
+      7.91260196731708,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      -1.9894108875295946,
+      6.152071311079519,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_038.png",
+   "axis": "horizontal",
+   "A": "purple cylinder",
+   "B": "orange cylinder",
+   "C": "red cone",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.692010849102702,
+      5.908840067140946,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.5276787209836882,
+      7.67061971769999,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      1.8906168355726853,
+      7.542913705176884,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      2.356689163987542,
+      4.311322198626765,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_039.png",
+   "axis": "horizontal",
+   "A": "yellow cylinder",
+   "B": "red cone",
+   "C": "red cube",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -2.407622880100603,
+      6.76667369605002,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      -1.0022743848907811,
+      4.452556654756816,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      1.6784155645636023,
+      7.379332506502935,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      1.9817507334192002,
+      5.894049717348201,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_040.png",
+   "axis": "horizontal",
+   "A": "purple cone",
+   "B": "orange cylinder",
+   "C": "yellow cone",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      -1.9862716219147596,
+      8.004464162886306,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.011532840111279086,
+      6.26874541480113,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      2.4037045024820953,
+      5.739008005870152,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      -2.4893502586208216,
+      6.641430329139693,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_041.png",
+   "axis": "horizontal",
+   "A": "orange sphere",
+   "B": "red cube",
+   "C": "green cube",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "orange sphere",
+     "center": [
+      -1.7312498979866842,
+      5.02600976431115,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      0.03354501600295823,
+      5.827016231415628,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      1.9047852403911376,
+      8.140583222414122,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      -2.314267776302076,
+      6.112258414629468,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_042.png",
+   "axis": "horizontal",
+   "A": "orange cone",
+   "B": "yellow cube",
+   "C": "purple cube",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -1.6942824738392943,
+      7.683960995499829,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      -0.32085000752843884,
+      5.863747373662106,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      2.441574204201589,
+      5.363463966321656,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      -2.236944391407386,
+      6.537609573014967,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_043.png",
+   "axis": "horizontal",
+   "A": "red sphere",
+   "B": "purple cube",
+   "C": "yellow cylinder",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -2.285284275192674,
+      5.622038887570752,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -0.6719884621203325,
+      6.482868566458108,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      0.7680012757745907,
+      5.093665955273655,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      2.1993034515595027,
+      5.448627667580526,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_044.png",
+   "axis": "horizontal",
+   "A": "red cone",
+   "B": "red cylinder",
+   "C": "yellow sphere",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      -2.4069460127372304,
+      7.2496550830965045,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.9762813013030986,
+      6.714771135627587,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      0.8693581583653867,
+      7.338734172754816,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      1.499115857880935,
+      4.594583627000982,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_045.png",
+   "axis": "horizontal",
+   "A": "red cone",
+   "B": "orange cone",
+   "C": "red cube",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      -1.6458089465236787,
+      6.449708126421375,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cone",
+     "center": [
+      0.33787220646097627,
+      6.599179292737137,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      1.819698529378388,
+      5.048516379959811,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      -2.461393958458141,
+      7.278099259378301,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_046.png",
+   "axis": "horizontal",
+   "A": "red cube",
+   "B": "yellow cone",
+   "C": "blue sphere",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -2.0351858650346073,
+      5.285515465511981,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      -0.3416901862752466,
+      4.701244217237303,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      0.8504978112318078,
+      4.7067783003214325,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      2.3440077774285126,
+      5.162154421728883,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_047.png",
+   "axis": "horizontal",
+   "A": "green cube",
+   "B": "purple cube",
+   "C": "orange cone",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      -1.938028696248932,
+      6.463167425467356,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -0.01891894768881519,
+      7.151129393531317,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      2.128784624733618,
+      5.438820469357734,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      2.4811329391858448,
+      7.277670058441171,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_048.png",
+   "axis": "horizontal",
+   "A": "orange cylinder",
+   "B": "purple cylinder",
+   "C": "red cube",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      -2.195806195674555,
+      4.956061174447241,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      0.2533064478863585,
+      4.6354828280475235,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      2.0827111450218023,
+      4.760778076374933,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      2.4500180761130936,
+      6.920851542790719,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_049.png",
+   "axis": "horizontal",
+   "A": "blue cylinder",
+   "B": "green sphere",
+   "C": "green cone",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -2.3077274493518836,
+      5.819944442320316,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      -0.6126550160221,
+      8.120277996390103,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      2.0006432720576752,
+      4.8938160495949425,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      2.3641243196080963,
+      6.657619740204043,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_050.png",
+   "axis": "horizontal",
+   "A": "blue cylinder",
+   "B": "green cone",
+   "C": "red cone",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.35481960575940885,
+      6.995323967123813,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cone",
+     "center": [
+      0.8838969643750509,
+      5.670462625062846,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      2.305948920518615,
+      5.102503141486777,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      -1.5718900640889464,
+      7.342560138412974,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_051.png",
+   "axis": "horizontal",
+   "A": "yellow sphere",
+   "B": "red cube",
+   "C": "green cube",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      -2.44047629200199,
+      7.653069767341281,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      -1.1887685713689828,
+      4.824730586872498,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      1.502177766253169,
+      6.0356604225284975,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      2.2269346737462885,
+      7.812122829117724,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_052.png",
+   "axis": "horizontal",
+   "A": "yellow cone",
+   "B": "orange cylinder",
+   "C": "purple cone",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      -1.386824120966138,
+      6.895042578435256,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.15158481631292187,
+      5.619701718143334,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      2.3862472185625263,
+      5.391257976264619,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -1.7599001038749988,
+      4.692434391291245,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_053.png",
+   "axis": "horizontal",
+   "A": "red cube",
+   "B": "orange sphere",
+   "C": "green cylinder",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -2.0452652305142887,
+      4.966535593674369,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      -0.5942113649213088,
+      8.09789714870081,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      1.1856150138242807,
+      7.613517661517562,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      1.5729543080808503,
+      4.976050545238755,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_054.png",
+   "axis": "horizontal",
+   "A": "green sphere",
+   "B": "blue cylinder",
+   "C": "purple cone",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      -1.8704531917053557,
+      4.885156123312675,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.5885154590031116,
+      6.545769358795478,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      2.4908697936523954,
+      8.136010214405939,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      -2.2245108830031626,
+      6.867781295015192,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_055.png",
+   "axis": "horizontal",
+   "A": "red cylinder",
+   "B": "blue cube",
+   "C": "orange cone",
+   "D": "blue cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      -1.1184673416666369,
+      6.736867330216265,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.45432900003135934,
+      4.3975443718754565,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      1.7764583312969746,
+      4.5477399038125705,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cylinder",
+     "center": [
+      -2.1491240866591124,
+      7.695842573897407,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_056.png",
+   "axis": "horizontal",
+   "A": "red cylinder",
+   "B": "blue cone",
+   "C": "blue cube",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      -2.2392159390793847,
+      7.993752926095246,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      -0.0029042058799300108,
+      5.095981775352709,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      1.372123302526334,
+      4.707855171023727,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      1.8952480140150254,
+      6.414055901914388,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_057.png",
+   "axis": "horizontal",
+   "A": "red cube",
+   "B": "blue cylinder",
+   "C": "yellow sphere",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -1.7937861002588296,
+      8.172075065485071,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.5444603959309435,
+      6.417514244549275,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      2.3767040353800555,
+      6.0339554060960685,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -2.2479022825873334,
+      5.1123563898589515,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_058.png",
+   "axis": "horizontal",
+   "A": "yellow cone",
+   "B": "green cube",
+   "C": "red sphere",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      -1.6896122963335154,
+      7.675481849067964,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      0.006418033974362025,
+      6.759840036501126,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red sphere",
+     "center": [
+      2.215628101537474,
+      4.61680821361164,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      -2.161725008445245,
+      5.7179297343367645,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "horizontal_059.png",
+   "axis": "horizontal",
+   "A": "purple cylinder",
+   "B": "red cube",
+   "C": "green cone",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.24178060563537285,
+      6.003339915777633,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      0.9889898356580957,
+      5.085175450093295,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      2.440547958201261,
+      4.637490221695687,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.4908427626813145,
+      4.542418408934343,
+      0.4
+     ]
+    }
+   }
+  }
+ ],
+ "vertical": [
+  {
+   "image_path": "vertical_000.png",
+   "axis": "vertical",
+   "A": "green sphere",
+   "B": "yellow sphere",
+   "C": "yellow cube",
+   "D": "blue cylinder",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      1.0346432918210016,
+      5.69608235842773,
+      1.523087260029163
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      1.159949403597723,
+      7.595019314708292,
+      2.267500445813157
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      0.9357024295099294,
+      5.664638269736896,
+      2.8724248991742782
+     ]
+    },
+    "D": {
+     "desc": "blue cylinder",
+     "center": [
+      1.0456450067537841,
+      6.805108908452293,
+      0.7847658882916067
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_001.png",
+   "axis": "vertical",
+   "A": "blue sphere",
+   "B": "green sphere",
+   "C": "purple sphere",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "blue sphere",
+     "center": [
+      -0.8689422271112823,
+      6.338490028169478,
+      1.0188708005734564
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      0.8460713698414337,
+      5.570447575186256,
+      1.7287498852379186
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      0.5488939746239261,
+      7.4377191040464705,
+      2.453344616825569
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      -0.4164567419507573,
+      5.377818411532641,
+      2.8866464107485457
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_002.png",
+   "axis": "vertical",
+   "A": "yellow cylinder",
+   "B": "green cone",
+   "C": "red cylinder",
+   "D": "orange sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.0501276268001376,
+      7.11262121324616,
+      0.878581041246434
+     ]
+    },
+    "B": {
+     "desc": "green cone",
+     "center": [
+      -1.0064914629308663,
+      8.100856592340026,
+      1.4968644712239114
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      1.2170358722954173,
+      5.072148039120286,
+      2.4934092714983866
+     ]
+    },
+    "D": {
+     "desc": "orange sphere",
+     "center": [
+      -0.3041221217790717,
+      7.675733411078857,
+      2.936297065285191
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_003.png",
+   "axis": "vertical",
+   "A": "green cone",
+   "B": "red cube",
+   "C": "purple sphere",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "green cone",
+     "center": [
+      0.8238024996528752,
+      6.2765453083109755,
+      1.53885377690635
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      1.1764427921373808,
+      4.68631846204708,
+      2.2830206300356934
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      -1.0674183684463272,
+      4.996746892608243,
+      2.933548303339067
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      -0.4781877485306196,
+      5.620605376471042,
+      1.1877023692279338
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_004.png",
+   "axis": "vertical",
+   "A": "purple cylinder",
+   "B": "green cylinder",
+   "C": "red cone",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.069612383010674,
+      5.316935499433697,
+      0.9725968617608163
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      0.3001501697002893,
+      5.509077441019475,
+      1.6317458456076808
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      -0.8664004835535758,
+      6.8995586558031405,
+      2.3911731490098997
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      1.2603289735155512,
+      7.555296195128625,
+      2.7162334371111934
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_005.png",
+   "axis": "vertical",
+   "A": "orange cone",
+   "B": "purple cone",
+   "C": "green cone",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -0.5859292469634325,
+      5.693340163886459,
+      1.1912758695093513
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      0.7865703822122634,
+      7.245130833264868,
+      1.9166355432054587
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      -0.7536097017367663,
+      5.224468437891612,
+      2.6289263123104782
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      0.5273182722936802,
+      7.000642760357444,
+      0.8736608923455573
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_006.png",
+   "axis": "vertical",
+   "A": "orange cylinder",
+   "B": "yellow sphere",
+   "C": "blue cylinder",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.8852908367007308,
+      6.07966738518812,
+      1.8217713684318344
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.2559307569440237,
+      6.899324836747905,
+      2.4068102660599475
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.24310084615370386,
+      7.055947300790153,
+      2.9963294642211777
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      1.2238869701455641,
+      5.58550477174608,
+      1.04339123382311
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_007.png",
+   "axis": "vertical",
+   "A": "green cube",
+   "B": "red cube",
+   "C": "orange cylinder",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      1.1663101155717768,
+      6.978608569188398,
+      0.7860909879018452
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      0.07854054715499115,
+      6.963399820500603,
+      1.6226486300811764
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      1.2657936330474038,
+      4.74954533927703,
+      2.3200455784877234
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      -0.15026442089720216,
+      4.555512414310599,
+      3.0219618303004405
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_008.png",
+   "axis": "vertical",
+   "A": "purple cube",
+   "B": "orange cube",
+   "C": "red cube",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      -0.8814026248548658,
+      6.329195190930056,
+      1.5115897509561815
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      0.18267602393184967,
+      7.625877911130484,
+      2.27271752453578
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      1.1384305642405774,
+      7.759083114103946,
+      3.0148272765129382
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -1.111601496916788,
+      7.477906391000838,
+      1.0602525616626177
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_009.png",
+   "axis": "vertical",
+   "A": "orange cone",
+   "B": "red cone",
+   "C": "yellow cone",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      1.0834797269341503,
+      6.484733524096117,
+      0.8307761254467697
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      -1.0065799221829157,
+      4.334922589390192,
+      1.8295594938125617
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      0.7092820172554704,
+      6.516582172658202,
+      2.4169487693161167
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      1.3000687607412416,
+      5.389309661917418,
+      2.791222888205829
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_010.png",
+   "axis": "vertical",
+   "A": "blue cylinder",
+   "B": "yellow cube",
+   "C": "purple cone",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -1.2881601269009983,
+      5.281928224100372,
+      1.2194532820647366
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      0.5513913660784056,
+      5.051208772524273,
+      1.9643076973758258
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      -1.0065401101137061,
+      6.08218970626724,
+      2.523945580680463
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -0.1419948686759991,
+      4.843673365679581,
+      2.8603127570595555
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_011.png",
+   "axis": "vertical",
+   "A": "yellow cube",
+   "B": "red sphere",
+   "C": "green cone",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow cube",
+     "center": [
+      0.6651436990708377,
+      7.933329865517264,
+      1.2612504013784305
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -0.3083799859052596,
+      6.601928566665739,
+      1.9036632572684846
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      0.5997407670723898,
+      4.571873183681894,
+      2.926084199884699
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      -1.196013652635391,
+      7.709927591444846,
+      0.8298024745147525
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_012.png",
+   "axis": "vertical",
+   "A": "orange cone",
+   "B": "red cylinder",
+   "C": "green sphere",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      0.5690674654490118,
+      6.3047037473435745,
+      1.3153012368444719
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.323194395520251,
+      4.704765811499781,
+      2.019202132303166
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      0.9322396538170228,
+      8.027638477470084,
+      2.6225213703751917
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.079197315038716,
+      6.290559514049368,
+      0.9569803827011699
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_013.png",
+   "axis": "vertical",
+   "A": "blue cylinder",
+   "B": "blue cone",
+   "C": "green cylinder",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      0.40288529968047526,
+      7.17319793676001,
+      1.3020760732276546
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      1.042413933506717,
+      5.897060551452673,
+      1.8748515077536294
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      -1.0976384682304803,
+      6.569584216428256,
+      2.5185951012825663
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      0.5895296440777704,
+      8.075680820909097,
+      3.028927145689417
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_014.png",
+   "axis": "vertical",
+   "A": "green sphere",
+   "B": "purple cube",
+   "C": "orange sphere",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      1.319199391783867,
+      6.8754483962284345,
+      1.0032207585354755
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -0.494514430215082,
+      6.3280184372512895,
+      1.802866920693997
+     ]
+    },
+    "C": {
+     "desc": "orange sphere",
+     "center": [
+      0.1773222090021942,
+      5.602791354656975,
+      2.482666648040217
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.1691535268099449,
+      7.835168674186013,
+      2.9441727862569165
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_015.png",
+   "axis": "vertical",
+   "A": "red cylinder",
+   "B": "red cube",
+   "C": "blue cylinder",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      0.92199440859227,
+      5.61024660627853,
+      1.0987351529689349
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      -0.6437555165602544,
+      5.23566711864247,
+      1.6626313955717054
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.13789504258599616,
+      4.635065168358167,
+      2.4269960485556927
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      0.786825672354694,
+      6.451254431277144,
+      2.7656076975826984
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_016.png",
+   "axis": "vertical",
+   "A": "orange cone",
+   "B": "orange cube",
+   "C": "blue sphere",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -0.1244220847837354,
+      4.861125737508853,
+      0.8190737859351821
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      1.309363122310867,
+      4.3654336008751,
+      1.3691663581708258
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5017674203055283,
+      4.307899290719962,
+      2.4019267833918603
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      -0.34172017595734117,
+      6.415605830085571,
+      2.7476427497318054
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_017.png",
+   "axis": "vertical",
+   "A": "green cylinder",
+   "B": "purple cube",
+   "C": "red cylinder",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -0.3120335637496603,
+      7.334895262114328,
+      1.7028439085661322
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -1.3200177643587994,
+      5.110827507831225,
+      2.306235693757126
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      -0.24095465848702613,
+      6.451117169156364,
+      2.9938303800881627
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      -0.7154068353201489,
+      6.23303104487443,
+      1.3201228600240649
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_018.png",
+   "axis": "vertical",
+   "A": "purple cylinder",
+   "B": "purple cone",
+   "C": "blue cone",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.2488818472894796,
+      6.884847691154581,
+      1.3041632053354468
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      -0.19024116602525476,
+      7.526894045983546,
+      1.8560550106871325
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      0.03426172107135095,
+      5.762805924501551,
+      2.4596789800294157
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      1.1912274427600487,
+      7.231327674781273,
+      0.8899412339265131
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_019.png",
+   "axis": "vertical",
+   "A": "yellow cone",
+   "B": "red sphere",
+   "C": "red cone",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      -1.1998925573267551,
+      6.711026782532845,
+      0.9709096583738083
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -0.050954384282759335,
+      6.190614419652082,
+      1.6468411043916507
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      -0.10746581974714697,
+      7.4873108138717726,
+      2.6415428223188466
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      -1.2323120555518725,
+      7.120910867475704,
+      2.970642465887594
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_020.png",
+   "axis": "vertical",
+   "A": "purple cylinder",
+   "B": "green cylinder",
+   "C": "blue cone",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.743365391087122,
+      7.0612311612679886,
+      0.7867432366184488
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      -0.5723964055629335,
+      6.933385949486267,
+      1.9093524620414786
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      1.364888289124178,
+      5.074812824505639,
+      2.6740583781708644
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      -1.2950705578784782,
+      6.169012464765686,
+      2.9804428590560517
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_021.png",
+   "axis": "vertical",
+   "A": "green cylinder",
+   "B": "blue sphere",
+   "C": "red cylinder",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -0.7274750437346211,
+      6.514596715772174,
+      1.171342965501661
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      -0.392526102050043,
+      8.192067947056119,
+      1.8765916722493743
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      0.537315999634701,
+      7.729775174378858,
+      2.9894412760928324
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      1.2376630499816228,
+      4.337178326646989,
+      0.8415933402989653
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_022.png",
+   "axis": "vertical",
+   "A": "red cone",
+   "B": "blue cube",
+   "C": "orange cube",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      1.0849843437916773,
+      7.697500720162235,
+      0.7537136548960084
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      -0.21876087012334322,
+      6.3405149101001825,
+      1.8880711074563576
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      -0.9165331689723489,
+      4.578373589434584,
+      2.5590544005631655
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -0.228090410810879,
+      6.194925689691255,
+      2.9916099821098325
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_023.png",
+   "axis": "vertical",
+   "A": "yellow sphere",
+   "B": "red sphere",
+   "C": "green cone",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      0.7975932415238285,
+      4.869077713798659,
+      1.153070315336492
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -1.300177568042677,
+      6.77159955233952,
+      1.7069280260815165
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      1.0253521068946152,
+      4.565255279438867,
+      2.6129931948170473
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.237069361416713,
+      5.212672628586146,
+      0.8448348382973754
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_024.png",
+   "axis": "vertical",
+   "A": "blue cylinder",
+   "B": "green sphere",
+   "C": "yellow cube",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      0.0621819364815579,
+      7.34365747091842,
+      1.0221724205141671
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      1.315354486284312,
+      7.303215952209479,
+      1.7479498912975533
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      -1.1841512425888547,
+      7.854957446741928,
+      2.6978516622430124
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      -0.012212009905836041,
+      7.187958976457388,
+      3.0392918862939933
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_025.png",
+   "axis": "vertical",
+   "A": "blue cube",
+   "B": "red sphere",
+   "C": "purple cone",
+   "D": "orange sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cube",
+     "center": [
+      -0.5129279983078384,
+      6.30825521835176,
+      1.0210925550210437
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      0.4913493339701427,
+      5.979925157816597,
+      1.7345496390700812
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      1.3536610466022108,
+      4.710645452566692,
+      2.629395119603181
+     ]
+    },
+    "D": {
+     "desc": "orange sphere",
+     "center": [
+      -1.1127513243974125,
+      4.4818231249477645,
+      2.9708934006171925
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_026.png",
+   "axis": "vertical",
+   "A": "purple cone",
+   "B": "orange sphere",
+   "C": "orange cone",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      -0.41097336913151294,
+      4.609605937414494,
+      1.2711016783597775
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      0.8588802964533282,
+      5.66460636434658,
+      1.8325957722018638
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      -1.1234922257399005,
+      4.783017148961431,
+      2.8409295671824073
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.39560223656661253,
+      6.555347351152712,
+      0.7955315249120776
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_027.png",
+   "axis": "vertical",
+   "A": "orange cylinder",
+   "B": "yellow cube",
+   "C": "red sphere",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      1.2725300907715549,
+      6.325592615689939,
+      0.989854558633937
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      -0.24199943636263876,
+      4.70901782148455,
+      1.9266419160659827
+     ]
+    },
+    "C": {
+     "desc": "red sphere",
+     "center": [
+      -1.3513535428899688,
+      6.771935823438966,
+      2.6444151636034943
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      0.809899801930567,
+      5.405614057756413,
+      3.024647672023332
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_028.png",
+   "axis": "vertical",
+   "A": "red sphere",
+   "B": "purple cylinder",
+   "C": "yellow cone",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      0.7456547790020651,
+      6.442796246087079,
+      1.4619982453679659
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      0.13564245996036717,
+      7.1668614822813375,
+      2.0217877783037927
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      1.326278240897257,
+      4.922966515085692,
+      2.9070275416245233
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      -1.0771097963531955,
+      5.487422455545698,
+      1.098653162191039
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_029.png",
+   "axis": "vertical",
+   "A": "blue sphere",
+   "B": "green sphere",
+   "C": "yellow cube",
+   "D": "orange sphere",
+   "objects": {
+    "A": {
+     "desc": "blue sphere",
+     "center": [
+      1.34554041939428,
+      7.00415244086715,
+      0.8838350730305387
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      -1.2648949239942235,
+      4.9463923892297945,
+      1.8135684195957786
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      -0.7619416585473846,
+      7.7697351756424755,
+      2.552487279072128
+     ]
+    },
+    "D": {
+     "desc": "orange sphere",
+     "center": [
+      -0.6254532667338466,
+      5.147394545572971,
+      2.9982864551142163
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_030.png",
+   "axis": "vertical",
+   "A": "orange sphere",
+   "B": "red cube",
+   "C": "blue cube",
+   "D": "green cube",
+   "objects": {
+    "A": {
+     "desc": "orange sphere",
+     "center": [
+      -0.4639650558014372,
+      7.604583365295804,
+      1.353819525672605
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      -0.96083115782404,
+      4.94632154136478,
+      2.372786468200821
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      -0.5697583581057089,
+      7.899456344190822,
+      2.9645211631856556
+     ]
+    },
+    "D": {
+     "desc": "green cube",
+     "center": [
+      1.2466848120623366,
+      7.1217511167966085,
+      1.0449323623521418
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_031.png",
+   "axis": "vertical",
+   "A": "yellow cube",
+   "B": "yellow sphere",
+   "C": "blue cube",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow cube",
+     "center": [
+      0.39118028906743296,
+      7.752405871787593,
+      0.7642198222185017
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.797408033519512,
+      7.179218915323372,
+      1.9793465358137428
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      -1.3899437991573707,
+      5.270504061726032,
+      2.5780052021329984
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      1.1088579787930875,
+      6.6902902070688075,
+      2.905745404584531
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_032.png",
+   "axis": "vertical",
+   "A": "purple sphere",
+   "B": "red sphere",
+   "C": "green cylinder",
+   "D": "green cube",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      -0.5186893106459196,
+      4.781495583445146,
+      1.3309391786402918
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      1.126006815047667,
+      5.167984065625781,
+      1.9936523737188359
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      -0.014441398980610698,
+      4.31102581512824,
+      2.6371187212968255
+     ]
+    },
+    "D": {
+     "desc": "green cube",
+     "center": [
+      -0.7794591872419669,
+      7.314378015214368,
+      0.8750902083421197
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_033.png",
+   "axis": "vertical",
+   "A": "blue cylinder",
+   "B": "blue cube",
+   "C": "yellow cylinder",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -1.0858451828855165,
+      4.424121059147128,
+      1.2694506844544038
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.11432865922903224,
+      7.526644342879037,
+      2.0704772829364035
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.3741842691520365,
+      7.924271524685483,
+      3.009480944678875
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -1.3446811747048741,
+      5.531945247912717,
+      0.8858748095122676
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_034.png",
+   "axis": "vertical",
+   "A": "red cube",
+   "B": "yellow cylinder",
+   "C": "orange cone",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      1.1513244507039304,
+      6.466074646766291,
+      1.5756405467982137
+     ]
+    },
+    "B": {
+     "desc": "yellow cylinder",
+     "center": [
+      1.1547393842771867,
+      7.534090010743482,
+      2.1965934135165672
+     ]
+    },
+    "C": {
+     "desc": "orange cone",
+     "center": [
+      -0.805499105609326,
+      6.296356913550126,
+      2.8629820510768775
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -1.0446585217840558,
+      7.3232520082802495,
+      0.8475925649969249
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_035.png",
+   "axis": "vertical",
+   "A": "red cube",
+   "B": "red cylinder",
+   "C": "purple sphere",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      0.4417632670036724,
+      6.549580231460645,
+      1.2566189081804193
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.16691016408948256,
+      6.027659945980131,
+      2.1123026664048044
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      0.9503689164246891,
+      6.434893068890311,
+      2.6972868179882865
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      -1.016486686703232,
+      4.743646967451682,
+      0.8777140328129567
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_036.png",
+   "axis": "vertical",
+   "A": "blue cone",
+   "B": "green cube",
+   "C": "red cylinder",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cone",
+     "center": [
+      0.526623782543123,
+      6.872598984815034,
+      0.8000847281632713
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -0.0905836396420856,
+      6.254591311838244,
+      1.498782440112095
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      -0.3409583599425714,
+      4.777805719380359,
+      2.3245488833832764
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      -0.9862278616580704,
+      7.828475879701459,
+      2.849665369086772
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_037.png",
+   "axis": "vertical",
+   "A": "red cube",
+   "B": "green cylinder",
+   "C": "purple cube",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -0.717319461960329,
+      6.775556284172604,
+      0.8233476776158062
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      -0.75250512388949,
+      6.17586761548858,
+      1.7249760637445806
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      0.5875183586203021,
+      7.066201722317409,
+      2.5548486370166152
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      0.37202309376159914,
+      5.749384586710947,
+      2.9992439979543595
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_038.png",
+   "axis": "vertical",
+   "A": "purple cube",
+   "B": "blue cone",
+   "C": "green cylinder",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      1.2204063889936445,
+      5.498274623693008,
+      1.1873785030009567
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      1.3849426513587075,
+      4.4336467675150635,
+      2.0053313189663093
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      0.1718752285362326,
+      6.757552826644395,
+      2.8804355605104255
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.010608981309361942,
+      5.987589017807744,
+      0.8230621856749512
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_039.png",
+   "axis": "vertical",
+   "A": "blue cylinder",
+   "B": "green cylinder",
+   "C": "blue sphere",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.42570166981687174,
+      5.269383051022383,
+      1.1785324443769651
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      -1.0873449862893847,
+      4.835432710507049,
+      2.261649605162999
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      0.8881002860914538,
+      5.1519664857738245,
+      3.040120721495691
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      -0.5719899579003918,
+      7.25413259662128,
+      0.8588868200309776
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_040.png",
+   "axis": "vertical",
+   "A": "orange cone",
+   "B": "orange cube",
+   "C": "blue cube",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      0.4833393732606164,
+      7.000593421485416,
+      0.7621735541096616
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      1.3441095200126307,
+      6.310439317432233,
+      1.696573125666578
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      -0.1684754268920723,
+      7.7133489348597415,
+      2.525567160383458
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      -1.0358985469135664,
+      4.577527476404855,
+      2.8381479940374703
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_041.png",
+   "axis": "vertical",
+   "A": "purple cube",
+   "B": "green cube",
+   "C": "blue cylinder",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      1.0849132715082441,
+      7.283753947016184,
+      1.268703653455955
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      1.321393137697704,
+      5.927145270174984,
+      2.122933791981722
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.5780026274935397,
+      5.972453449730338,
+      2.770434801552528
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      -1.0816586078392234,
+      6.734440200614857,
+      0.848541513653518
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_042.png",
+   "axis": "vertical",
+   "A": "green cylinder",
+   "B": "orange cylinder",
+   "C": "orange cube",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      0.6242690317663748,
+      7.117215869109853,
+      0.808147636089042
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.8666752460244818,
+      5.630252114041268,
+      1.4489278588149959
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      0.6625434694339352,
+      6.554128602685787,
+      2.3062441961922806
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -0.6506690509728259,
+      8.067061508859641,
+      3.0070916671756245
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_043.png",
+   "axis": "vertical",
+   "A": "green cylinder",
+   "B": "blue sphere",
+   "C": "yellow cylinder",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -1.0713259285908068,
+      4.6753861435095105,
+      0.8259794384770682
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      1.3003834649581987,
+      5.21565648651397,
+      1.4458235640238501
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.9433583602777198,
+      6.190400829134145,
+      2.226503404295686
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      1.0220303801056985,
+      6.8873858417768625,
+      3.009469293598888
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_044.png",
+   "axis": "vertical",
+   "A": "purple sphere",
+   "B": "purple cylinder",
+   "C": "yellow sphere",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      -0.9612771748940587,
+      6.679809027251462,
+      1.5500826258166622
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.30650147256863747,
+      7.24029224921793,
+      2.3135093135104112
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.16872978764043212,
+      5.784636830638265,
+      2.9622283459063503
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      -0.4394467873332156,
+      4.947992070277185,
+      0.995801621605008
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_045.png",
+   "axis": "vertical",
+   "A": "orange cube",
+   "B": "blue cube",
+   "C": "green cylinder",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      0.7983477363860509,
+      8.096617985837513,
+      1.2215592886801399
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      0.8039427655992708,
+      6.394487398857394,
+      1.9146136218433325
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      0.2589459388161719,
+      4.9137196029999695,
+      2.807036591889558
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5389034172498108,
+      7.336408501542049,
+      0.7775606818299314
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_046.png",
+   "axis": "vertical",
+   "A": "green sphere",
+   "B": "purple sphere",
+   "C": "purple cylinder",
+   "D": "green cube",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      0.3143576428782915,
+      4.368940385296969,
+      0.795683202902264
+     ]
+    },
+    "B": {
+     "desc": "purple sphere",
+     "center": [
+      -0.3315939021130483,
+      7.393155257860054,
+      1.6045324478862257
+     ]
+    },
+    "C": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.7719329434560971,
+      5.340634055546659,
+      2.543254170766888
+     ]
+    },
+    "D": {
+     "desc": "green cube",
+     "center": [
+      -1.0328535195614519,
+      6.6954084864110275,
+      3.0045719575490053
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_047.png",
+   "axis": "vertical",
+   "A": "red sphere",
+   "B": "purple cylinder",
+   "C": "orange cylinder",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -0.8457415986974897,
+      4.439469420128385,
+      1.0671102952854201
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      0.36129608229514876,
+      6.894849655352417,
+      1.6445946978786843
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -1.0133995902474602,
+      6.924220257436889,
+      2.6236551569918025
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      0.8745681500230766,
+      4.547162452860221,
+      2.939006886458708
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_048.png",
+   "axis": "vertical",
+   "A": "orange cube",
+   "B": "red cone",
+   "C": "red cube",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      -0.7270080584284806,
+      7.230583117544507,
+      0.9452233959540529
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      0.9273650447887865,
+      6.167800311247043,
+      1.6697261823691276
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      -1.0776776459582855,
+      7.776964475435909,
+      2.348190121781765
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      0.06448440168535896,
+      7.116962219457024,
+      2.666639596110291
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_049.png",
+   "axis": "vertical",
+   "A": "red sphere",
+   "B": "orange cone",
+   "C": "orange cylinder",
+   "D": "purple cylinder",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -0.6295430465774929,
+      6.433229160676103,
+      1.1099019120742017
+     ]
+    },
+    "B": {
+     "desc": "orange cone",
+     "center": [
+      -0.769804297763912,
+      5.488024917476426,
+      1.787463064972599
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.4902456634100152,
+      6.285826376643056,
+      2.9663954470106035
+     ]
+    },
+    "D": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.9533489569093789,
+      5.121123853470213,
+      0.7598060503603292
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_050.png",
+   "axis": "vertical",
+   "A": "yellow cylinder",
+   "B": "yellow cone",
+   "C": "blue cube",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      1.1501468808063895,
+      6.626614498686473,
+      1.2585721608994123
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      -0.8336803404934927,
+      6.913636381329416,
+      1.896461003132817
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      -0.5193728059735956,
+      8.040981344338773,
+      2.631710995529136
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      -0.9004812928704342,
+      4.991634062916986,
+      2.975968329139321
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_051.png",
+   "axis": "vertical",
+   "A": "orange cylinder",
+   "B": "purple cube",
+   "C": "red sphere",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      0.7084127666089279,
+      7.495668314815605,
+      0.8051352923440909
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -1.3654734623644447,
+      7.842068682437892,
+      2.014187697885422
+     ]
+    },
+    "C": {
+     "desc": "red sphere",
+     "center": [
+      0.3579629798321087,
+      4.793484865941967,
+      2.689163823474992
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      -0.7933014442405038,
+      4.574489620927857,
+      3.0424530152112017
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_052.png",
+   "axis": "vertical",
+   "A": "yellow cylinder",
+   "B": "red cone",
+   "C": "orange cylinder",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.01870063413817613,
+      6.982388142345564,
+      0.9362567698887518
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      -0.6502006460969718,
+      6.687405909920345,
+      1.8251844477215777
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.5945246291434035,
+      5.456914668378918,
+      2.5928665087458307
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      0.8581785760394127,
+      4.687478664632667,
+      3.01400321052159
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_053.png",
+   "axis": "vertical",
+   "A": "purple cone",
+   "B": "yellow cone",
+   "C": "orange cylinder",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      -0.9698498179237729,
+      6.118649510652166,
+      0.8418883130962189
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      0.2661956448317999,
+      5.590336600641617,
+      1.6420566445731803
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -1.1133287533847107,
+      5.6296190218453095,
+      2.264988483436204
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.22485234595983705,
+      7.311088824789108,
+      2.733563850011874
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_054.png",
+   "axis": "vertical",
+   "A": "blue sphere",
+   "B": "yellow cube",
+   "C": "red cylinder",
+   "D": "green sphere",
+   "objects": {
+    "A": {
+     "desc": "blue sphere",
+     "center": [
+      -0.9250467960013464,
+      7.003689120941579,
+      1.740485931294426
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      0.7607138011975096,
+      5.337619136968389,
+      2.3540465275411733
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      0.663643446461859,
+      4.312202818200664,
+      3.0016445361721518
+     ]
+    },
+    "D": {
+     "desc": "green sphere",
+     "center": [
+      0.21948807671000936,
+      7.378957015606505,
+      1.2823291869317326
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_055.png",
+   "axis": "vertical",
+   "A": "green cylinder",
+   "B": "yellow sphere",
+   "C": "yellow cone",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      0.7742108742693601,
+      6.17993107624879,
+      1.2342707290346242
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.3666246185005968,
+      5.623708187926249,
+      2.2485146867870047
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      -1.303053959666625,
+      7.763055547422276,
+      2.8372173497390625
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -0.15646380084829192,
+      7.528388501619162,
+      0.887486932013688
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_056.png",
+   "axis": "vertical",
+   "A": "yellow cylinder",
+   "B": "blue cylinder",
+   "C": "red cube",
+   "D": "orange sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.8091231342754891,
+      7.680116939707371,
+      1.3728002274208062
+     ]
+    },
+    "B": {
+     "desc": "blue cylinder",
+     "center": [
+      0.6836265848556748,
+      6.6910197270120015,
+      2.083329728406174
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      -0.9475778255611462,
+      5.8905292159186375,
+      2.9477544397408413
+     ]
+    },
+    "D": {
+     "desc": "orange sphere",
+     "center": [
+      1.2754076795071883,
+      7.017078596199371,
+      0.909376153714264
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_057.png",
+   "axis": "vertical",
+   "A": "red cone",
+   "B": "blue cube",
+   "C": "purple sphere",
+   "D": "red cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      0.5018237672309989,
+      5.265146426960948,
+      1.4687591755295704
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      -0.87972993022971,
+      7.137211987611629,
+      2.2579840396691333
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      -1.3788234975571392,
+      4.927861969897119,
+      2.902043147404327
+     ]
+    },
+    "D": {
+     "desc": "red cylinder",
+     "center": [
+      -0.7412332946202859,
+      7.812915852139949,
+      1.018932847277026
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_058.png",
+   "axis": "vertical",
+   "A": "yellow cone",
+   "B": "green cube",
+   "C": "orange cylinder",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      1.2742548880518032,
+      7.974725375539228,
+      0.893509988818042
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -0.17725406475172312,
+      6.937450380694836,
+      1.7102034430864577
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.04448873979154544,
+      4.5666034420614645,
+      2.4407925762571545
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      -1.3674164580936479,
+      6.2489484985160555,
+      2.901215867942159
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "vertical_059.png",
+   "axis": "vertical",
+   "A": "purple cylinder",
+   "B": "red sphere",
+   "C": "green cylinder",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      0.6667198946997956,
+      5.619489195294057,
+      1.2070901370279756
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -0.42242495983342476,
+      7.957856843063814,
+      2.0001748593490474
+     ]
+    },
+    "C": {
+     "desc": "green cylinder",
+     "center": [
+      -0.5986982759714577,
+      4.893102979827047,
+      2.841217325174031
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      1.1657775825013963,
+      7.263565570406254,
+      0.7609845880111756
+     ]
+    }
+   }
+  }
+ ],
+ "closefar": [
+  {
+   "image_path": "closefar_000.png",
+   "axis": "closefar",
+   "A": "red cone",
+   "B": "green cube",
+   "C": "red sphere",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      1.718514497265732,
+      5.57962254080854,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -1.6758803954309636,
+      8.101838794829032,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red sphere",
+     "center": [
+      0.5720001272460337,
+      9.673865028293896,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -0.5820596737283055,
+      2.93591546893402,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_001.png",
+   "axis": "closefar",
+   "A": "green cone",
+   "B": "green cylinder",
+   "C": "blue cube",
+   "D": "red sphere",
+   "objects": {
+    "A": {
+     "desc": "green cone",
+     "center": [
+      -0.5784441535184169,
+      3.5076179032023447,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      1.6517181179277942,
+      4.985232185696323,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      -1.7531824897088202,
+      9.460081867072262,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red sphere",
+     "center": [
+      0.6510198762421542,
+      3.0975319465789894,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_002.png",
+   "axis": "closefar",
+   "A": "red cylinder",
+   "B": "orange cube",
+   "C": "green sphere",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      1.7974913365282368,
+      3.714237319792485,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      -0.6516599758895099,
+      5.125587280808643,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      0.5296449052725184,
+      8.354209090579038,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      -1.6152914952696547,
+      2.9364487077919033,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_003.png",
+   "axis": "closefar",
+   "A": "yellow cylinder",
+   "B": "green cube",
+   "C": "blue cone",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.677880072622722,
+      3.993069064527524,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      1.7694760651998862,
+      6.844636404496692,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      0.6031622033912882,
+      10.346889227577456,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      -0.5567778723864785,
+      3.1158163805254575,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_004.png",
+   "axis": "closefar",
+   "A": "green cube",
+   "B": "orange sphere",
+   "C": "green sphere",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      1.7472581913476721,
+      5.893788259526922,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      -1.6927683122579724,
+      7.445336769456574,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      -0.5978037007398024,
+      9.395855875816473,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      0.5537166258070306,
+      10.480248829713481,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_005.png",
+   "axis": "closefar",
+   "A": "red cylinder",
+   "B": "orange cylinder",
+   "C": "yellow cone",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      0.5642090394907786,
+      3.7861106892060685,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.6071644230929899,
+      7.5829192695228365,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      1.6293289958111208,
+      10.275868517485106,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      -1.6178834302965004,
+      3.0224119902184055,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_006.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "yellow cylinder",
+   "C": "red cube",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      1.6791411431369374,
+      5.162025589667017,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.5887389640634952,
+      7.54353698225059,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cube",
+     "center": [
+      -1.6070612397584485,
+      9.030622362638596,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      0.6045048893754086,
+      9.685580131557598,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_007.png",
+   "axis": "closefar",
+   "A": "purple cube",
+   "B": "yellow cone",
+   "C": "purple cylinder",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      -0.5213690321827396,
+      3.8199890832757504,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      0.5303528225523669,
+      5.481004926543159,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.622676936515227,
+      6.965973626183265,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      1.6026295166100066,
+      7.852023013089072,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_008.png",
+   "axis": "closefar",
+   "A": "purple cube",
+   "B": "red cylinder",
+   "C": "orange cube",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      -0.4750403238441246,
+      3.610433210408573,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      1.7326570733351212,
+      8.890921645091193,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      0.5029323640560109,
+      10.529780310405021,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -1.6234225363820936,
+      3.112314147333848,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_009.png",
+   "axis": "closefar",
+   "A": "yellow cube",
+   "B": "orange sphere",
+   "C": "orange cylinder",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "yellow cube",
+     "center": [
+      -1.6846833341541172,
+      3.2872118688170224,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      0.5855197711467265,
+      6.534337088498065,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.6386964107881976,
+      8.092820267227042,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      1.7705530199089017,
+      9.854098459404817,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_010.png",
+   "axis": "closefar",
+   "A": "purple cone",
+   "B": "red cube",
+   "C": "blue cube",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      -0.5932762403302234,
+      2.956828812433533,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      0.490282153966199,
+      4.493335562818058,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cube",
+     "center": [
+      1.7470012187758746,
+      6.701992412349114,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.7547378480915963,
+      10.55188422368794,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_011.png",
+   "axis": "closefar",
+   "A": "green cylinder",
+   "B": "green sphere",
+   "C": "yellow cube",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      1.761302502228514,
+      5.277036328963899,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green sphere",
+     "center": [
+      0.5344146892011356,
+      8.10727445365338,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      -1.6072596422417487,
+      10.191287041208781,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      -0.5928151036117022,
+      4.565212919304216,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_012.png",
+   "axis": "closefar",
+   "A": "yellow cube",
+   "B": "blue sphere",
+   "C": "green sphere",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow cube",
+     "center": [
+      -1.7586424936472804,
+      6.304630324564959,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      -0.6605262786686302,
+      8.552544085737193,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green sphere",
+     "center": [
+      0.5088175425681897,
+      10.071736179349836,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      1.7939676025199276,
+      10.536333122787221,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_013.png",
+   "axis": "closefar",
+   "A": "green cylinder",
+   "B": "red cube",
+   "C": "orange sphere",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      -0.6097937791984324,
+      3.0233706559464815,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      -1.7410201597372044,
+      4.378314789974014,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange sphere",
+     "center": [
+      1.7951806565829354,
+      6.601295468962295,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      0.5044613411189723,
+      8.764250943370397,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_014.png",
+   "axis": "closefar",
+   "A": "purple cube",
+   "B": "orange cylinder",
+   "C": "yellow sphere",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      -1.6403467029700272,
+      4.480095092622422,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.5612946792270413,
+      8.311927184475977,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      1.6773238526861007,
+      10.372064430863102,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      0.6474999170003657,
+      2.9497008113760557,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_015.png",
+   "axis": "closefar",
+   "A": "purple sphere",
+   "B": "yellow sphere",
+   "C": "blue sphere",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      -1.6768159608084772,
+      4.2306802805735035,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      0.6597991843770391,
+      6.667018458447487,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      1.7749179150999053,
+      9.33417344774537,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -0.5644808335233041,
+      3.5872612396598527,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_016.png",
+   "axis": "closefar",
+   "A": "orange cylinder",
+   "B": "yellow cube",
+   "C": "blue sphere",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.608537288786569,
+      5.529491512038221,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      1.6465261521479229,
+      7.859559840081888,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      0.5052880651418845,
+      10.243582937737356,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.7869912458800308,
+      10.581633335008679,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_017.png",
+   "axis": "closefar",
+   "A": "red sphere",
+   "B": "green cube",
+   "C": "red cylinder",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      -1.628526378059711,
+      3.327669480176419,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      -0.5203041679411605,
+      8.619267755244776,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      0.517970082017855,
+      10.359136662358239,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      1.6834849502076952,
+      2.9542140091725866,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_018.png",
+   "axis": "closefar",
+   "A": "orange cone",
+   "B": "orange sphere",
+   "C": "blue sphere",
+   "D": "blue cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      -1.7575137565546972,
+      3.021120775014957,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      0.5937020288956332,
+      5.590447454065728,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -0.6652800370234548,
+      9.90803174915476,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cylinder",
+     "center": [
+      1.7148185892321224,
+      10.322491174253853,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_019.png",
+   "axis": "closefar",
+   "A": "orange cone",
+   "B": "orange cube",
+   "C": "yellow sphere",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "orange cone",
+     "center": [
+      0.5197122139806089,
+      5.362159521026104,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      1.607644146273167,
+      7.484036228790703,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.5711757160520193,
+      10.523564965846225,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      -1.7894947508846613,
+      4.4936519773405035,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_020.png",
+   "axis": "closefar",
+   "A": "red cube",
+   "B": "red cylinder",
+   "C": "purple cube",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      -1.7363467686098544,
+      3.5431533363773386,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -0.5268861713855526,
+      7.04966413268116,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      1.735267628859025,
+      9.457341489018978,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      0.5835357308427714,
+      9.87431443053528,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_021.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "orange cone",
+   "C": "blue sphere",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      1.7641829529562918,
+      3.0896869541411935,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cone",
+     "center": [
+      -1.6192838181393157,
+      7.0217936031934745,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5421163364664863,
+      8.838891951280754,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      0.6228948096736763,
+      10.556986587245115,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_022.png",
+   "axis": "closefar",
+   "A": "blue cone",
+   "B": "purple cube",
+   "C": "purple cone",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "blue cone",
+     "center": [
+      1.7224722915818866,
+      3.6466211315984682,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      0.6061830367286408,
+      5.830586249455725,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cone",
+     "center": [
+      -1.7647670120846193,
+      8.740777708020353,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -0.6662948612584723,
+      10.171281764745265,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_023.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "purple cylinder",
+   "C": "blue sphere",
+   "D": "yellow cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      0.5690535333932238,
+      4.897270549538909,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      1.6791042843538004,
+      8.404845726817188,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -1.6308957715831691,
+      10.017152341012169,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cone",
+     "center": [
+      -0.6242246586728151,
+      10.57590776451282,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_024.png",
+   "axis": "closefar",
+   "A": "blue sphere",
+   "B": "red sphere",
+   "C": "blue cylinder",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "blue sphere",
+     "center": [
+      -1.749203136900575,
+      6.18277628929903,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      1.6040428363681736,
+      7.928308964328844,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      -0.6505176711469215,
+      10.51181337139579,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      0.6053688518543444,
+      4.403014179135615,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_025.png",
+   "axis": "closefar",
+   "A": "purple cylinder",
+   "B": "green cube",
+   "C": "green cone",
+   "D": "orange sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      0.585830847755448,
+      3.7696619698790843,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cube",
+     "center": [
+      1.6550929876184983,
+      6.401207674714858,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      -0.6259224962144616,
+      8.422285131071,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange sphere",
+     "center": [
+      -1.6043997853946497,
+      9.598794244184322,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_026.png",
+   "axis": "closefar",
+   "A": "purple sphere",
+   "B": "orange cone",
+   "C": "yellow cylinder",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      1.7935261270589822,
+      3.6666285188082695,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cone",
+     "center": [
+      0.5859083318538196,
+      5.054384121789419,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.6540931522001552,
+      8.713535764419897,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      -0.5043178237953573,
+      9.549516880427742,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_027.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "purple cylinder",
+   "C": "orange cylinder",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      1.7670443901533284,
+      3.2714139586764825,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.5733193607342517,
+      5.3906002948193805,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      0.6127886917117961,
+      8.801539130255536,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      -1.6002838863441216,
+      2.911029104134708,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_028.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "blue sphere",
+   "C": "red cylinder",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      0.6001097848389683,
+      3.3687017880603274,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue sphere",
+     "center": [
+      -0.47524792708915387,
+      5.256986082105559,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      -1.7722789524544946,
+      7.962768299775348,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      1.7832591297431168,
+      9.07134259788523,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_029.png",
+   "axis": "closefar",
+   "A": "yellow sphere",
+   "B": "orange cube",
+   "C": "red cylinder",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      0.48539765845767613,
+      6.385074762176217,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      -1.6665667744899353,
+      7.69275588522296,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      -0.6195770212009978,
+      9.766609572523025,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      1.6475127148366115,
+      3.8642492074367825,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_030.png",
+   "axis": "closefar",
+   "A": "red cone",
+   "B": "yellow cube",
+   "C": "orange cube",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      0.4793989220557792,
+      3.4048466924261684,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cube",
+     "center": [
+      -0.532135314804761,
+      5.96205026662685,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      1.7034728102531531,
+      9.925495082787663,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -1.67556923297392,
+      10.322896396167819,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_031.png",
+   "axis": "closefar",
+   "A": "purple cone",
+   "B": "green cone",
+   "C": "blue sphere",
+   "D": "blue cube",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      -1.6666626628552543,
+      4.381321534923883,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cone",
+     "center": [
+      1.6805587846309116,
+      6.091768661635196,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5537246266902982,
+      10.087252837372683,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cube",
+     "center": [
+      0.5708296620228871,
+      10.446385358231353,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_032.png",
+   "axis": "closefar",
+   "A": "orange sphere",
+   "B": "red cone",
+   "C": "blue cone",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "orange sphere",
+     "center": [
+      1.7502387945397557,
+      4.354806981377997,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      0.48287212522414813,
+      6.275201993923531,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cone",
+     "center": [
+      -1.760759386184751,
+      8.619868653592755,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      -0.5788713664891463,
+      9.721413819767099,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_033.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "red cylinder",
+   "C": "yellow cylinder",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      0.549762368615572,
+      3.9368282796832985,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      -1.612401843942609,
+      5.978576534220905,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      1.7922890630956443,
+      9.346242926276322,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -0.6299427397805204,
+      10.596902487299227,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_034.png",
+   "axis": "closefar",
+   "A": "purple sphere",
+   "B": "purple cylinder",
+   "C": "yellow cylinder",
+   "D": "green cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple sphere",
+     "center": [
+      1.6776318130133423,
+      2.983874799667104,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.6624718549199775,
+      4.918787543863212,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      0.5553731262643632,
+      8.552907161531222,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cylinder",
+     "center": [
+      -0.5503209341856227,
+      9.089925646303037,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_035.png",
+   "axis": "closefar",
+   "A": "red cone",
+   "B": "yellow cylinder",
+   "C": "orange cylinder",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      -1.7026927396379314,
+      3.580311011802868,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cylinder",
+     "center": [
+      0.6315749314507941,
+      5.720776269902739,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      1.6569977485484113,
+      7.706146230026439,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      -0.488549393146833,
+      3.1308220758343355,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_036.png",
+   "axis": "closefar",
+   "A": "yellow sphere",
+   "B": "blue cone",
+   "C": "blue sphere",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.5015819433657928,
+      2.9092338509745,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      -1.640223330864853,
+      7.9090483691265945,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      1.7881849863878185,
+      9.89125594077592,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      0.5217196048303625,
+      10.213161977925493,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_037.png",
+   "axis": "closefar",
+   "A": "red sphere",
+   "B": "red cone",
+   "C": "purple sphere",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      1.6353832029905415,
+      3.429817143532466,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cone",
+     "center": [
+      -0.5768697398873388,
+      7.051378341435106,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple sphere",
+     "center": [
+      -1.6800236765730217,
+      9.285662055111814,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      0.6526274850133573,
+      10.01383368038987,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_038.png",
+   "axis": "closefar",
+   "A": "green cube",
+   "B": "orange sphere",
+   "C": "yellow cone",
+   "D": "red cube",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      0.5651240838537848,
+      4.7299695880340415,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      1.654560748774621,
+      8.808406707720607,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cone",
+     "center": [
+      -1.6380701229187908,
+      10.41351348003983,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cube",
+     "center": [
+      -0.4736333830547239,
+      2.9426276415767383,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_039.png",
+   "axis": "closefar",
+   "A": "yellow cylinder",
+   "B": "purple cylinder",
+   "C": "green cube",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.6837200747390633,
+      3.0416420504876394,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.5084873916533508,
+      8.169461063525702,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cube",
+     "center": [
+      1.7151424645299984,
+      9.787258487052489,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      0.6489915516196332,
+      10.553704797303878,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_040.png",
+   "axis": "closefar",
+   "A": "red cylinder",
+   "B": "red sphere",
+   "C": "blue sphere",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "red cylinder",
+     "center": [
+      -1.6016674437152634,
+      4.894516788878865,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      0.5610775783514911,
+      7.707241111586885,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      -0.5739953238753633,
+      9.932366224255883,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      1.7019822709391845,
+      10.233741824925483,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_041.png",
+   "axis": "closefar",
+   "A": "orange cube",
+   "B": "purple cube",
+   "C": "red sphere",
+   "D": "purple cylinder",
+   "objects": {
+    "A": {
+     "desc": "orange cube",
+     "center": [
+      0.6412059959064781,
+      5.656369961307136,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cube",
+     "center": [
+      -1.6102045617006784,
+      7.647878903211025,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red sphere",
+     "center": [
+      1.6970819148513785,
+      10.452859809975186,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.6494740765083364,
+      3.1789768293370697,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_042.png",
+   "axis": "closefar",
+   "A": "red cone",
+   "B": "orange cube",
+   "C": "yellow sphere",
+   "D": "purple cone",
+   "objects": {
+    "A": {
+     "desc": "red cone",
+     "center": [
+      1.7069137408017772,
+      6.362204330420479,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      -0.6533779450305816,
+      8.30239155659117,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      0.5193201518527226,
+      10.349005494537158,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cone",
+     "center": [
+      -1.6953856475216234,
+      3.7674558263576974,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_043.png",
+   "axis": "closefar",
+   "A": "yellow cone",
+   "B": "yellow sphere",
+   "C": "orange cylinder",
+   "D": "yellow cylinder",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      1.7402335168318488,
+      3.91640210463841,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.5973561105083444,
+      5.25641890679711,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cylinder",
+     "center": [
+      0.6200973896270069,
+      8.94007073819989,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cylinder",
+     "center": [
+      -1.7934509197421538,
+      3.4899164154723175,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_044.png",
+   "axis": "closefar",
+   "A": "yellow sphere",
+   "B": "orange sphere",
+   "C": "red cone",
+   "D": "purple sphere",
+   "objects": {
+    "A": {
+     "desc": "yellow sphere",
+     "center": [
+      0.6471479905818249,
+      3.37145603409028,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      -0.5075047082973161,
+      6.2769507349285005,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cone",
+     "center": [
+      -1.678757923800935,
+      10.13417937535371,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple sphere",
+     "center": [
+      1.6084444101096278,
+      2.9002286858328383,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_045.png",
+   "axis": "closefar",
+   "A": "blue cylinder",
+   "B": "orange cone",
+   "C": "purple cylinder",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "blue cylinder",
+     "center": [
+      -1.6577609350398648,
+      4.945832528752325,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cone",
+     "center": [
+      1.7428493618638514,
+      7.351125108751541,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cylinder",
+     "center": [
+      0.5481193361494597,
+      10.51887646122449,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      -0.5217913624508295,
+      2.9898707723217446,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_046.png",
+   "axis": "closefar",
+   "A": "orange cylinder",
+   "B": "yellow cone",
+   "C": "yellow cylinder",
+   "D": "orange cube",
+   "objects": {
+    "A": {
+     "desc": "orange cylinder",
+     "center": [
+      -1.7911530877533968,
+      4.778305126491512,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "yellow cone",
+     "center": [
+      1.7704598945607266,
+      8.524210420542442,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cylinder",
+     "center": [
+      0.6050999582922187,
+      10.395943663712286,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cube",
+     "center": [
+      -0.6469685145504742,
+      3.567274605070605,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_047.png",
+   "axis": "closefar",
+   "A": "yellow cone",
+   "B": "purple cylinder",
+   "C": "yellow cube",
+   "D": "red cone",
+   "objects": {
+    "A": {
+     "desc": "yellow cone",
+     "center": [
+      -0.6638068359170929,
+      5.53710037524152,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      0.47476114606206976,
+      8.060141646044233,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow cube",
+     "center": [
+      1.6132202024052043,
+      9.746456538701437,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "red cone",
+     "center": [
+      -1.749271289024764,
+      10.047776040587602,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_048.png",
+   "axis": "closefar",
+   "A": "blue cone",
+   "B": "orange sphere",
+   "C": "blue cylinder",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "blue cone",
+     "center": [
+      0.6444119657524975,
+      3.27792907927806,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      -0.5559555441130825,
+      6.681525936070077,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue cylinder",
+     "center": [
+      1.733809853315012,
+      8.375283632537574,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.6595210248546808,
+      2.9313312628262693,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_049.png",
+   "axis": "closefar",
+   "A": "purple cube",
+   "B": "purple cone",
+   "C": "green cone",
+   "D": "blue sphere",
+   "objects": {
+    "A": {
+     "desc": "purple cube",
+     "center": [
+      0.6271669864624132,
+      3.0351947435495252,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cone",
+     "center": [
+      -0.6190287114778713,
+      7.681956285168075,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      -1.6024574026960794,
+      9.948913818845696,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue sphere",
+     "center": [
+      1.6050429257141474,
+      10.342868590120911,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_050.png",
+   "axis": "closefar",
+   "A": "purple cylinder",
+   "B": "green cylinder",
+   "C": "red cylinder",
+   "D": "blue cone",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.7949409656597697,
+      5.5896895103612145,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cylinder",
+     "center": [
+      1.761205716878458,
+      7.158645607660526,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      0.637310575223193,
+      10.471552060039798,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cone",
+     "center": [
+      -0.4871371659064405,
+      3.4830620988386367,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_051.png",
+   "axis": "closefar",
+   "A": "green cone",
+   "B": "blue cone",
+   "C": "blue sphere",
+   "D": "green cube",
+   "objects": {
+    "A": {
+     "desc": "green cone",
+     "center": [
+      -0.6128614238818755,
+      7.216664934498958,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cone",
+     "center": [
+      0.553795680378046,
+      8.912951847348243,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "blue sphere",
+     "center": [
+      1.7401795412032641,
+      10.485139842194883,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cube",
+     "center": [
+      -1.6013610328131083,
+      4.9638160646926135,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_052.png",
+   "axis": "closefar",
+   "A": "green cube",
+   "B": "green cone",
+   "C": "purple cylinder",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "green cube",
+     "center": [
+      -1.6671762507031536,
+      4.91831109167349,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "green cone",
+     "center": [
+      0.6035567369343744,
+      7.973984168512061,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.5680867670834489,
+      9.829475050854452,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      1.7745023770441999,
+      10.387744692178728,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_053.png",
+   "axis": "closefar",
+   "A": "purple cylinder",
+   "B": "orange sphere",
+   "C": "purple cube",
+   "D": "orange cylinder",
+   "objects": {
+    "A": {
+     "desc": "purple cylinder",
+     "center": [
+      -1.7147074702501994,
+      2.9524906078716655,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange sphere",
+     "center": [
+      0.6137344769510436,
+      4.965034577945238,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      1.6990428202058665,
+      9.41595868849366,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cylinder",
+     "center": [
+      -0.4721879115188964,
+      10.067040056715664,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_054.png",
+   "axis": "closefar",
+   "A": "blue cube",
+   "B": "red sphere",
+   "C": "green cone",
+   "D": "yellow sphere",
+   "objects": {
+    "A": {
+     "desc": "blue cube",
+     "center": [
+      1.6070106481967188,
+      4.110966741548626,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red sphere",
+     "center": [
+      -0.5405970479121247,
+      5.4264448620501415,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "green cone",
+     "center": [
+      -1.712297032596653,
+      8.15644710274716,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow sphere",
+     "center": [
+      0.5955564867174605,
+      3.7427385648322087,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_055.png",
+   "axis": "closefar",
+   "A": "red sphere",
+   "B": "red cube",
+   "C": "yellow sphere",
+   "D": "green cone",
+   "objects": {
+    "A": {
+     "desc": "red sphere",
+     "center": [
+      1.7191745584508609,
+      4.63291468034026,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cube",
+     "center": [
+      -1.6435882068274728,
+      6.120344950847555,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "yellow sphere",
+     "center": [
+      -0.6452660736923559,
+      8.734455431258711,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "green cone",
+     "center": [
+      0.46724185518140715,
+      3.9325256324017808,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_056.png",
+   "axis": "closefar",
+   "A": "red cube",
+   "B": "blue cube",
+   "C": "purple cube",
+   "D": "yellow cube",
+   "objects": {
+    "A": {
+     "desc": "red cube",
+     "center": [
+      1.7050670784468858,
+      4.421164220357181,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "blue cube",
+     "center": [
+      -0.5647976288882726,
+      7.1092489147120475,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "purple cube",
+     "center": [
+      -1.6732432939063417,
+      8.8055166112646,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "yellow cube",
+     "center": [
+      0.6208570306336647,
+      3.594672802008677,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_057.png",
+   "axis": "closefar",
+   "A": "green cylinder",
+   "B": "purple cylinder",
+   "C": "orange sphere",
+   "D": "blue cylinder",
+   "objects": {
+    "A": {
+     "desc": "green cylinder",
+     "center": [
+      1.628253259973086,
+      3.1878951570785143,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "purple cylinder",
+     "center": [
+      -0.5449998909670727,
+      7.153027924099712,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange sphere",
+     "center": [
+      -1.6564099425637118,
+      9.45163316523424,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "blue cylinder",
+     "center": [
+      0.558692661592311,
+      10.25008136267131,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_058.png",
+   "axis": "closefar",
+   "A": "green sphere",
+   "B": "orange cube",
+   "C": "red cylinder",
+   "D": "purple cube",
+   "objects": {
+    "A": {
+     "desc": "green sphere",
+     "center": [
+      -0.6044937267917293,
+      3.8778852740942753,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "orange cube",
+     "center": [
+      0.6496847486274386,
+      6.005965269997525,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "red cylinder",
+     "center": [
+      1.6888053243365158,
+      10.212058856165209,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "purple cube",
+     "center": [
+      -1.796180609571412,
+      3.0430650545974616,
+      0.4
+     ]
+    }
+   }
+  },
+  {
+   "image_path": "closefar_059.png",
+   "axis": "closefar",
+   "A": "purple cone",
+   "B": "red cylinder",
+   "C": "orange cube",
+   "D": "orange cone",
+   "objects": {
+    "A": {
+     "desc": "purple cone",
+     "center": [
+      1.6599596630186486,
+      3.2430578597808255,
+      0.4
+     ]
+    },
+    "B": {
+     "desc": "red cylinder",
+     "center": [
+      0.5908408440751453,
+      5.036351617754102,
+      0.4
+     ]
+    },
+    "C": {
+     "desc": "orange cube",
+     "center": [
+      -0.6215437274449789,
+      6.720200597276967,
+      0.4
+     ]
+    },
+    "D": {
+     "desc": "orange cone",
+     "center": [
+      -1.7525868429563407,
+      7.55806053959773,
+      0.4
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "bookshelf_behind_basketball.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "basketball",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      1.0606602164833028,
+      -1.0606601270763378
+    ]
+  },
+  "figure_object": {
+    "name": "bookshelf",
+    "orientation": "right",
+    "rotation": 0.0,
+    "position": [
+      -1.0606602164833028,
+      1.0606601270763378
+    ],
+    "intrinsic_relation": "right",
+    "intrinsic_caption": "From the bookshelf's perspective, the basketball is to the right of it."
+  },
+  "translational_relation_caption": "The bookshelf is in front of the basketball.",
+  "reflectional_relation_caption": "The bookshelf is behind the basketball."
+}

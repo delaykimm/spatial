@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "dog_front_bottle.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bottle",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      -3.5355340549443426,
+      3.535533756921126
+    ]
+  },
+  "figure_object": {
+    "name": "dog",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      3.5355340549443426,
+      -3.535533756921126
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the dog's perspective, the bottle is behind it."
+  },
+  "translational_relation_caption": "The dog is behind the bottle.",
+  "reflectional_relation_caption": "The dog is in front of the bottle."
+}

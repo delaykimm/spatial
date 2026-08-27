@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "tree_behind_bed.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bed",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      1.0606602164833028,
+      -1.0606601270763378
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the bed's perspective, the tree is behind it."
+  },
+  "figure_object": {
+    "name": "tree",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      -1.0606602164833028,
+      1.0606601270763378
+    ]
+  },
+  "translational_relation_caption": "The tree is in front of the bed.",
+  "reflectional_relation_caption": "The tree is behind the bed."
+}

@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "tree_behind_bookshelf.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bookshelf",
+    "orientation": "right",
+    "rotation": 0.0,
+    "position": [
+      1.0606602164833028,
+      -1.0606601270763378
+    ],
+    "intrinsic_relation": "left",
+    "intrinsic_caption": "From the bookshelf's perspective, the tree is to the left of it."
+  },
+  "figure_object": {
+    "name": "tree",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      -1.0606602164833028,
+      1.0606601270763378
+    ]
+  },
+  "translational_relation_caption": "The tree is in front of the bookshelf.",
+  "reflectional_relation_caption": "The tree is behind the bookshelf."
+}

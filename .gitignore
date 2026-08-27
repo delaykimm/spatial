@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+data/whatsup_a/
+data/whatsup_b/
+data/spatialtunnel_images/

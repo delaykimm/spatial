@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "violin_front_bookshelf.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bookshelf",
+    "orientation": "right",
+    "rotation": 0.0,
+    "position": [
+      -1.0606602164833028,
+      1.0606601270763378
+    ],
+    "intrinsic_relation": "right",
+    "intrinsic_caption": "From the bookshelf's perspective, the violin is to the right of it."
+  },
+  "figure_object": {
+    "name": "violin",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      1.0606602164833028,
+      -1.0606601270763378
+    ]
+  },
+  "translational_relation_caption": "The violin is behind the bookshelf.",
+  "reflectional_relation_caption": "The violin is in front of the bookshelf."
+}

@@ -1,0 +1,109 @@
+# Experiment-tuning constants for the spatial/ pipeline, pulled out of the .py files so
+# they can be read/edited in one place instead of hunting through 9 scripts. Each .py
+# file that used to hardcode one of these values now loads it from here at import time
+# and keeps the SAME module-level constant name (e.g. triplet_pipeline.PURITY_THRESH) --
+# so every existing call site (cxp.PURITY_THRESH, ss.LAYER, ...) still works unchanged.
+# Paths built from the file's own directory (DATA/RESULTS/PLOTS) stay in Python, since
+# they aren't meaningfully "configurable" -- everything here is a tunable number/label.
+
+models:
+  default: qwen3vl
+  configs:
+    qwen3vl:
+      model_id: Qwen/Qwen3-VL-8B-Instruct
+      model_class: Qwen3VLForConditionalGeneration
+      num_hidden_states: 37
+      d: 4096
+      suffix: ""
+    llava:
+      model_id: llava-hf/llava-1.5-7b-hf
+      model_class: LlavaForConditionalGeneration
+      num_hidden_states: 33
+      d: 4096
+      suffix: "_llava"
+    qwen2:
+      model_id: Qwen/Qwen2-VL-7B-Instruct
+      model_class: Qwen2VLForConditionalGeneration
+      num_hidden_states: 29
+      d: 3584
+      suffix: "_qwen2"
+  prompt: "Where is {obj} located relative to {other}?"
+
+axis_pipeline:
+  aug1_shapes: [sphere, cube, cylinder, cone]
+  aug1_colors: [red, blue, green, yellow, purple, orange]
+  aug1_seed: {horizontal: 3042, vertical: 4042, closefar: 5042}
+  aug1_n_scenes: 60
+  heatmap_layer: 25
+
+axis_steering:
+  layer: 25
+  n_items: 60
+  seed: 7
+  axis_key: {horizontal: x, vertical: y, closefar: z}
+  posword: {horizontal: "to the right", vertical: "higher up in real-world 3D", closefar: "closer to the camera"}
+
+cross_axis_analysis:
+  default_layer: 25
+  k_permtest: 1000
+  seed: 0
+  k_rand: 500
+  seed_rand: 1
+  report_layers_8: [1, 5, 10, 15, 20, 25, 30, 36]
+
+cross_axis_alignment:
+  k_permtest: 1000
+  seed: 0
+  report_layers_frac: [0.0, 0.14, 0.28, 0.42, 0.57, 0.71, 0.85, 1.0]
+  model_display:
+    qwen3vl: Qwen3-VL-8B-Instruct
+    qwen2: Qwen2-VL-7B-Instruct
+    llava: LLaVA-1.5-7B-hf
+  ext_axis_flip: [closefar]  # axes needing a sign flip when borrowed from an external dataset
+
+cross_axis_readout_vqa:
+  default_layer: 25
+  axis_question_phrase:
+    horizontal: "more to the right"
+    vertical: "higher up"
+    closefar: "farther from the camera"
+
+cross_dataset_analysis:
+  layer: 25
+
+diffimage_steering:
+  donor_offset: 17  # donor_idx = (scene_idx + donor_offset) % n_scenes, a deterministic
+                     # different-scene pairing (see ours/binding's shuffled_scene_idx())
+
+sameaxis_4way:
+  seed: 777
+
+diffpair_steering:
+  layer: 25
+  n_items: 40
+  seed: 7
+  pos_phrase:
+    horizontal: "more to the right"
+    vertical: "higher up"
+    closefar: "farther from the camera (more towards the back)"
+
+triplet_pipeline:
+  purity_thresh: 0.85     # |cos| >= 0.85 <=> leg within ~31.8 deg of the target axis
+  min_diag_len: 0.5       # minimum ||A->C|| in the (horizontal,closefar) plane, world units
+  clevr:
+    n_per_config: 250
+    seed: 42
+  triplet3ax:
+    n_per_config: 60
+    obj_size: 0.8
+    leg_len: {horizontal: [1.2, 2.0], closefar: [1.2, 2.0], vertical: [1.1, 1.6]}
+    off_jitter: 0.22       # perpendicular jitter half-width -- purity stays well above 0.85
+                           # even for the shortest leg (vertical, 1.1): 1.1/sqrt(1.1^2+0.22^2)=0.981
+    min_dist_3d: 1.05      # overlap guard, matches triplet3ax_stimuli.py's convention
+  sameaxis:
+    n_per_axis: 60
+    seed: {horizontal: 3042, vertical: 3142, closefar: 3242}
+    x_jitter: 1.4
+    x_jitter_closefar: 1.9  # wider -- closefar objects get stratified X lanes (sameaxis_closefar_lanes)
+    min_gap_axis: {horizontal: 1.15, vertical: 0.55, closefar: 1.3}
+    d_gap: 0.3              # min gap from A/C when forcing the distractor outside [A,C]
