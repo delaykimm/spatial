@@ -1,0 +1,34 @@
+{
+  "image_index": 0,
+  "image_filename": "puma_front_chair.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "chair",
+    "orientation": "behind",
+    "rotation": 0.0,
+    "position": [
+      -1.0606602164833028,
+      1.0606601270763378
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the chair's perspective, the puma is behind it."
+  },
+  "figure_object": {
+    "name": "puma",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      1.0606602164833028,
+      -1.0606601270763378
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the puma's perspective, the chair is behind it."
+  },
+  "translational_relation_caption": "The puma is behind the chair.",
+  "reflectional_relation_caption": "The puma is in front of the chair."
+}

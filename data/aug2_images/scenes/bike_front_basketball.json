@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "bike_front_basketball.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "basketball",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      -5.303301082416514,
+      5.303300635381689
+    ]
+  },
+  "figure_object": {
+    "name": "bike",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      5.303301082416514,
+      -5.303300635381689
+    ],
+    "intrinsic_relation": "behind",
+    "intrinsic_caption": "From the bike's perspective, the basketball is behind it."
+  },
+  "translational_relation_caption": "The bike is behind the basketball.",
+  "reflectional_relation_caption": "The bike is in front of the basketball."
+}

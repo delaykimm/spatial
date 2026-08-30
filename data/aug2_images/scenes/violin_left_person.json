@@ -1,0 +1,32 @@
+{
+  "image_index": 0,
+  "image_filename": "violin_left_person.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "person",
+    "orientation": "left",
+    "rotation": 0.0,
+    "position": [
+      1.0606601717798212,
+      1.0606601717798212
+    ],
+    "intrinsic_relation": "front",
+    "intrinsic_caption": "From the person's perspective, the violin is in front of it."
+  },
+  "figure_object": {
+    "name": "violin",
+    "orientation": null,
+    "rotation": 0.0,
+    "position": [
+      -1.0606601717798212,
+      -1.0606601717798212
+    ]
+  },
+  "translational_relation_caption": "The violin is to the left of the person.",
+  "reflectional_relation_caption": "The violin is to the left of the person."
+}

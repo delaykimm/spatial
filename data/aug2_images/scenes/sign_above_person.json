@@ -1,0 +1,30 @@
+{
+  "image_index": 0,
+  "image_filename": "sign_above_person.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "person",
+    "orientation": "left",
+    "rotation": 0.0,
+    "position": [
+      0.0,
+      0.0
+    ]
+  },
+  "figure_object": {
+    "name": "sign",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      0.0,
+      0.0
+    ]
+  },
+  "translational_relation_caption": "The sign is below the person.",
+  "reflectional_relation_caption": "The sign is above the person."
+}

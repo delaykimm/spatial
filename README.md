@@ -8,7 +8,21 @@ VLM(Qwen3-VL 등)의 공간 방향(좌우/상하/원근) 표상을 추출·분�
 pip install -r requirements.txt
 ```
 
-`data/`에 필요한 이미지/manifest가 이미 다 들어있어서 별도 다운로드 없이 바로 실행 가능. `results/`는 GPU로 재생성되는 출력물(비어있어도 됨).
+`data/`에 필요한 이미지/manifest 대부분이 들어있거나 코드로 재현 가능하지만, **`whatsup_a/`, `whatsup_b/`, `spatialtunnel_images/`, CLEVR 데이터셋(→ `clevr_cross_axis_images/`)은 이 repo에 없고 재현 코드도 없어서 별도로 직접 다운로드해야 함** (자세한 내용은 아래 표 참고). `results/`는 GPU로 재생성되는 출력물(비어있어도 됨).
+
+`data/` 하위 이미지셋의 재현 가능 여부 (재현 코드는 전부 `reproduce_datasets/`에 정리돼있음 — 자세한 내용은 그 폴더의 README 참고):
+
+| 데이터셋 | 재현 코드 | 비고 |
+|---|---|---|
+| `triplet3ax_cross_axis_images` | `reproduce_datasets/generate_triplet3ax.py` | matplotlib만 필요, 외부 의존성 없음 |
+| `sameaxis_images` | `reproduce_datasets/generate_sameaxis.py` | 위와 동일 |
+| `aug1_images` | `reproduce_datasets/generate_aug1.py` | 위와 동일. 원본과 픽셀 단위로 동일하게 재현됨 (검증됨) |
+| `aug2_images` | `reproduce_datasets/generate_aug2.py` | **전달한 데이터셋 직접 사용** (99MB인데 Blender+FORG3D+GPU 새로 설치가 더 큰 비용) — 스크립트는 provenance 기록용 |
+| `clevr_cross_axis_images` | `reproduce_datasets/fetch_clevr_images.py` | **직접 다운로드 필요**: 실제 CLEVR 사진이라 코드 생성 불가 — [공식 CLEVR v1.0](https://cs.stanford.edu/people/jcjohns/clevr/) 다운로드 후 필요한 496장만 필터링 |
+| `whatsup_a`, `whatsup_b` | 없음 | **직접 다운로드 필요**: What'sUp 벤치마크 실촬영 사진, 이 repo엔 재현 코드가 없어서 공식 배포처에서 직접 받아와야 함 |
+| `spatialtunnel_images` | 없음 | **직접 다운로드 필요**: `contrastive-probing`의 tsv에서 한 번 추출된 것, 이 repo엔 추출 스크립트가 없어서 원본을 직접 구해와야 함 |
+
+(`triplet_pipeline.py`도 triplet3ax/sameaxis를 만들 수 있지만 그건 hidden-state 추출까지 한 번에 하는 실행 파이프라인 안에서임 — `reproduce_datasets/`는 그 생성 로직만 떼어내 다른 아무 의존성 없이 이미지만 재현하도록 정리한 버전.)
 
 ## 각 파일 설명
 
@@ -25,6 +39,9 @@ pip install -r requirements.txt
 | `diffpair_steering.py` | 같은 이미지, 다른 pair 벡터를 주입해도 causal하게 작동하는지 |
 | `diffimage_steering.py` | 다른 이미지, 같은 관계(pair) 벡터를 주입해도 causal하게 작동하는지 |
 | `sameaxis_4way_readout_vqa.py` | sameaxis에서 A/B/C/D 4개 중 극값(제일 왼쪽 등) 찾기 readout vs VQA |
+| `chain_hop_pipeline.py` | N-hop 랜덤워크 체인(A→B→C→...→Z, 한 축 위, 각 hop 부호 랜덤) **렌더링** + hidden state 추출 |
+| `clevr_chain_pipeline.py` | 위와 같은 체인을 **실제 CLEVR 사진에서** 장면당 임의 N개 오브젝트/랜덤 순서로 구성 (렌더링 없음, horizontal/closefar 2축만) + hidden state 추출 |
+| `chain_hop_readout_vqa.py` | hop 수(2~6)별로 latent computation(Σc_i,i+1 축 투영 sign) vs MLLM generation(VQA) 정확도 비교, hop-accuracy 플롯 생성. `--source {synthetic,clevr}`로 위 두 백엔드 중 선택 |
 
 ## 데이터셋 (`--dataset`)
 
@@ -69,6 +86,21 @@ python sameaxis_4way_readout_vqa.py --model qwen3vl
   import cross_axis_alignment as cag
   cag.draw_composition_grounding_joint_plot("clevr")   # 그림 1장 생성
   ```
+
+**5) hop 수에 따른 latent computation vs MLLM generation** (위 1~4번과 독립, 두 백엔드 중 택1)
+
+- **synthetic** (`chain_hop_pipeline.py`): 렌더링으로 새로 생성, 한 축 위 랜덤워크 체인(hop=2~6), 3축(horizontal/vertical/closefar) 전부 지원
+  ```
+  python chain_hop_pipeline.py --model qwen3vl
+  python chain_hop_readout_vqa.py --model qwen3vl
+  ```
+- **clevr** (`clevr_chain_pipeline.py`): 렌더링 없이 실제 CLEVR val 15,000장 메타데이터(`data/clevr_val_scenes.json`, 이미 포함됨)에서 장면당 임의 N개 오브젝트를 랜덤 순서로 뽑아 체인 구성. horizontal/closefar 2축만 지원(CLEVR엔 vertical 위치 변화가 없음). 최초 1회만 로컬 CLEVR val 이미지 폴더 경로 필요
+  ```
+  python clevr_chain_pipeline.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --model qwen3vl
+  python chain_hop_readout_vqa.py --model qwen3vl --source clevr
+  ```
+
+`results/plot/readout_vqa/[clevr_]chain_hop_accuracy_by_hops_{model}.png`가 x축=hop 수, y축=정확도인 메인 플롯 (축별 breakdown은 `..._by_axis_{model}.png`). hop/seed/step 크기 등은 `config.yaml`의 `chain_hop`/`clevr_chain_hop` 섹션에서 조정.
 
 ## 참고
 

@@ -107,3 +107,64 @@ triplet_pipeline:
     x_jitter_closefar: 1.9  # wider -- closefar objects get stratified X lanes (sameaxis_closefar_lanes)
     min_gap_axis: {horizontal: 1.15, vertical: 0.55, closefar: 1.3}
     d_gap: 0.3              # min gap from A/C when forcing the distractor outside [A,C]
+
+chain_hop:
+  # N-hop random-walk chains on ONE axis (A->B->C->...), for hat_c_AZ = sum(c_i,i+1) vs
+  # direct VQA on the endpoints, swept over hop count -- see chain_hop_pipeline.py.
+  # horizontal/closefar only -- vertical's world range (Z_LO/Z_HI, span 2.3) is too narrow
+  # to fit up to 7 well-separated objects (hop=6) without either losing single-axis purity
+  # or overlapping; horizontal (span 5.0) and closefar (span 7.7) have enough room. Matches
+  # clevr_chain_pipeline.py's 2-axis restriction, so both backends test the same 2 axes.
+  hops: [2, 3, 4, 5, 6]
+  n_scenes_per_hop: 40
+  seed: {horizontal: 9042, closefar: 9242}
+  step_range:              # per-hop step length (world units), before random +/- sign --
+                            # must clear obj_min_dist_3d on its own (off-axis jitter is
+                            # deliberately small, see off_jitter, so it can't rescue a too-
+                            # short step the way it accidentally used to)
+    horizontal: [0.65, 1.0]
+    closefar: [0.95, 1.5]
+  off_jitter: 0.3          # small perpendicular wobble (shared base +/- this), NOT
+                            # sameaxis_world_pos's wide independent-per-object range --
+                            # that used to swamp the (smaller) on-axis hop signal with
+                            # irrelevant depth/position noise
+  obj_size: 0.5            # smaller than triplet3ax's 0.8 -- leaves enough room for hop=6
+                            # (7 objects) inside horizontal/closefar's world bounds
+  obj_min_dist_3d: 0.68    # overlap guard, scaled down from triplet_pipeline.MIN_DIST_3D
+                            # (1.05) to match this module's smaller obj_size
+  min_net_disp_frac: 0.5  # min |scalar[-1]-scalar[0]| as a fraction of one step's min length --
+                            # keeps the endpoint relation from being a near-zero coin-flip
+  default_layer: 25
+
+clevr_chain_hop:
+  # same hat_c_AZ = sum(c_i,i+1) hop-count sweep, but chains are MINED from real CLEVR
+  # photos (data/clevr_val_scenes.json's full 15,000-scene metadata) instead of rendered.
+  # No collinearity/purity requirement -- A..Z is just N random objects from the scene in
+  # random order (the additive-composition question doesn't need each leg to be pure along
+  # one axis, only that the final A-vs-Z relation along that axis is non-trivial). Only 2
+  # axes (CLEVR has no vertical position variation, same restriction as
+  # triplet_pipeline.py's clevr triplets).
+  hops: [2, 3, 4, 5, 6]
+  n_scenes_per_hop: 40
+  seed: {horizontal: 8042, closefar: 8242}
+  min_diag_len: 0.5       # min |scalar_last - scalar_first| -- same threshold as triplet_pipeline.MIN_DIAG_LEN
+
+multihop_referring:
+  # GENUINE multi-hop MLLM generation test: the model must resolve a nested referring
+  # expression ("the object right of the object left of ... A") to find Z, then tell it
+  # apart from Y (one hop short) -- unlike chain_hop's direct "is Z more right than A?",
+  # which never forces the model off a 2-object shortcut. Needs objects at SORTED, gapped
+  # scalars (so "next object in that direction" is unambiguous) -- see
+  # multihop_referring_pipeline.py.
+  hops: [2, 3, 4, 5, 6]
+  n_scenes_per_hop: 40
+  seed: {horizontal: 10042, closefar: 10242}
+  min_gap: {horizontal: 0.65, closefar: 0.95}  # min gap between adjacent-rank scalars
+  off_jitter: 0.3
+  obj_size: 0.5
+  obj_min_dist_3d: 0.68
+  dir_phrase:
+    horizontal: {"+": "to the right of", "-": "to the left of"}
+    closefar: {"+": "behind", "-": "in front of"}
+  default_layer: 25
+  seed_vqa: 13  # randomizes which slot (A/B) holds the true Z vs the Y distractor, per item

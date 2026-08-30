@@ -4,3 +4,5 @@ results/
 data/whatsup_a/
 data/whatsup_b/
 data/spatialtunnel_images/
+data/clevr_val_scenes.json
+*.pngdata/*_images/

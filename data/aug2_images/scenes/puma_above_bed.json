@@ -1,0 +1,30 @@
+{
+  "image_index": 0,
+  "image_filename": "puma_above_bed.png",
+  "camera": {
+    "tilt": 85.0,
+    "pan": 45.0,
+    "height": 2.0,
+    "focal_length": 60.0
+  },
+  "ground_object": {
+    "name": "bed",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      0.0,
+      0.0
+    ]
+  },
+  "figure_object": {
+    "name": "puma",
+    "orientation": "front",
+    "rotation": 0.0,
+    "position": [
+      0.0,
+      0.0
+    ]
+  },
+  "translational_relation_caption": "The puma is below the bed.",
+  "reflectional_relation_caption": "The puma is above the bed."
+}
