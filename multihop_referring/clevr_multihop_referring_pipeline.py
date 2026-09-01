@@ -11,10 +11,11 @@ picks N random objects from a scene and SORTS them by their real axis coordinate
 using real (already-scattered) CLEVR positions instead of a controlled sorted layout.
 
 Usage:
-    python clevr_multihop_referring_pipeline.py --model qwen3vl
+    python multihop_referring/clevr_multihop_referring_pipeline.py --model qwen3vl
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

@@ -20,15 +20,16 @@ Both expose the same interface (AXES, HOPS, CHAIN_IMAGES_DIR, chain_hop_load_or_
 chain_shard_out_path, extract_chain), so every function below is backend-agnostic.
 
 Run first:
-    python chain_hop_pipeline.py --model {model}            # or: python clevr_chain_pipeline.py ...
+    python chain_hop/chain_hop_pipeline.py --model {model}            # or: python chain_hop/clevr_chain_pipeline.py ...
 
 Usage:
-    python chain_hop_readout_vqa.py --model qwen3vl
-    python chain_hop_readout_vqa.py --model qwen3vl --source clevr
-    python chain_hop_readout_vqa.py --model qwen3vl --vqa-limit 5   (quick correctness check)
+    python chain_hop/chain_hop_readout_vqa.py --model qwen3vl
+    python chain_hop/chain_hop_readout_vqa.py --model qwen3vl --source clevr
+    python chain_hop/chain_hop_readout_vqa.py --model qwen3vl --vqa-limit 5   (quick correctness check)
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 

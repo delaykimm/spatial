@@ -19,11 +19,12 @@ Donor assignment: deterministic offset pairing within same-(axis,pair) pools
 image's vector, not one fixed donor.
 
 Usage:
-    python diffimage_steering.py --dataset sameaxis --model qwen3vl
-    python diffimage_steering.py --dataset clevr --model qwen3vl
+    python steering/diffimage_steering.py --dataset sameaxis --model qwen3vl
+    python steering/diffimage_steering.py --dataset clevr --model qwen3vl
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import random
 from collections import defaultdict

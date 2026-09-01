@@ -13,11 +13,12 @@ SAME DIRECTION as the REAL physical displacement, on every one of this dataset's
   re-rendering).
 
 Usage:
-    python cross_axis_alignment.py --dataset clevr
-    python cross_axis_alignment.py --dataset triplet3ax --model llava
+    python analysis/cross_axis_alignment.py --dataset clevr
+    python analysis/cross_axis_alignment.py --dataset triplet3ax --model llava
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 
 import numpy as np

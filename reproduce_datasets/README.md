@@ -76,7 +76,7 @@ CLEVR은 실제 렌더링된 사진(Johnson et al., CLEVR v1.0)이라 이 repo�
 
 ## 왜 `triplet_pipeline.py`랑 따로 있나
 
-`spatial/triplet_pipeline.py`도 triplet3ax/sameaxis를 만들 수 있지만, 그건 "이미지 생성 →
+`spatial/core/triplet_pipeline.py`도 triplet3ax/sameaxis를 만들 수 있지만, 그건 "이미지 생성 →
 바로 hidden-state 추출"까지 한 번에 처리하는 855줄짜리 실행 파이프라인의 일부임(모델 로딩,
 axis_pipeline.py 등 여러 모듈에 의존). 여기 있는 버전은 **이미지 생성 로직만** 떼어내서
 다른 어떤 실험 코드에도 의존하지 않게 만든 것 — "이 데이터셋이 어떻게 만들어지는가"만 보고

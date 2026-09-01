@@ -9,6 +9,9 @@ the 4 datasets (What'sUp/SpatialTunnel/Aug1/Aug2), at LAYER=25:
 
 Run axis_pipeline.py and axis_steering.py for all 4 datasets first.
 """
+import sys, os
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import numpy as np
 
 import axis_pipeline as ap
@@ -119,7 +122,7 @@ STEERING_DATASETS = [
 
 def load_steering_results():
     """Returns {dataset: npz} from axis_steering.py's output -- run that script for all 4
-    datasets first (python axis_steering.py --dataset {name})."""
+    datasets first (python steering/axis_steering.py --dataset {name})."""
     return {name: np.load(f"{RESULTS}/steering/{name}_global_axis_steering.npz") for name, _, _ in STEERING_DATASETS}
 
 

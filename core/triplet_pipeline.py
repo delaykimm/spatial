@@ -20,12 +20,13 @@ Extraction (same prompt/method as axis_pipeline.object_nodes_alllayers, all laye
 Each leg is its own forward pass, so r_AB + r_BC == r_AC is a real, falsifiable test.
 
 Usage:
-    python triplet_pipeline.py --dataset clevr
-    python triplet_pipeline.py --dataset triplet3ax --model llava
-    python triplet_pipeline.py --dataset sameaxis
+    python core/triplet_pipeline.py --dataset clevr
+    python core/triplet_pipeline.py --dataset triplet3ax --model llava
+    python core/triplet_pipeline.py --dataset sameaxis
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

@@ -12,10 +12,11 @@ candidate extremum, not a free win for A/C.
   the model can't learn a positional shortcut.
 
 Usage:
-    python sameaxis_4way_readout_vqa.py --model qwen3vl
+    python analysis/sameaxis_4way_readout_vqa.py --model qwen3vl
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

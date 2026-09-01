@@ -6,10 +6,10 @@ datasets from a VLM's hidden states, + a within-dataset 6x6 cosine sanity-check 
 - Needs spatial/data/: whatsup_a/b, spatialtunnel_images+metadata.csv, aug1_images,
   aug2_images+render_manifest_disjoint.json
 
-Usage:
-    python axis_pipeline.py --dataset whatsup                          # extract+merge+heatmap
-    python axis_pipeline.py --dataset whatsup --shard 0 --num-shards 8 # shard N of 8 (last one auto-merges)
-    python axis_pipeline.py --heatmap-only                             # redraw from what's already merged
+Usage (from anywhere -- paths below are relative to the repo root):
+    python core/axis_pipeline.py --dataset whatsup                          # extract+merge+heatmap
+    python core/axis_pipeline.py --dataset whatsup --shard 0 --num-shards 8 # shard N of 8 (last one auto-merges)
+    python core/axis_pipeline.py --heatmap-only                             # redraw from what's already merged
 """
 import argparse
 import glob
@@ -27,8 +27,9 @@ import yaml
 from PIL import Image
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(_HERE, "data")        # static input data (images, manifests)
-RESULTS = os.path.join(_HERE, "results")  # pipeline outputs (shards, axis vectors, npz/json)
+_ROOT = os.path.dirname(_HERE)            # this file lives in core/, one level below the repo root
+DATA = os.path.join(_ROOT, "data")        # static input data (images, manifests)
+RESULTS = os.path.join(_ROOT, "results")  # pipeline outputs (shards, axis vectors, npz/json)
 PLOTS = os.path.join(RESULTS, "plot")     # every analysis PNG plot lives here, separate from
                                            # the data files (npz/json) alongside it in RESULTS
 os.makedirs(PLOTS, exist_ok=True)
@@ -37,7 +38,7 @@ os.makedirs(PLOTS, exist_ok=True)
 # config.yaml. CFG is the loaded dict; every module that imports axis_pipeline reads its
 # own section into plain module-level constants, so call sites (e.g. cxp.PURITY_THRESH)
 # are unaffected by where the value actually comes from.
-with open(f"{_HERE}/config.yaml") as _f:
+with open(f"{_ROOT}/config.yaml") as _f:
     CFG = yaml.safe_load(_f)
 
 

@@ -8,10 +8,11 @@ Axis units are recomputed (CPU only) from the already-extracted clevr triplet sh
 pairs are independent of that shard, so no leakage concern).
 
 Usage:
-    python random_pair_alignment.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --n 500 --model qwen3vl
+    python analysis/random_pair_alignment.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --n 500 --model qwen3vl
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

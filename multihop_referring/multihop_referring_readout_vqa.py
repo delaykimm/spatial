@@ -14,15 +14,16 @@ Two interchangeable backends (--source): synthetic (multihop_referring_pipeline.
 rendered) / clevr (clevr_multihop_referring_pipeline.py, mined from real CLEVR photos).
 
 Run first:
-    python multihop_referring_pipeline.py --model {model}
-    # or: python clevr_multihop_referring_pipeline.py --model {model}
+    python multihop_referring/multihop_referring_pipeline.py --model {model}
+    # or: python multihop_referring/clevr_multihop_referring_pipeline.py --model {model}
 
 Usage:
-    python multihop_referring_readout_vqa.py --model qwen3vl
-    python multihop_referring_readout_vqa.py --model qwen3vl --source clevr
+    python multihop_referring/multihop_referring_readout_vqa.py --model qwen3vl
+    python multihop_referring/multihop_referring_readout_vqa.py --model qwen3vl --source clevr
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

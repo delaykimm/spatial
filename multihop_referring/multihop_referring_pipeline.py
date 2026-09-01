@@ -18,11 +18,12 @@ renderer -- only the placement (sorted ranks, not a free walk) and the traversal
 RANKS, not on world-coordinate steps) differ.
 
 Usage:
-    python multihop_referring_pipeline.py --model qwen3vl
-    python multihop_referring_pipeline.py --render-only
+    python multihop_referring/multihop_referring_pipeline.py --model qwen3vl
+    python multihop_referring/multihop_referring_pipeline.py --render-only
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

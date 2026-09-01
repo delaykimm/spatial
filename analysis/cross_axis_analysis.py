@@ -9,15 +9,16 @@
       real axis sits, the honest "is this axis actually special" number).
 
 Run first:
-    python triplet_pipeline.py --dataset {dataset} --model {model}
-    python axis_pipeline.py --dataset {whatsup,spatialtunnel,aug1,aug2} --model {model}  # needed for view B
+    python core/triplet_pipeline.py --dataset {dataset} --model {model}
+    python core/axis_pipeline.py --dataset {whatsup,spatialtunnel,aug1,aug2} --model {model}  # needed for view B
 
 Usage:
-    python cross_axis_analysis.py --dataset clevr
-    python cross_axis_analysis.py --dataset triplet3ax --model llava --layer 20
+    python analysis/cross_axis_analysis.py --dataset clevr
+    python analysis/cross_axis_analysis.py --dataset triplet3ax --model llava --layer 20
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 from collections import defaultdict
 

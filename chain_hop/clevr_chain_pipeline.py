@@ -19,12 +19,13 @@ folder to copy referenced images from the first time (same requirement as
 reproduce_datasets/fetch_clevr_images.py).
 
 Usage:
-    python clevr_chain_pipeline.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --model qwen3vl
-    python clevr_chain_pipeline.py --model qwen3vl              # once images are already copied
-    python clevr_chain_pipeline.py --clevr-val-dir ... --render-only   # search + copy only, no GPU
+    python chain_hop/clevr_chain_pipeline.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --model qwen3vl
+    python chain_hop/clevr_chain_pipeline.py --model qwen3vl              # once images are already copied
+    python chain_hop/clevr_chain_pipeline.py --clevr-val-dir ... --render-only   # search + copy only, no GPU
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

@@ -14,12 +14,13 @@ instead of sorted-and-forced-distractor) and the object count (variable, not fix
 differ.
 
 Usage:
-    python chain_hop_pipeline.py                       # render (if needed) + extract, all axes/hops
-    python chain_hop_pipeline.py --model llava
-    python chain_hop_pipeline.py --render-only          # just (re)build images + manifest, no GPU
+    python chain_hop/chain_hop_pipeline.py                       # render (if needed) + extract, all axes/hops
+    python chain_hop/chain_hop_pipeline.py --model llava
+    python chain_hop/chain_hop_pipeline.py --render-only          # just (re)build images + manifest, no GPU
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random

@@ -43,6 +43,12 @@ axis_steering:
   axis_key: {horizontal: x, vertical: y, closefar: z}
   posword: {horizontal: "to the right", vertical: "higher up in real-world 3D", closefar: "closer to the camera"}
 
+spatial_rope_steering:
+  layer: 25       # rotate each object's own token span in this layer's OUTPUT (feeds layer+1 onward)
+  n_items: 60
+  seed: 7
+  companion_seed: 20260901  # fixed seed for the rotation-plane companion vector (reproducible across runs)
+
 cross_axis_analysis:
   default_layer: 25
   k_permtest: 1000

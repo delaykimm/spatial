@@ -12,12 +12,13 @@ Both share axis_steering.py's steering machinery and output schema, so results a
 directly comparable across dataset families.
 
 Usage:
-    python diffpair_steering.py --dataset sameaxis --model qwen3vl
-    python diffpair_steering.py --dataset clevr --model qwen3vl
-    python diffpair_steering.py --dataset triplet3ax --model llava
+    python steering/diffpair_steering.py --dataset sameaxis --model qwen3vl
+    python steering/diffpair_steering.py --dataset clevr --model qwen3vl
+    python steering/diffpair_steering.py --dataset triplet3ax --model llava
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import random
 from collections import defaultdict

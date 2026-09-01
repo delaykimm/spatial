@@ -6,10 +6,11 @@ answer flips toward '+'. Every item uses the SAME pooled vector -- no own-direct
 Reuses axis_pipeline.py's model loading + per-dataset item loaders; only the
 steering-specific bits (hook injection, 2-choice generation) live here.
 
-Usage: python axis_steering.py --dataset {whatsup,spatialtunnel,aug1,aug2}
+Usage: python steering/axis_steering.py --dataset {whatsup,spatialtunnel,aug1,aug2}
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root, one level above this file's subfolder
+sys.path[:0] = [os.path.join(_ROOT, d) for d in ("core", "analysis", "steering", "chain_hop", "multihop_referring")]
 import argparse
 import json
 import random
