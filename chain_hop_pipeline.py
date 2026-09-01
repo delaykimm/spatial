@@ -44,12 +44,6 @@ OBJ_SIZE = _CFG["obj_size"]
 MIN_DIST_3D = _CFG["obj_min_dist_3d"]
 MIN_NET_DISP_FRAC = _CFG["min_net_disp_frac"]
 
-# triplet_pipeline._render_scene() draws every object at ITS OWN module-level OBJ_SIZE
-# (0.8, not a parameter) -- override it so the actual rendering matches the smaller size
-# our own overlap check (MIN_DIST_3D above) assumes. Safe: this process only ever renders
-# chain_hop scenes, never triplet3ax/sameaxis ones that'd want the original 0.8.
-cxp.OBJ_SIZE = OBJ_SIZE
-
 CHAIN_IMAGES_DIR = f"{ap.DATA}/chain_hop_images"
 CHAIN_MANIFEST_PATH = f"{ap.DATA}/chain_hop_manifest.json"
 CHAIN_SHARD_BASE = f"{ap.RESULTS}/shards/chain_hop_shard.npz"
@@ -148,7 +142,7 @@ def chain_hop_build_manifest():
             scenes_out = []
             for idx in range(N_SCENES_PER_HOP):
                 objs = chain_build_scene(axis, n_objects, rng, min_step, max_step, min_net_disp)
-                fname = cxp._render_scene(f"{axis}_hop{hops}", idx, objs, img_dir)
+                fname = cxp._render_scene(f"{axis}_hop{hops}", idx, objs, img_dir, obj_size=OBJ_SIZE)
                 scenes_out.append({
                     "image_path": fname, "axis": axis, "hops": hops,
                     "labels": [o["label"] for o in objs],

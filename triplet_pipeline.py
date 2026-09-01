@@ -424,7 +424,10 @@ def t3ax_build_scene(config, idx, rng):
             {"label": "C", "shape": combos[2][0], "color": combos[2][1], "x": c_pos[0], "y": c_pos[1], "z_base": c_pos[2]},
         ]
         d_pos = _base_point(axes_used, rng)  # same fixed-3rd-axis convention as A/B/C
-        d_pos[AXIS_DIM[axis1]] = rng.uniform(*_bounds(axis1)) if axis1 in axes_used else d_pos[AXIS_DIM[axis1]]
+        # axis1/axis2 are always axes_used's own 2 members by construction, so both get
+        # resampled freely across their full range (unlike the base point above, which
+        # only samples them from a shrunk mid-range).
+        d_pos[AXIS_DIM[axis1]] = rng.uniform(*_bounds(axis1))
         d_pos[AXIS_DIM[axis2]] = rng.uniform(*_bounds(axis2))
         objs.append({"label": "D", "shape": combos[3][0], "color": combos[3][1], "x": d_pos[0], "y": d_pos[1], "z_base": d_pos[2]})
 
@@ -443,13 +446,17 @@ def t3ax_build_scene(config, idx, rng):
     raise RuntimeError(f"could not place L-shaped scene config={config} idx={idx}")
 
 
-def _render_scene(tag, idx, objs, out_dir):
-    """Shared by t3ax/sameaxis: draw all objects into one new 3D scene and save it as
-    '{tag}_{idx:03d}.png' (tag = config name for triplet3ax, axis name for sameaxis)."""
-    exclude = [(o["x"], o["y"], 0.0, OBJ_SIZE / 1.6) for o in objs]
+def _render_scene(tag, idx, objs, out_dir, obj_size=OBJ_SIZE):
+    """Shared by t3ax/sameaxis/chain_hop/multihop_referring: draw all objects into one new
+    3D scene and save it as '{tag}_{idx:03d}.png' (tag = config name for triplet3ax, axis
+    name for sameaxis/chain_hop/multihop_referring). obj_size defaults to this module's own
+    (triplet3ax/sameaxis) size -- callers with a different object size (e.g. chain_hop_pipeline,
+    which needs objects small enough to fit up to 7 in one scene) pass their own explicitly,
+    instead of mutating this module's OBJ_SIZE global."""
+    exclude = [(o["x"], o["y"], 0.0, obj_size / 1.6) for o in objs]
     fig, ax = new_scene_figure(exclude_objects=exclude)
     for o in objs:
-        draw_object(ax, o["shape"], o["color"], o["x"], o["y"], o["z_base"], OBJ_SIZE)
+        draw_object(ax, o["shape"], o["color"], o["x"], o["y"], o["z_base"], obj_size)
     out_path = out_dir / f"{tag}_{idx:03d}.png"
     save_scene(fig, str(out_path))
     return out_path.name

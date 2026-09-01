@@ -48,8 +48,6 @@ OBJ_SIZE = _CFG["obj_size"]
 MIN_DIST_3D = _CFG["obj_min_dist_3d"]
 DIR_PHRASE = _CFG["dir_phrase"]     # {axis: {"+": "...", "-": "..."}}
 
-cxp.OBJ_SIZE = OBJ_SIZE  # _render_scene draws at triplet_pipeline's own module-level OBJ_SIZE
-
 CHAIN_IMAGES_DIR = f"{ap.DATA}/multihop_referring_images"
 CHAIN_MANIFEST_PATH = f"{ap.DATA}/multihop_referring_manifest.json"
 CHAIN_SHARD_BASE = f"{ap.RESULTS}/shards/multihop_referring_shard.npz"
@@ -150,7 +148,7 @@ def chain_hop_build_manifest():
             scenes_out = []
             for idx in range(N_SCENES_PER_HOP):
                 objs_by_rank, walk_ranks = build_scene(axis, hops, rng)
-                fname = cxp._render_scene(f"ref_{axis}_hop{hops}", idx, objs_by_rank, img_dir)
+                fname = cxp._render_scene(f"ref_{axis}_hop{hops}", idx, objs_by_rank, img_dir, obj_size=OBJ_SIZE)
                 phrase = referring_phrase(axis, walk_ranks, objs_by_rank)
                 z_rank, y_rank = walk_ranks[-1], walk_ranks[-2]
                 scenes_out.append({

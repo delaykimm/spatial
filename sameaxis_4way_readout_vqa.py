@@ -51,10 +51,12 @@ unit = ap.unit  # canonical L2-normalize now lives in axis_pipeline.py
 # =============================================================================
 def sameaxis_own_axis_vectors(shard, axes):
     out = {}
-    for axis_name in axes:
+    for ax_i, axis_name in enumerate(axes):
         keys = [str(k) for k in shard["keys"] if str(k).startswith(f"{axis_name}|")]
         n = len(keys)
-        rng = random.Random(hash(axis_name) & 0xFFFFFFFF)
+        rng = random.Random(SEED + ax_i)  # deterministic per-axis seed -- NOT hash(axis_name),
+                                           # which is randomized per-process (PYTHONHASHSEED)
+                                           # and would make this group split irreproducible
         idxs = list(range(n))
         rng.shuffle(idxs)
         half = n // 2

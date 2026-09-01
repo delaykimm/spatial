@@ -8,7 +8,7 @@ Axis units are recomputed (CPU only) from the already-extracted clevr triplet sh
 pairs are independent of that shard, so no leakage concern).
 
 Usage:
-    python random_pair_alignment.py --n 500 --model qwen3vl
+    python random_pair_alignment.py --clevr-val-dir /path/to/CLEVR_v1.0/images/val --n 500 --model qwen3vl
 """
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -22,8 +22,6 @@ from PIL import Image
 import axis_pipeline as ap
 import triplet_pipeline as cxp
 import cross_axis_analysis as caa
-
-CLEVR_VAL_IMAGES_DIR = "/node_data/urp26su_jiyun/dataset/CLEVR/CLEVR_v1.0/images/val"
 
 
 def build_axis_units():
@@ -61,6 +59,7 @@ def real_displacement(s, objA, objB):
 
 def main():
     cli = argparse.ArgumentParser()
+    cli.add_argument("--clevr-val-dir", required=True, help="path to CLEVR_v1.0/images/val/")
     cli.add_argument("--n", type=int, default=500)
     cli.add_argument("--model", choices=ap.MODELS, default=ap.DEFAULT_MODEL)
     cli.add_argument("--seed", type=int, default=42)
@@ -78,7 +77,7 @@ def main():
     all_cos = np.zeros((args.n, num_l))
     img_cache = {}
     for k, (s, objA, objB) in enumerate(pairs):
-        path = os.path.join(CLEVR_VAL_IMAGES_DIR, s["image_filename"])
+        path = os.path.join(args.clevr_val_dir, s["image_filename"])
         if path not in img_cache:
             img_cache[path] = Image.open(path).convert("RGB")
             if len(img_cache) > 4:
